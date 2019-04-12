@@ -3673,7 +3673,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -5444,7 +5444,7 @@ C;X51;K600
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.75
 C;X57;K"-"
 C;X58;K1
@@ -6907,7 +6907,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -8755,7 +8755,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.4
 C;X57;K"-"
 C;X58;K1
@@ -9294,7 +9294,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"pierce"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.4
 C;X57;K"-"
 C;X58;K1
@@ -11142,7 +11142,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -12374,7 +12374,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K250
 C;X54;K"magic"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.5
 C;X57;K"-"
 C;X58;K1
@@ -12528,7 +12528,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"magic"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -13452,7 +13452,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K250
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -16763,7 +16763,7 @@ C;X51;K1000
 C;X52;K"-"
 C;X53;K250
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.8
 C;X57;K"-"
 C;X58;K1
@@ -16840,7 +16840,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K4
@@ -17687,7 +17687,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K250
 C;X54;K"magic"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.75
 C;X57;K"-"
 C;X58;K1
@@ -17995,7 +17995,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -24232,7 +24232,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K250
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.1
 C;X57;K"-"
 C;X58;K1
@@ -25695,7 +25695,7 @@ C;X51;K750
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -26157,7 +26157,7 @@ C;X51;K1500
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"magic"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K"-"
 C;X57;K"-"
 C;X58;K1
@@ -28236,7 +28236,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K250
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -28583,7 +28583,7 @@ C;X13;K10
 C;X14;K90
 C;X15;K0
 C;X16;K"_"
-C;X17;K"ground"
+C;X17;K"enemies,ground"
 C;X18;K1
 C;X19;K700
 C;X20;K"-"
@@ -28615,13 +28615,13 @@ C;X45;K"high"
 C;X46;K16
 C;X47;K26
 C;X48;K"_"
-C;X49;K"air"
+C;X49;K"air,enemies"
 C;X50;K1
 C;X51;K700
 C;X52;K"-"
 C;X53;K250
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.5
 C;X57;K"-"
 C;X58;K1
@@ -29160,7 +29160,7 @@ C;X51;K900
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.5
 C;X57;K"-"
 C;X58;K1
@@ -29622,7 +29622,7 @@ C;X51;K900
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -29776,7 +29776,7 @@ C;X51;K500
 C;X52;K"-"
 C;X53;K250
 C;X54;K"magic"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K100
@@ -30161,7 +30161,7 @@ C;X51;K900
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.5
 C;X57;K"-"
 C;X58;K1
@@ -30546,7 +30546,7 @@ C;X51;K1000
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K"-"
 C;X57;K"-"
 C;X58;K1
@@ -30623,7 +30623,7 @@ C;X51;K900
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
@@ -31162,7 +31162,7 @@ C;X51;K1000
 C;X52;K"-"
 C;X53;K250
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K3
 C;X57;K"-"
 C;X58;K1
@@ -32009,7 +32009,7 @@ C;X51;K400
 C;X52;K"-"
 C;X53;K250
 C;X54;K"magic"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.05
 C;X57;K"-"
 C;X58;K1
@@ -34011,7 +34011,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"siege"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K"-"
 C;X57;K"-"
 C;X58;K1
@@ -34935,7 +34935,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K"-"
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K"-"
 C;X57;K"-"
 C;X58;K1
@@ -36860,7 +36860,7 @@ C;X51;K800
 C;X52;K"-"
 C;X53;K250
 C;X54;K"chaos"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K0.75
 C;X57;K"-"
 C;X58;K1
@@ -38400,7 +38400,7 @@ C;X51;K700
 C;X52;K"-"
 C;X53;K250
 C;X54;K"normal"
-C;X55;K
+C;X55;K"msplash"
 C;X56;K1
 C;X57;K"-"
 C;X58;K1
