@@ -6937,6 +6937,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 Attachmentanimprops=Alternate
 
+[o01E]
+Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
+Name=Mirror Image
+EditorSuffix= (Goblin Blademaster)
+Buttonpos=,
+Attachmentanimprops=medium
+
 [o01R]
 Art=ReplaceableTextures\CommandButtons\BTNJuggernaut.blp
 Specialart=Objects\Spawnmodels\Human\HCancelDeath\HCancelDeath.mdl
