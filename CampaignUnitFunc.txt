@@ -6937,7 +6937,7 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 Attachmentanimprops=Alternate
 
-[o01E]
+[o01Q]
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
 Name=Mirror Image
 EditorSuffix= (Goblin Blademaster)
