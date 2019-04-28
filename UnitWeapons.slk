@@ -33037,7 +33037,7 @@ C;X37;K75
 C;X38;K"-"
 C;X39;K"-"
 C;X40;K"_"
-C;X41;K"-"
+C;X41;K1
 C;X42;K0
 C;X43;K0
 C;X44;K0
@@ -33069,7 +33069,7 @@ C;X69;K125
 C;X70;K"-"
 C;X71;K"-"
 C;X72;K"air,enemies"
-C;X73;K"-"
+C;X73;K1
 C;X74;K0
 C;X75;K0
 C;X76;K0
@@ -35227,7 +35227,7 @@ C;X37;K140
 C;X38;K"-"
 C;X39;K"-"
 C;X40;K"enemies,ground"
-C;X41;K"-"
+C;X41;K1
 C;X42;K0
 C;X43;K0
 C;X44;K0
@@ -35259,7 +35259,7 @@ C;X69;K180
 C;X70;K"-"
 C;X71;K"-"
 C;X72;K"air,enemies"
-C;X73;K"-"
+C;X73;K1
 C;X74;K0
 C;X75;K0
 C;X76;K0
@@ -35665,7 +35665,7 @@ C;X37;K200
 C;X38;K"-"
 C;X39;K"-"
 C;X40;K"enemies,ground"
-C;X41;K"-"
+C;X41;K1
 C;X42;K0
 C;X43;K0
 C;X44;K0
@@ -35697,7 +35697,7 @@ C;X69;K300
 C;X70;K"-"
 C;X71;K"-"
 C;X72;K"air,enemies"
-C;X73;K"-"
+C;X73;K1
 C;X74;K0
 C;X75;K0
 C;X76;K0

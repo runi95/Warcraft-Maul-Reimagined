@@ -21073,7 +21073,7 @@ C;X48;K1
 C;X49;K0
 C;X50;K0
 C;X1;Y431;K"nC50"
-C;X3;K"units\creeps\RevenantOfTheWaves\RevenantOfTheWaves.mdl"
+C;X3;K"units\creeps\satyrhellcaller\satyrhellcaller.mdl"
 C;X4;K0
 C;X5;K"Infernal"
 C;X6;K0
@@ -21092,7 +21092,7 @@ C;X18;K0
 C;X19;K0
 C;X20;K0
 C;X21;K0.15
-C;X22;K2.5
+C;X22;K2
 C;X23;K1
 C;X24;K10
 C;X25;K10
@@ -21107,7 +21107,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Stone"
-C;X37;K1.5
+C;X37;K1
 C;X38;K255
 C;X39;K255
 C;X40;K255
