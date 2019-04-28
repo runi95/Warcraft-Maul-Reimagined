@@ -7666,7 +7666,7 @@ Buttonpos=0,0
 MissileHoming=0,0
 
 [u021]
-Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
+Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
 Name=Sapling
 Buttonpos=0,0
 MissileHoming=0,0
