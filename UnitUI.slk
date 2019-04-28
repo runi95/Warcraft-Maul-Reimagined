@@ -27345,7 +27345,7 @@ C;X48;K1
 C;X49;K0
 C;X50;K0
 C;X1;Y559;K"u024"
-C;X3;K"Objects\InventoryItems\UndeadCaptureFlag\UndeadCaptureFlag.mdl"
+C;X3;K"buildings\orc\AltarofStorms\AltarofStorms.mdl"
 C;X4;K0
 C;X5;K"-"
 C;X6;K0
@@ -27365,7 +27365,7 @@ C;X19;K0
 C;X20;K0
 C;X21;K0.5
 C;X22;K2.5
-C;X23;K1
+C;X23;K0
 C;X24;K0
 C;X25;K0
 C;X26;K4
@@ -27379,7 +27379,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Stone"
-C;X37;K1.3
+C;X37;K0.35
 C;X38;K255
 C;X39;K255
 C;X40;K255

@@ -7690,7 +7690,7 @@ Buttonpos=0,0
 MissileHoming=0,0
 
 [u024]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Art=ReplaceableTextures\CommandButtons\BTNAltarOfStorms.blp
 Name=Sandstorm
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
