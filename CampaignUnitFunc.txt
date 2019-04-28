@@ -7647,6 +7647,18 @@ Name=Decay
 Buttonpos=0,0
 MissileHoming=0,0
 
+[u01F]
+Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
+Name=Tidecaller
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
