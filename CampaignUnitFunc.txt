@@ -7659,6 +7659,12 @@ BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[u020]
+Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
+Name=Plague
+Buttonpos=0,0
+MissileHoming=0,0
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
