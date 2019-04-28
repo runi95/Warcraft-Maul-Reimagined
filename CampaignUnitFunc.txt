@@ -7635,6 +7635,12 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 Attachmentanimprops=Alternate
 
+[u01D]
+Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
+Name=Dormant Phoenix Egg
+Buttonpos=0,0
+MissileHoming=0,0
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
