@@ -7648,7 +7648,7 @@ Buttonpos=0,0
 MissileHoming=0,0
 
 [u01F]
-Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
+Art=ReplaceableTextures\CommandButtons\BTNCoralBed.blp
 Name=Tidecaller
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
