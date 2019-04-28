@@ -7714,7 +7714,7 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u026]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Name=Bubbles
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
