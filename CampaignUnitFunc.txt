@@ -7660,7 +7660,7 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u020]
-Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
+Art=ReplaceableTextures\CommandButtons\BTNYouDirtyRat!.blp
 Name=Plague
 Buttonpos=0,0
 MissileHoming=0,0
