@@ -7672,7 +7672,7 @@ Buttonpos=0,0
 MissileHoming=0,0
 
 [u022]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Art=ReplaceableTextures\CommandButtons\BTNTornado.blp
 Name=Tornado
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
