@@ -27443,7 +27443,7 @@ C;X48;K1
 C;X49;K0
 C;X50;K0
 C;X1;Y561;K"u026"
-C;X3;K"Doodads\Ruins\Water\BubbleGeyser\BubbleGeyser.mdl"
+C;X3;K"buildings\naga\TidalGuardian\TidalGuardian.mdl"
 C;X4;K0
 C;X5;K"-"
 C;X6;K0
@@ -27477,7 +27477,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Stone"
-C;X37;K1.3
+C;X37;K0.75
 C;X38;K255
 C;X39;K255
 C;X40;K255
