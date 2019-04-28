@@ -1557,7 +1557,7 @@ C;X14;K120
 C;X15;K0
 C;X16;K"_"
 C;X17;K"air,enemies,ground"
-C;X18;K1
+C;X18;K1.1
 C;X19;K1000
 C;X20;K"-"
 C;X21;K"-"
@@ -1567,7 +1567,7 @@ C;X24;K1
 C;X25;K"-"
 C;X26;K1
 C;X27;K1
-C;X28;K20
+C;X28;K19
 C;X29;K"-"
 C;X30;K
 C;X31;K"-"
@@ -41678,7 +41678,7 @@ C;X18;K1
 C;X19;K900
 C;X20;K"-"
 C;X21;K250
-C;X22;K"magic"
+C;X22;K"pierce"
 C;X23;K"missile"
 C;X24;K0.2
 C;X25;K"-"
