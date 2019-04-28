@@ -7737,6 +7737,18 @@ BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[u028]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Name=Mist
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
