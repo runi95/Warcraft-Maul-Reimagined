@@ -7684,7 +7684,7 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u023]
-Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
+Art=ReplaceableTextures\CommandButtons\BTNEatTree.blp
 Name=Moss
 Buttonpos=0,0
 MissileHoming=0,0
