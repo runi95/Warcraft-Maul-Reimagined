@@ -7641,6 +7641,12 @@ Name=Dormant Phoenix Egg
 Buttonpos=0,0
 MissileHoming=0,0
 
+[u01E]
+Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
+Name=Decay
+Buttonpos=0,0
+MissileHoming=0,0
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
