@@ -7726,7 +7726,7 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u027]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Art=ReplaceableTextures\CommandButtons\BTNLavaSpawn.blp
 Name=Blaze
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
