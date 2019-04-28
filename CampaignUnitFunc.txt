@@ -7738,7 +7738,7 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u028]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
 Name=Mist
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
