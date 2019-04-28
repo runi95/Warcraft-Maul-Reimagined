@@ -7665,6 +7665,12 @@ Name=Plague
 Buttonpos=0,0
 MissileHoming=0,0
 
+[u021]
+Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
+Name=Sapling
+Buttonpos=0,0
+MissileHoming=0,0
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
