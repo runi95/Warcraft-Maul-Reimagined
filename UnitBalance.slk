@@ -27480,7 +27480,7 @@ C;X60;K0
 C;X1;Y483;K"o01D"
 C;X5;K"-"
 C;X6;KFALSE
-C;X7;K"Mechanical"
+C;X7;K"mechanical"
 C;X8;K200
 C;X9;K0
 C;X10;K80
@@ -27504,9 +27504,9 @@ C;X27;K
 C;X28;K
 C;X29;K
 C;X30;K
-C;X31;K5
+C;X31;K"0"
 C;X32;K1
-C;X33;K5
+C;X33;K"0"
 C;X34;K"fort"
 C;X35;K"-"
 C;X36;K0
@@ -27515,7 +27515,7 @@ C;X38;K1
 C;X39;K35
 C;X40;K900
 C;X41;K600
-C;X42;K
+C;X42;K"-"
 C;X43;K"-"
 C;X44;K"-"
 C;X45;K
@@ -27523,12 +27523,12 @@ C;X46;K
 C;X47;K
 C;X48;K"-"
 C;X49;K"_"
-C;X50;K"Rhac,Rgfo"
+C;X50;K"_"
 C;X51;K
-C;X52;K"-"
+C;X52;K"_"
 C;X53;K1
 C;X54;K"unbuildable"
-C;X55;K"_"
+C;X55;K
 C;X56;K0
 C;X57;K0
 C;X58;K0

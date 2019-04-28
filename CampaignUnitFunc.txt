@@ -8422,11 +8422,11 @@ Ubertip="Blue Drakes are somewhat better against ground units than Whelps, but t
 |cffffcc00Cooldown(2):|r 0.25
 |cffffcc00Damage(2):|r 300-350
 |cffffcc00Range(2):|r 850"
-Buttonpos=1,2
-Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Buttonpos=0,0
+Missileart=Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
 Missilearc=0.05
 Missilespeed=1800
-MissileHoming=0
+MissileHoming=0,0
 Upgrade=o01J
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
