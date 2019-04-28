@@ -7702,7 +7702,7 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u025]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Art=ReplaceableTextures\CommandButtons\BTNDragonRoost.blp
 Name=Wildfire
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
