@@ -49,12 +49,15 @@ Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Name=Baby Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
-Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
+
+|cffffcc00Attacks land units.|r"
 EditorSuffix=[Night Elf]
 Buttonpos=0,0
 Missileart=-
 Missilearc=0.0,0.0
 Missilespeed=0
+MissileHoming=0,0
 Attachmentanimprops=large
 
 [e005]
@@ -108,13 +111,15 @@ Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Name=Juvenile Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
-Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
+
+|cffffcc00Attacks land units.|r"
 EditorSuffix=[Night Elf]
 Buttonpos=0,0
 Missileart=Abilities\Weapons\ChimaeraAcidMissile\ChimaeraAcidMissile.mdl,Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilearc=0.15
 Missilespeed=1000
-MissileHoming=1
+MissileHoming=1,0
 Attachmentanimprops=large
 
 [e00A]
@@ -366,13 +371,15 @@ Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Name=Adult Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
-Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
+
+|cffffcc00Attacks land units.|r"
 EditorSuffix=[Night Elf]
 Buttonpos=0,0
 Missileart=Abilities\Weapons\ChimaeraAcidMissile\ChimaeraAcidMissile.mdl,Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilearc=0.15
 Missilespeed=1000
-MissileHoming=1
+MissileHoming=1,0
 Attachmentanimprops=large
 
 [e00V]
@@ -380,13 +387,15 @@ Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Name=Elder Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
-Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
+
+|cffffcc00Attacks land units.|r"
 EditorSuffix=[Night Elf]
 Buttonpos=0,0
 Missileart=Abilities\Weapons\ChimaeraAcidMissile\ChimaeraAcidMissile.mdl,Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilearc=0.15
 Missilespeed=1000
-MissileHoming=1
+MissileHoming=1,0
 Attachmentanimprops=large
 
 [e00W]
@@ -604,9 +613,17 @@ Art=ReplaceableTextures\CommandButtons\BTNPurpleFelhound.blp
 Name=[Void Cult] - Void Beast
 Hotkey=R
 Tip=Build Void Beast [|cffffcc00R|r]
-Ubertip="|cffffcc00Void Fragment Cost:|r 400|n|cffffcc00Health:|r 1000|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 400 - 600|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Ability:|r Void Smash; 60% to deal 300 damage in a 200 area of effect|n|cffffcc00Ability (2):|r Void Decay; this unit is slowing decaying back into the void it will lose 40 health per second as long as its alive"
+Ubertip="|cffffcc00Void Fragment Cost:|r 400
+|cffffcc00Health:|r 1000
+|cffffcc00Attack:|r Chaos
+|cffffcc00Cooldown:|r 0.25
+|cffffcc00Damage:|r 400 - 600
+|cffffcc00Range:|r Melee (ground only)
+|cffffcc00Ability:|r Void Smash; 60% to deal 300 damage in a 200 area of effect
+|cffffcc00Ability (2):|r Void Decay; this unit is slowing decaying back into the void it will lose 40 health per second as long as its alive"
 EditorSuffix=[T4]
-Buttonpos=3,0
+Buttonpos=0,0
+MissileHoming=0,0
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -910,13 +927,21 @@ Art=ReplaceableTextures\CommandButtons\BTNDalaranReject.blp
 Name=[Void Cult] - Void Being
 Hotkey=W
 Tip=Build Void Being [|cffffcc00W|r]
-Ubertip="|cffffcc00Void Fragment Cost:|r 100|n|cffffcc00Health:|r 600|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 100 - 200|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Splash; the area of effect is 250|n|cffffcc00Ability (2):|r Void Siphon; this tower restores 5 health for each enemy damaged by its attack|n|cffffcc00Ability (3):|r Void Decay; this unit is slowing decaying back into the void it will lose 20 health per second as long as its alive"
+Ubertip="|cffffcc00Void Fragment Cost:|r 100
+|cffffcc00Health:|r 600
+|cffffcc00Attack:|r Chaos
+|cffffcc00Cooldown:|r 1.00
+|cffffcc00Damage:|r 100 - 200
+|cffffcc00Range:|r 800
+|cffffcc00Ability:|r Splash; the area of effect is 250
+|cffffcc00Ability (2):|r Void Siphon; this tower restores 5 health for each enemy damaged by its attack
+|cffffcc00Ability (3):|r Void Decay; this unit is slowing decaying back into the void it will lose 20 health per second as long as its alive"
 EditorSuffix=[T2]
-Buttonpos=1,0
+Buttonpos=0,0
 Missileart=Abilities\Weapons\SludgeMissile\SludgeMissile.mdl
 Missilearc=0.15
 Missilespeed=1600
-MissileHoming=1
+MissileHoming=1,0
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -1300,13 +1325,22 @@ Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
 Name=[Void Cult] - Void Lord
 Hotkey=F
 Tip=Build Void Lord [|cffffcc00F|r]
-Ubertip="|cffffcc00Void Fragment Cost:|r 1200|n|cffffcc00Health:|r 3000|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.75|n|cffffcc00Damage:|r 500|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 400|n|cffffcc00Ability (2):|r Consume Soul; consume the soul of a void worshipper, increasing damage by 250. Replaces consumed worshipper with a Husk that can not be sold|n|cffffcc00Ability (3):|r  Void Aura; increases life regen of all void fragment costing towers by 300%|n|cffffcc00Ability (4):|r Void Decay; this unit is slowing decaying back into the void it will lose 100 health per second as long as its alive"
+Ubertip="|cffffcc00Void Fragment Cost:|r 1200
+|cffffcc00Health:|r 3000
+|cffffcc00Attack:|r Chaos
+|cffffcc00Cooldown:|r 0.75
+|cffffcc00Damage:|r 500
+|cffffcc00Range:|r 1000
+|cffffcc00Ability:|r Splash; the area of effect is 400
+|cffffcc00Ability (2):|r Consume Soul; consume the soul of a void worshipper, increasing damage by 250. Replaces consumed worshipper with a Husk that can not be sold
+|cffffcc00Ability (3):|r  Void Aura; increases life regen of all void fragment costing towers by 300%
+|cffffcc00Ability (4):|r Void Decay; this unit is slowing decaying back into the void it will lose 100 health per second as long as its alive"
 EditorSuffix=[T8]
-Buttonpos=3,1
+Buttonpos=0,0
 Missileart=Abilities\Spells\Undead\DeathCoil\DeathCoilMissile.mdl
 Missilearc=0.15
 Missilespeed=1600
-MissileHoming=1
+MissileHoming=1,0
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -1496,12 +1530,20 @@ Art=ReplaceableTextures\CommandButtons\BTNForgottenOne.blp
 Name=[Void Cult] - Void Monstrosity
 Hotkey=S
 Tip=Build Void Monstrosity [|cffffcc00S|r]
-Ubertip="|cffffcc00Void Fragment Cost:|r 800|n|cffffcc00Health:|r 1500|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 2000|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 300|n|cffffcc00Ability (2):|r Void Decay; this unit is slowing decaying back into the void it will lose 60 health per second as long as its alive"
+Ubertip="|cffffcc00Void Fragment Cost:|r 800
+|cffffcc00Health:|r 1500
+|cffffcc00Attack:|r Chaos
+|cffffcc00Cooldown:|r 2.00
+|cffffcc00Damage:|r 2000
+|cffffcc00Range:|r 1000
+|cffffcc00Ability:|r Splash; the area of effect is 300
+|cffffcc00Ability (2):|r Void Decay; this unit is slowing decaying back into the void it will lose 60 health per second as long as its alive"
 EditorSuffix=[T6]
-Buttonpos=1,1
+Buttonpos=0,0
 Missileart=Abilities\Weapons\DemonHunterMissile\DemonHunterMissile.mdl
 Missilearc=0.3
 Missilespeed=2000
+MissileHoming=0,0
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -3846,31 +3888,39 @@ Attachmentanimprops=large
 Art=ReplaceableTextures\CommandButtons\BTNSpider.blp
 Name=Spiderling
 Tip=Summon Spiderling
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit. 
+
+|cffffcc00Attacks land units.|r"
 EditorSuffix=[Arachnid]
-Buttonpos=,
+Buttonpos=0,0
+MissileHoming=0,0
 Attachmentanimprops=medium
 
 [n00Y]
 Art=ReplaceableTextures\CommandButtons\BTNSpider.blp
 Name=Juvenile Spiderling
 Tip=Summon Spiderling
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit. 
+
+|cffffcc00Attacks land units.|r"
 EditorSuffix=[Arachnid]
-Buttonpos=,
+Buttonpos=0,0
 Missileart=Units\Creeps\Hydra\Hydra.mdl
 Missilearc=0.15
 Missilespeed=1000
-MissileHoming=1
+MissileHoming=1,0
 Attachmentanimprops=medium
 
 [n00Z]
 Art=ReplaceableTextures\CommandButtons\BTNSpider.blp
 Name=Infected Spiderling
 Tip=Summon Spiderling
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit. 
+
+|cffffcc00Attacks land units.|r"
 EditorSuffix=[Arachnid]
-Buttonpos=,
+Buttonpos=0,0
+MissileHoming=0,0
 Attachmentanimprops=medium
 
 [n010]
@@ -5963,7 +6013,7 @@ Attachmentanimprops=medium
 
 [nC50]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
-Name=Water Spirit
+Name=Satyr Hellcaller
 Tip=Summon Infernal
 Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=lvl 24
@@ -6284,10 +6334,10 @@ Hotkey=E
 Tip=Hatch Blue Dragon Whelp [|cffffcc00E|r]
 Ubertip="Blue Dragons Towers are relatively poor against ground units, but immensely powerful anti-air towers. They also can slow.|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.4|n|cffffcc00Damage:|r 25-35|n|cffffcc00Range:|r 500|n|cffffcc00Special Ability:|r Frost Attack|n|cffffcc00Attack (2):|r Magic|n|cffffcc00Cooldown(2):|r 0.30|n|cffffcc00Damage(2):|r 80-100|n|cffffcc00Range(2):|r 800"
 Buttonpos=2,2
-Missileart=Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
-Missilearc=0.05
-Missilespeed=1800
-MissileHoming=0
+Missileart=Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl,Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
+Missilearc=0.05,0.05
+Missilespeed=1800,1800
+MissileHoming=1,1
 Upgrade=o01D
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
@@ -6744,10 +6794,10 @@ Hotkey=Q
 Tip=Upgrade to Blue Drake[|cffffcc00Q|r]
 Ubertip="Blue Drakes are somewhat better against ground units than Whelps, but their air attack is a massive upgrade.|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.2|n|cffffcc00Damage:|r 80-110|n|cffffcc00Range:|r 550|n|cffffcc00Special Ability:|r Frost Attack|n|cffffcc00Attack (2):|r Magic|n|cffffcc00Cooldown(2):|r 0.25|n|cffffcc00Damage(2):|r 300-350|n|cffffcc00Range(2):|r 850"
 Buttonpos=1,2
-Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
-Missilearc=0.05
-Missilespeed=1800
-MissileHoming=0
+Missileart=Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl,Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
+Missilearc=0.05,0.05
+Missilespeed=1800,1800
+MissileHoming=1,1
 Upgrade=o01J
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
@@ -6834,10 +6884,10 @@ Hotkey=Q
 Tip=Upgrade to Blue Dragon[|cffffcc00Q|r]
 Ubertip="Though the Black Dragon is a stronger anti air tower, the Blue Dragon is a much cheaper alternative, and continues to strengthen it's ground attack while employing explosive anti air power.|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.85|n|cffffcc00Damage:|r 250-300|n|cffffcc00Range:|r 590|n|cffffcc00Special Ability:|r Frost Attack|n|cffffcc00Attack (2):|r Magic|n|cffffcc00Cooldown(2):|r 0.20|n|cffffcc00Damage(2):|r 750-800|n|cffffcc00Range(2):|r 850"
 Buttonpos=1,2
-Missileart=Abilities\Weapons\FrostWyrmMissile\FrostWyrmMissile.mdl
-Missilearc=0.05
-Missilespeed=1800
-MissileHoming=0
+Missileart=Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl,Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
+Missilearc=0.05,0.05
+Missilespeed=1800,1800
+MissileHoming=1,1
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -7634,6 +7684,120 @@ BuildingSoundLabel=OrcBuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 Attachmentanimprops=Alternate
+
+[u01D]
+Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
+Name=Dormant Phoenix Egg
+Buttonpos=0,0
+MissileHoming=0,0
+
+[u01E]
+Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
+Name=Decay
+Buttonpos=0,0
+MissileHoming=0,0
+
+[u01F]
+Art=ReplaceableTextures\CommandButtons\BTNCoralBed.blp
+Name=Tidecaller
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u020]
+Art=ReplaceableTextures\CommandButtons\BTNYouDirtyRat!.blp
+Name=Plague
+Buttonpos=0,0
+MissileHoming=0,0
+
+[u021]
+Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
+Name=Sapling
+Buttonpos=0,0
+MissileHoming=0,0
+
+[u022]
+Art=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Name=Tornado
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u023]
+Art=ReplaceableTextures\CommandButtons\BTNEatTree.blp
+Name=Moss
+Buttonpos=0,0
+MissileHoming=0,0
+
+[u024]
+Art=ReplaceableTextures\CommandButtons\BTNAltarOfStorms.blp
+Name=Sandstorm
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u025]
+Art=ReplaceableTextures\CommandButtons\BTNDragonRoost.blp
+Name=Wildfire
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u026]
+Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
+Name=Bubbles
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u027]
+Art=ReplaceableTextures\CommandButtons\BTNLavaSpawn.blp
+Name=Blaze
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u028]
+Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
+Name=Mist
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
 
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
