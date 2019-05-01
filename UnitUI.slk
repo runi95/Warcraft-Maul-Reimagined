@@ -252,7 +252,7 @@ C;X3;K"units\nightelf\Chimaera\Chimaera"
 C;X4;K0
 C;X5;K"Chimaera"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K1
 C;X10;K1
@@ -497,7 +497,7 @@ C;X3;K"units\nightelf\Chimaera\Chimaera"
 C;X4;K0
 C;X5;K"Chimaera"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K1
 C;X10;K1
@@ -1526,7 +1526,7 @@ C;X3;K"units\nightelf\Chimaera\Chimaera"
 C;X4;K0
 C;X5;K"Chimaera"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K1
 C;X10;K1
@@ -1575,7 +1575,7 @@ C;X3;K"units\nightelf\Chimaera\Chimaera"
 C;X4;K0
 C;X5;K"Chimaera"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K1
 C;X10;K1
@@ -2359,7 +2359,7 @@ C;X3;K"units\creeps\FelstalkerPurple\FelstalkerPurple.mdl"
 C;X4;K0
 C;X5;K"Felhound"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -3388,7 +3388,7 @@ C;X3;K"units\other\DalaranReject\DalaranReject.mdl"
 C;X4;K0
 C;X5;K"SludgeMonster"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -3712,7 +3712,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K0.5
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -3731,15 +3731,15 @@ C;X3;K"objects\inventoryitems\ThunderLizardEgg\ThunderLizardEgg.mdl"
 C;X4;K0
 C;X5;K"ArcaneSanctum"
 C;X6;K0
-C;X7;K"TRIGSTR_865"
-C;X8;K"HBuilding04"
+C;X7;K-
+C;X8;K
 C;X9;K0
 C;X10;K1
 C;X11;K1
 C;X12;K0
-C;X13;K"-"
+C;X13;K0
 C;X14;K1
-C;X15;K"-"
+C;X15;K1
 C;X16;K0
 C;X17;K0
 C;X18;K0
@@ -3761,7 +3761,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K1
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -4711,7 +4711,7 @@ C;X3;K"units\creeps\VoidWalker\VoidWalker.mdl"
 C;X4;K0
 C;X5;K"ObsidianDestroyer"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -5348,7 +5348,7 @@ C;X3;K"Units\Creeps\ForgottenOne\ForgottenOne.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -13482,7 +13482,7 @@ C;X3;K"units\creeps\Spider\Spider.mdl"
 C;X4;K0
 C;X5;K"Spider"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K1
 C;X10;K1
@@ -13501,7 +13501,7 @@ C;X22;K1
 C;X23;K1
 C;X24;K60
 C;X25;K60
-C;X26;K-
+C;X26;K
 C;X27;K50
 C;X28;K0
 C;X29;K200
@@ -13531,7 +13531,7 @@ C;X3;K"units\creeps\Spider\Spider.mdl"
 C;X4;K0
 C;X5;K"Spider"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K1
 C;X10;K1
@@ -13550,7 +13550,7 @@ C;X22;K1
 C;X23;K1
 C;X24;K60
 C;X25;K60
-C;X26;K-
+C;X26;K
 C;X27;K50
 C;X28;K0
 C;X29;K200
@@ -13580,7 +13580,7 @@ C;X3;K"units\creeps\Spider\Spider.mdl"
 C;X4;K0
 C;X5;K"Spider"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K1
 C;X10;K1
@@ -13599,7 +13599,7 @@ C;X22;K1
 C;X23;K1
 C;X24;K60
 C;X25;K60
-C;X26;K-
+C;X26;K
 C;X27;K50
 C;X28;K0
 C;X29;K200
@@ -21989,7 +21989,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K0.70
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -22136,7 +22136,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K0.70
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -22185,7 +22185,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K0.70
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -22332,7 +22332,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K0.70
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -22400,15 +22400,15 @@ C;X3;K"units\creeps\GreenDragonWelp\GreenDragonWelp.mdl"
 C;X4;K0
 C;X5;K"FaerieDragon"
 C;X6;K0
-C;X7;K"TRIGSTR_865"
-C;X8;K"HBuilding04"
+C;X7;K-
+C;X8;K
 C;X9;K0
 C;X10;K1
 C;X11;K1
 C;X12;K0
-C;X13;K"-"
+C;X13;K0
 C;X14;K1
-C;X15;K"-"
+C;X15;K1
 C;X16;K0
 C;X17;K0
 C;X18;K0
@@ -22430,7 +22430,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K0.70
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -23851,7 +23851,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K1.2
+C;X37;K1.0
 C;X38;K255
 C;X39;K155
 C;X40;K155
@@ -23900,7 +23900,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K1.2
+C;X37;K1.0
 C;X38;K100
 C;X39;K100
 C;X40;K100
@@ -23949,7 +23949,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K1.2
+C;X37;K1.0
 C;X38;K155
 C;X39;K155
 C;X40;K255
@@ -23998,7 +23998,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K1.2
+C;X37;K1.0
 C;X38;K255
 C;X39;K255
 C;X40;K100
@@ -24017,15 +24017,15 @@ C;X3;K"units\creeps\GreenDragon\GreenDragon.mdl"
 C;X4;K0
 C;X5;K"Maiev"
 C;X6;K0
-C;X7;K"TRIGSTR_865"
-C;X8;K"HBuilding04"
+C;X7;K-
+C;X8;K
 C;X9;K0
 C;X10;K1
 C;X11;K1
 C;X12;K0
-C;X13;K"-"
+C;X13;K0
 C;X14;K1
-C;X15;K"-"
+C;X15;K1
 C;X16;K0
 C;X17;K0
 C;X18;K0
@@ -24047,7 +24047,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K1.2
+C;X37;K1.0
 C;X38;K155
 C;X39;K255
 C;X40;K155
