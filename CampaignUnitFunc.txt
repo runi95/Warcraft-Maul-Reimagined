@@ -6289,15 +6289,6 @@ Name=[Dragons] - Blue Dragon Whelp
 Hotkey=E
 Tip=Hatch Blue Dragon Whelp [|cffffcc00E|r]
 Ubertip="Blue Dragons Towers are relatively poor against ground units, but immensely powerful anti-air towers. They also can slow.
-|cffffcc00Attack:|r Magic
-|cffffcc00Cooldown:|r 1.4
-|cffffcc00Damage:|r 25-35
-|cffffcc00Range:|r 500
-|cffffcc00Special Ability:|r Frost Attack
-|cffffcc00Attack (2):|r Magic
-|cffffcc00Cooldown(2):|r 0.30
-|cffffcc00Damage(2):|r 80-100
-|cffffcc00Range(2):|r 800"
 Buttonpos=0,0
 Missileart=Abilities\Weapons\FaerieDragonMissile\FaerieDragonMissile.mdl,Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
 Missilearc=0.05,0.05
@@ -6379,11 +6370,6 @@ Name=[Dragons] - Green Dragon Whelp
 Hotkey=A
 Tip=Hatch Green Dragon Whelp [|cffffcc00A|r]
 Ubertip="Green Dragon Towers are wild cards with no clear theme. They function primarily as a cheaper, alternate attack tower.
-|cffffcc00Attack:|r Pierce
-|cffffcc00Cooldown:|r 0.4
-|cffffcc00Damage:|r 40-50
-|cffffcc00Range:|r 750
-|cffffcc0Ability:|r Poison Dart: Poisons enemies struck, dealing 10 damage per second."
 Buttonpos=0,0
 Missileart=Abilities\Weapons\FaerieDragonMissile\FaerieDragonMissile.mdl
 Missilearc=0.05
@@ -6763,15 +6749,6 @@ Name=[Dragons] - Blue Drake
 Hotkey=Q
 Tip=Upgrade to Blue Drake[|cffffcc00Q|r]
 Ubertip="Blue Drakes are somewhat better against ground units than Whelps, but their air attack is a massive upgrade.
-|cffffcc00Attack:|r Magic
-|cffffcc00Cooldown:|r 1.2
-|cffffcc00Damage:|r 80-110
-|cffffcc00Range:|r 550
-|cffffcc00Special Ability:|r Frost Attack
-|cffffcc00Attack (2):|r Magic
-|cffffcc00Cooldown(2):|r 0.25
-|cffffcc00Damage(2):|r 300-350
-|cffffcc00Range(2):|r 850"
 Buttonpos=0,0
 Missileart=Abilities\Weapons\FaerieDragonMissile\FaerieDragonMissile.mdl,Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
 Missilearc=0.05,0.05
@@ -6862,15 +6839,6 @@ Name=[Dragons] - Blue Dragon
 Hotkey=Q
 Tip=Upgrade to Blue Dragon[|cffffcc00Q|r]
 Ubertip="Though the Black Dragon is a stronger anti air tower, the Blue Dragon is a much cheaper alternative, and continues to strengthen it's ground attack while employing explosive anti air power.
-|cffffcc00Attack:|r Magic
-|cffffcc00Cooldown:|r 0.85
-|cffffcc00Damage:|r 250-300
-|cffffcc00Range:|r 590
-|cffffcc00Special Ability:|r Frost Attack
-|cffffcc00Attack (2):|r Magic
-|cffffcc00Cooldown(2):|r 0.20
-|cffffcc00Damage(2):|r 750-800
-|cffffcc00Range(2):|r 850"
 Buttonpos=0,0
 Missileart=Abilities\Weapons\FaerieDragonMissile\FaerieDragonMissile.mdl,Abilities\Weapons\DragonHawkMissile\DragonHawkMissile.mdl
 Missilearc=0.05,0.05
@@ -6901,11 +6869,6 @@ Name=[Dragons] - Green Dragon
 Hotkey=Q
 Tip=Upgrade to Green Dragon [|cffffcc00Q|r]
 Ubertip="The Green Dragon is a solid mid game tower. It has a stronger poison than its predecessor.
-|cffffcc00Attack:|r Pierce
-|cffffcc00Cooldown:|r 0.35
-|cffffcc00Damage:|r 275-275
-|cffffcc00Range:|r 750
-|cffffcc0Ability:|r Poison Dart: Poisons enemies struck, dealing 60 damage per second."
 Buttonpos=0,0
 Missileart=Abilities\Weapons\GreenDragonMissile\GreenDragonMissile.mdl
 Missilearc=0.05
