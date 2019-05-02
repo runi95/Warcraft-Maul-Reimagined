@@ -2217,7 +2217,7 @@ C;X5;K"Avul,A0DW"
 C;X6;K
 C;X1;Y554;K"u01F"
 C;X4;K"_"
-C;X5;K"Avul,A02D"
+C;X5;K"Avul,A02D,A0A1"
 C;X6;K
 C;X1;Y555;K"u020"
 C;X4;K"_"
@@ -2225,11 +2225,11 @@ C;X5;K"Avul"
 C;X6;K
 C;X1;Y556;K"u021"
 C;X4;K"_"
-C;X5;K"Avul"
+C;X5;K"Avul,A0A1"
 C;X6;K
 C;X1;Y557;K"u022"
 C;X4;K"_"
-C;X5;K"Avul,A02D,A0CT"
+C;X5;K"Avul,A02D,A0A1"
 C;X6;K
 C;X1;Y558;K"u023"
 C;X4;K"_"
