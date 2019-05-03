@@ -4470,6 +4470,7 @@ Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
 MissileHoming=1
+Upgrade=
 BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -7759,6 +7760,40 @@ Art=ReplaceableTextures\CommandButtons\BTNCoralBed.blp
 Name=High Tide
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u02A]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Name=Death Rune [Level 2]
+Hotkey=Q
+Tip=Build Uncharged Rune [|cffffcc00Q|r]
+Ubertip="A typical uncharged rune.|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Uncharged; does nothing"
+Buttonpos=0,2
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+Upgrade=u02B
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u02B]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Name=Death Rune [Level 3]
+Hotkey=Z
+Tip=Upgrade to Death Rune 3 [|cffffcc00Z|r]
+Ubertip="A typical uncharged rune.
+
+|cffffcc00Attack:|r None
+|cffffcc00Ability:|r Uncharged; does nothing"
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
 MissileHoming=1,0
