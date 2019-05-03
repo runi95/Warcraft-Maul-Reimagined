@@ -7878,6 +7878,33 @@ BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[u032]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
+Name=Air Rune [Level 2]
+Buttonpos=0,2
+Missileart=Abilities\Weapons\FarseerMissile\FarseerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+Upgrade=u033
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u033]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
+Name=Air Rune [Level 3]
+Hotkey=Z
+Tip=Upgrade to Air Rune 3 [|cffffcc00Z|r]
+Buttonpos=0,2
+Missileart=Abilities\Weapons\FarseerMissile\FarseerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
