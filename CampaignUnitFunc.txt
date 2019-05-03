@@ -7816,6 +7816,37 @@ Tip=Upgrade to Life Rune 3 [|cffffcc00Z|r]
 Buttonpos=0,2
 MissileHoming=0,0
 
+[u02E]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
+Name=Nature Rune [Level 2]
+Hotkey=
+Tip=
+Ubertip=
+Buttonpos=0,2
+Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+Upgrade=u02F
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u02F]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
+Name=Nature Rune [Level 3]
+Hotkey=Z
+Tip=Upgrade to Nature Rune 3 [|cffffcc00Z|r]
+Ubertip="|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 1.6|n|cffffcc00Damage:|r 659 - 659|n|cffffcc00Range:|r 800"
+Buttonpos=0,2
+Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
