@@ -7847,6 +7847,37 @@ BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[u030]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
+Name=Fire Rune [Level 2]
+Hotkey=
+Tip=
+Ubertip=
+Buttonpos=0,2
+Missileart=Abilities\Weapons\LavaSpawnMissile\LavaSpawnMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+Upgrade=u031
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u031]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
+Name=Fire Rune [Level 3]
+Hotkey=Z
+Tip=Upgrade to Fire Rune 3 [|cffffcc00Z|r]
+Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1|n|cffffcc00Damage:|r 133 - 133|n|cffffcc00Range:|r 600"
+Buttonpos=0,2
+Missileart=Abilities\Weapons\LavaSpawnMissile\LavaSpawnMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
