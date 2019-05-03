@@ -7801,6 +7801,21 @@ BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[u02C]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfLifeYellow.BLP
+Name=Life Rune [Level 2]
+Buttonpos=0,2
+MissileHoming=0,0
+Upgrade=u02D
+
+[u02D]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfLifeYellow.BLP
+Name=Life Rune [Level 3]
+Hotkey=Z
+Tip=Upgrade to Life Rune 3 [|cffffcc00Z|r]
+Buttonpos=0,2
+MissileHoming=0,0
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
