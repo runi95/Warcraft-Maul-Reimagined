@@ -7654,7 +7654,7 @@ MissileHoming=0,0
 
 [u01F]
 Art=ReplaceableTextures\CommandButtons\BTNCoralBed.blp
-Name=Tidecaller
+Name=Low Tide
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
 Missilearc=0.15
@@ -7747,6 +7747,18 @@ Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
 Name=Mist
 Buttonpos=0,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u029]
+Art=ReplaceableTextures\CommandButtons\BTNCoralBed.blp
+Name=High Tide
+Buttonpos=0,0
+Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
 MissileHoming=1,0
