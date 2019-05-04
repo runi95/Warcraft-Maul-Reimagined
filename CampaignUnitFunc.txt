@@ -7932,6 +7932,21 @@ BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[u036]
+Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
+Name=Tree
+Hotkey=
+Tip=
+Ubertip=
+Buttonpos=0,0
+Missileart=-
+Missilearc=0
+Missilespeed=0
+MissileHoming=0,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
