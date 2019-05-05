@@ -7969,6 +7969,12 @@ Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.44|n|cffffcc00Damage
 Buttonpos=0,0
 MissileHoming=0,0
 
+[u039]
+Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
+Name=Purgatory - Level 2
+Buttonpos=0,0
+MissileHoming=0,0
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
