@@ -7962,6 +7962,13 @@ BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[u038]
+Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
+Name=Undead - Level 2
+Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.44|n|cffffcc00Damage:|r 48 - 48|n|cffffcc00Range:|r 128|n"
+Buttonpos=0,0
+MissileHoming=0,0
+
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Name=Giant Worker
