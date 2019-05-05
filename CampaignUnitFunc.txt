@@ -7717,6 +7717,7 @@ Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
 MissileHoming=1,0
+Upgrade=u03B
 BuildingSoundLabel=NagaConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -7988,6 +7989,20 @@ Tip=Upgrade to Decay Level 2 [|cffffcc00Z|r]
 Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Range:|r 250|n|cffffcc00Ability:|r Disease Cloud; deals 100 damage per second for 60 seconds"
 Buttonpos=0,2
 MissileHoming=0,0
+
+[u03B]
+Art=ReplaceableTextures\CommandButtons\BTNDragonRoost.blp
+Name=Wildfire - Level 2
+Hotkey=Z
+Tip=Upgrade to Wildfire Level 2 [|cffffcc00Z|r]
+Buttonpos=0,2
+Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
 
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
