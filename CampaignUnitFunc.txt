@@ -4488,7 +4488,7 @@ Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Name=Depleted Rock
 
 [n028]
-Art=ReplaceableTextures\CommandButtons\BTNDemonGate.blp
+Art=
 Name=Purgatory
 Upgrade=u039
 
@@ -7653,6 +7653,7 @@ Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
 Name=Decay
 Buttonpos=0,0
 MissileHoming=0,0
+Upgrade=u03A
 
 [u01F]
 Art=ReplaceableTextures\CommandButtons\BTNCoralBed.blp
@@ -7976,6 +7977,15 @@ Name=Purgatory - Level 2
 Hotkey=Z
 Tip=Upgrade to Purgatory Level 2 [|cffffcc00Z|r]
 Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Immolation; deals 55 damage per second to enemy units in range"
+Buttonpos=0,2
+MissileHoming=0,0
+
+[u03A]
+Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
+Name=Decay - Level 2
+Hotkey=Z
+Tip=Upgrade to Decay Level 2 [|cffffcc00Z|r]
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Range:|r 250|n|cffffcc00Ability:|r Disease Cloud; deals 100 damage per second for 60 seconds"
 Buttonpos=0,2
 MissileHoming=0,0
 
