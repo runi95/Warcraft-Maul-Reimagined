@@ -4490,6 +4490,7 @@ Name=Depleted Rock
 [n028]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Name=Purgatory
+Upgrade=u039
 
 [n029]
 Art=ReplaceableTextures\CommandButtons\BTNGnoll.blp
