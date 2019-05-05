@@ -4488,7 +4488,7 @@ Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Name=Depleted Rock
 
 [n028]
-Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
+Art=ReplaceableTextures\CommandButtons\BTNDemonGate.blp
 Name=Purgatory
 Upgrade=u039
 
@@ -7971,9 +7971,12 @@ Buttonpos=0,0
 MissileHoming=0,0
 
 [u039]
-Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
+Art=ReplaceableTextures\CommandButtons\BTNDemonGate.blp
 Name=Purgatory - Level 2
-Buttonpos=0,0
+Hotkey=Z
+Tip=Upgrade to Purgatory Level 2 [|cffffcc00Z|r]
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Immolation; deals 55 damage per second to enemy units in range"
+Buttonpos=0,2
 MissileHoming=0,0
 
 [uC13]
