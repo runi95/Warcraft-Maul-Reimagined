@@ -1,6 +1,6 @@
 [e000]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
-Name=Ancient Chimaera
+Name=[Night Elf] - Ancient Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
 Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. |n|n|cffffcc00Attacks land units.|r"
@@ -14,21 +14,17 @@ Attachmentanimprops=large
 
 [e001]
 Art=ReplaceableTextures\CommandButtons\BTNMove
-Name=Weeiz
-Hotkey=-
-Tip=Train King Arthur |cffffcc00(W)|r
-Ubertip="An advanced high tier Hybrid Builder."
+Name=[Builder] - Weeiz
 EditorSuffix= (UNUSED LEAVE)
 Buttonpos=0,0
 MissileHoming=0,0
-Builds=
 
 [e002]
 Art=ReplaceableTextures\CommandButtons\BTNSkink.blp
-Name=Tavern Servant
+Name=[Builder] - Tavern Servant
 Hotkey=L
-Tip=Train Tavern |cffffcc00S|rervant
-Ubertip="Hires Mercenary Creeps and Heroes"
+Tip=
+Ubertip=
 EditorSuffix=Tavern
 Buttonpos=1,0
 Builds=h01C,h01E,h01D,hC34,h01G,h01F,h01I,h01J,h01U,h01L
@@ -36,10 +32,10 @@ Attachmentanimprops=medium
 
 [e003]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
-Name=Corrupted Tree
+Name=[Builder] - Corrupted Tree
 Hotkey=L
-Tip=Train Corrupted |cffffcc00W|risp
-Ubertip="Builds Corrupted Night Elf Towers"
+Tip=
+Ubertip=
 EditorSuffix=Corrupted Night Elves
 Buttonpos=0,0
 Builds=n009,n010,n00O,n00M,n02H,n00L,n00N,n00P,n00R,n00S
@@ -47,7 +43,7 @@ Attachmentanimprops=medium
 
 [e004]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
-Name=Baby Chimaera
+Name=[Night Elf] - Baby Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
 Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
@@ -61,7 +57,7 @@ Attachmentanimprops=large
 
 [e005]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
-Name=Goblin Airship
+Name=[Builder] - Goblin Airship
 Hotkey=S
 Tip=Train Goblin Air|cffffcc00s|rhip
 Ubertip="The crafty goblins have loaded this ship up with weaponry and explosives; a lethal combination!"
@@ -71,7 +67,7 @@ Attachmentanimprops=medium
 
 [e006]
 Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-Name=Shrunken Enslaved Beast
+Name=G Shrunken Enslaved Beast
 Hotkey=
 Tip=Train |cffffcc00S|rhrunken Enslaved Beast
 Ubertip="The crafty Goblins enslave those weaker then them, or just dumber. Making these beasts into the ever useful workhorse."
@@ -81,10 +77,10 @@ Attachmentanimprops=medium
 
 [e007]
 Art=ReplaceableTextures\CommandButtons\BTNGuldan.blp
-Name=Summoner
+Name=[Builder] - Summoner
 Hotkey=S
-Tip=Train The |cffffcc00S|rummoner
-Ubertip="None of that Final Fantasy X / X-2 Shit here"
+Tip=
+Ubertip=
 EditorSuffix=The Summons
 Buttonpos=0,0
 Builds=h02D,h02C,h02B,h029,h028,h027,h026,h025,h022,h01Z,h020
@@ -107,7 +103,7 @@ Attachmentanimprops=medium
 
 [e009]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
-Name=Juvenile Chimaera
+Name=[Night Elf] - Juvenile Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
 Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
@@ -121,10 +117,10 @@ Attachmentanimprops=large
 
 [e00A]
 Art=ReplaceableTextures\CommandButtons\BTNLament.blp
-Name=The Unique One
+Name=[Builder] - The Unique One
 Hotkey=U
-Tip=Train The |cffffcc00U|rnique One
-Ubertip="One seldom seen, builds those who are seldom used. Muahahahaha                                                                                                       |CFFFF0000Note: This tower Repeats this sound bit, that I don't know how to stop and it gets annoying quickly. I suggust you blink it to some corner while not in use.|R"
+Tip=
+Ubertip=
 EditorSuffix=The Unique
 Buttonpos=0,0
 Builds=h02Q,h02P,h02O,h02N,h02M,h02L,h02K,h02J,h02A,h02I,h02H
@@ -149,10 +145,10 @@ Buttonpos=0,0
 
 [e00D]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
-Name=King Arthur
+Name=[Builder] - King Arthur
 Hotkey=W
-Tip=Train King Arthur |cffffcc00(W)|r
-Ubertip="King Arthur can build various different towers."
+Tip=
+Ubertip=
 EditorSuffix=Caerbannog
 Buttonpos=0,0
 Builds=n055,n056,n057,n058,n059,n05B,n05A,n05C,n05D,n05F,n05E
@@ -173,10 +169,10 @@ LoopingSoundFadeOut=512
 
 [e00F]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.tga
-Name=Wisp
+Name=[Builder] - Wisp
 Hotkey=W
-Tip=Train |cffffcc00W|risp
-Ubertip="Train a Wisp to create Night Elf Towers"
+Tip=
+Ubertip=
 EditorSuffix=Night Elf Ancient
 Buttonpos=0,0
 Builds=e00E,hC80,hC82,hC86,h00B,h00G,e008
@@ -184,19 +180,19 @@ Attachmentanimprops=medium
 
 [e00G]
 Art=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
-Name=Nebula
+Name=[Builder] - Nebula
 Hotkey=W
 Tip=-
-Ubertip="What a weird creature."
+Ubertip=
 EditorSuffix=Galaxy
 Buttonpos=0,0
 Builds=e00J,e00K,e00L,e00O,e00P,e00Q,e00R,e00S,e00T
 
 [e00H]
 Art=ReplaceableTextures\CommandButtons\BTNKobold.blp
-Name=Miner
+Name=[Builder] - Miner
 Hotkey=W
-Tip=Train Miner |cffffcc00(W)|r
+Tip=
 Ubertip="The dwarven builder was a suggestion by Warcraft Maul's users, thanks letwit!"
 EditorSuffix=Dwarven Mine
 Buttonpos=0,0
@@ -204,9 +200,9 @@ Builds=n05H,n05I,n05J,n05K,n05L,n05M,n05N,n05O,n05Q
 
 [e00I]
 Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn
-Name=Weeiz
+Name=[Builder] - Weeiz
 Hotkey=-
-Tip=Train King Arthur |cffffcc00(W)|r
+Tip=
 Ubertip="An advanced high tier Hybrid Builder."
 EditorSuffix= (Tier 1-9)
 Buttonpos=0,0
@@ -215,7 +211,7 @@ Builds=u00C,u00D,u00E,u00F,h00Z,h011,h010,o01R,o01M,o01N,h03W,hC66,hC21,o003,o00
 
 [e00J]
 Art=ReplaceableTextures\CommandButtons\BTNTheBlackArrow.blp
-Name=Star Shooter
+Name=[Galaxy] - Star Shooter
 Hotkey=Q
 Tip=Build Star Shooter [|cffffcc00Q|r]
 Ubertip="The Starshooter is a member of the group called Star Shooters, they can't actually shoot stars, obviously.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.1|n|cffffcc00Damage:|r 22 - 22|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Can hit two extra targets for half damage each."
@@ -229,7 +225,7 @@ LoopingSoundFadeOut=512
 
 [e00K]
 Art=ReplaceableTextures\CommandButtons\BTNMoonStone.blp
-Name=Moon Dancer
+Name=[Galaxy] - Moon Dancer
 Hotkey=W
 Tip=Build Moon Dancer [|cffffcc00W|r]
 Ubertip="She worships the moon as if it was a goddess because it was the moon that gave her the power to call on the stars themselves for aid|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 20 - 20|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Star Wave; every 5th attack deals 100 additional AOE damage"
@@ -243,7 +239,7 @@ LoopingSoundFadeOut=512
 
 [e00L]
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
-Name=Druid
+Name=[Galaxy] - Druid
 Hotkey=E
 Tip=Build Druid [|cffffcc00E|r]
 Ubertip="A druid is a creature of the forest that has been taught magical arts by the gods through meditation and focus|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Wild Shape (Bear); permanently turns the Druid into a Bear|n|cffffcc00Ability(2):|r Wild Shape (Crow); permanently turns the Druid into a Crow|n|cffffcc00Attack(Bear):|r Siege|n|cffffcc00Cooldown(Bear):|r 0.90|n|cffffcc00Damage(Bear):|r 3200 - 3200|n|cffffcc00Range(Bear):|r Melee|n|cffffcc00Attack(Crow):|r Magic|n|cffffcc00Cooldown(Crow):|r 0.60|n|cffffcc00Damage(Crow):|r 240 - 240|n|cffffcc00Range(Crow):|r 700|n|cffffcc00Ability(Crow):|r Splash; the area of effect is 120 (air only)"
@@ -255,7 +251,7 @@ LoopingSoundFadeOut=512
 
 [e00M]
 Art=ReplaceableTextures\CommandButtons\BTNRavenForm.blp
-Name=Crow
+Name=[Galaxy] - Crow
 Hotkey=X
 Tip=Wild Shape (Crow) [|cffffcc00X|r]
 Ubertip="Permanently transforms the druid into a crow|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.60|n|cffffcc00Damage:|r 240 - 240|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Splash; the area of effect is 120 (air only)"
@@ -272,7 +268,7 @@ Animprops=alternate,1
 
 [e00N]
 Art=ReplaceableTextures\CommandButtons\BTNBearForm.blp
-Name=Bear
+Name=[Galaxy] - Bear
 Hotkey=Z
 Tip=Wild Shape (Bear) [|cffffcc00Z|r]
 Ubertip="Permanently transforms the druid into a bear|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 3200 - 3200|n|cffffcc00Range:|r Melee"
@@ -285,7 +281,7 @@ Animprops=alternate,1
 
 [e00O]
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
-Name=Night Star
+Name=[Galaxy] - Night Star
 Hotkey=R
 Tip=Build Night Star [|cffffcc00R|r]
 Ubertip="The night star is too weak to be seen in the daylight, but it it's a beautiful sight at night|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Starburn; deals 160 damage per second to enemies within range"
@@ -296,7 +292,7 @@ LoopingSoundFadeOut=512
 
 [e00P]
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
-Name=Star Chaser
+Name=[Galaxy] - Star Chaser
 Hotkey=A
 Tip=Build Star Chaser [|cffffcc00A|r]
 Ubertip="This girl is obsessed with the sky and catching stars is her hobby, she can often be seen shooting her stars down on enemies|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.80|n|cffffcc00Damage:|r 283 - 283|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Starfall; deals 50 damage each second to enemies within range|n|cffffcc00Ability(2):|r Frost Attack; slows attacked units movement speed by 25% for 10 seconds."
@@ -310,7 +306,7 @@ LoopingSoundFadeOut=512
 
 [e00Q]
 Art=ReplaceableTextures\CommandButtons\BTNWindWalkOn.blp
-Name=Space Runner
+Name=[Galaxy] - Space Runner
 Hotkey=S
 Tip=Build Space Runner [|cffffcc00S|r]
 Ubertip="This is the fastest unit in the nebula, it's so fast that it's speed is told to surpass the speed of light when it attacks|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.11|n|cffffcc00Damage:|r 333 - 333|n|cffffcc00Range:|r 1000"
@@ -324,7 +320,7 @@ LoopingSoundFadeOut=512
 
 [e00R]
 Art=ReplaceableTextures\CommandButtons\BTNTranquility.blp
-Name=Celestial Mist
+Name=[Galaxy] - Celestial Mist
 Hotkey=D
 Tip=Build Celestial Mist [|cffffcc00D|r]
 Ubertip="The Celestial Mist is a shape shifting mist that can take the shape and form of any creature it has seen|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 1500 - 1500|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Starfall; deals 300 damage every second to enemies within range"
@@ -338,7 +334,7 @@ LoopingSoundFadeOut=512
 
 [e00S]
 Art=ReplaceableTextures\CommandButtons\BTNTrueShot.blp
-Name=Moonlight
+Name=[Galaxy] - Moonlight
 Hotkey=
 Tip=Build Moonlight [|cffffcc00F|r]
 Ubertip="When the moonlight shines through you're safe, unless you have awoken the wrath of the moon goddess!|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.35|n|cffffcc00Damage:|r 400 - 400|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Moonstorm; Enemy units within an area of 1000 has a 10% chance to take 800 additional damage upon being attacked"
@@ -352,7 +348,7 @@ LoopingSoundFadeOut=512
 
 [e00T]
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
-Name=The Creator
+Name=[Galaxy] - The Creator
 Hotkey=Z
 Tip=Build The Creator [|cffffcc00Z|r]
 Ubertip="The moon goddess, the creator of the nebula, she is here!|n|n|cffffcc00Attack:|r Hero|n|cffffcc00Cooldown:|r 0.35|n|cffffcc00Damage:|r 1050 - 1050|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 240"
@@ -366,7 +362,7 @@ LoopingSoundFadeOut=512
 
 [e00U]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
-Name=Adult Chimaera
+Name=[Night Elf] - Adult Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
 Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
@@ -380,7 +376,7 @@ Attachmentanimprops=large
 
 [e00V]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
-Name=Elder Chimaera
+Name=[Night Elf] - Elder Chimaera
 Hotkey=C
 Tip=Train |cffffcc00C|rhimaera
 Ubertip="Flying two headed Dragon. Can learn Corrosive Breath. 
@@ -415,7 +411,7 @@ Missilespeed=900
 
 [eC10]
 Art=ReplaceableTextures\CommandButtons\BTNDestroyer.blp
-Name=Aerial Worker
+Name=[Builder] - Aerial Worker
 Hotkey=W
 Tip=Train Aerial |cffffcc00W|rorker
 Ubertip="Aerial builder, can buld Air based buildings"
@@ -485,7 +481,7 @@ LoopingSoundFadeOut=512
 
 [h000]
 Art=ReplaceableTextures\CommandButtons\BTNGhostMage.blp
-Name=Antonidas the Undead
+Name=[Undead] - Antonidas the Undead
 Hotkey=X
 Tip=Build Antonidas the Undead [|cffffcc00X|r]
 Ubertip="Once a great human mage has been turned into a ghost fighting for the undead hordes so he alone can avoid eternal torture and damnation|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 800 - 800|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Diamond Summoning; allows him to attack 8 enemies at once"
@@ -500,7 +496,7 @@ Animprops=upgrade,first
 
 [h001]
 Art=ReplaceableTextures\CommandButtons\BTNBlackDragon.blp
-Name=Deathwing
+Name=G Deathwing
 Hotkey=Z
 Tip=Build Deathwing
 Ubertip="Deathwing has the longest range, great splash, and decent speed!  |CFF00FF00(Fast(1.20)/700-800  Normal Damage/1200 Range)"
@@ -530,7 +526,7 @@ Animprops=upgrade,first
 
 [h003]
 Art=ReplaceableTextures\CommandButtons\BTNMetamorphosis.blp
-Name=Super Slowing Demon
+Name=G Super Slowing Demon
 Hotkey=F
 Tip=Build Super Slowing Demon
 Ubertip="The best slowing tower in the game.  Unlike the other slowing sources which slow no more than 25% in movement this can slow a target by 75%.  It does this by casting cripple on a target.  This tower otherwise is a very powerful tower with high damage and great speed.  Very powerful versus bosses.  |CFF00FF00(Very Fast(0.25)/800-1000 Chaos Damage/700 Range)"
@@ -545,7 +541,7 @@ Animprops=alternate,fourth
 
 [h004]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
-Name=Sapphiron
+Name=G Sapphiron
 Hotkey=B
 Tip=Build Sapphiron
 Ubertip="Sapphiron is a good all round tower.  It does no splash but its damage and speed are good.  |CFF00FF00(Very Fast(0.25)/600-750 Normal Damage/700 Range)"
@@ -560,7 +556,7 @@ Animprops=upgrade,first
 
 [h005]
 Art=ReplaceableTextures\CommandButtons\BTNGryphonRider.blp
-Name=Gryphon Rider
+Name=[Aviaries] - Gryphon Rider
 Hotkey=R
 Tip=Build Gryphon Rider [|cffffcc00R|r]
 Ubertip="Becoming a Gryphon Rider is what all the children want to do and none of the adults as riding these terrifying beasts can be nearly impossible|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 200 - 250|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Splash; the area of effect is 125"
@@ -574,7 +570,7 @@ LoopingSoundFadeOut=512
 
 [h006]
 Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
-Name=Phoenix Egg
+Name=[Humans] - Phoenix Egg
 Hotkey=R
 Tip=Build Phoenix Egg [|cffffcc00R|r]
 Ubertip="A large egg that burns as bright at the sun, nobody dears approach it as it is rumored to hatch the child of Satan|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Permanent Immolation; deals 200 damage to enemies within range|n|cffffcc00Morphing:|r Phoenix (takes 15 seconds)"
@@ -589,7 +585,7 @@ LoopingSoundFadeOut=512
 
 [h007]
 Art=ReplaceableTextures\CommandButtons\BTNWindSerpent.blp
-Name=Couatl
+Name=G Couatl
 Hotkey=D
 Tip=Build Couatl
 Ubertip="The couatl functions similar to the snap dragon.  It is very good versus air and decent versus ground.  Unlike other naga towers this tower will not slow enemies.  It has more ground splash and much more air splash than the siren.  |CFF00FF00(Does Pierce Damage)  (Fast(1.00)/130-140 Damage Ground+260-280 Damage Air/700 Range)"
@@ -630,7 +626,7 @@ LoopingSoundFadeOut=512
 
 [h00A]
 Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
-Name=Infernal Rock Giant
+Name=[Giants] - Infernal Rock Giant
 Hotkey=A
 Tip=Bring up a |cffffcc00A|rncient Protector
 Ubertip="One step for giants, one giant leap for defense. The Ancient Protector attacks faster and has more range, as well as much higher damage.  |CFF00FF00(Very Fast(0.75)/170-230 Siege Damage/550 Range)"
@@ -659,7 +655,7 @@ LoopingSoundFadeOut=512
 
 [h00C]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
-Name=Faerie Dragon
+Name=G Faerie Dragon
 Hotkey=Z
 Tip=Build Faerie Dragon
 Ubertip="The faerie dragon is a bizarre addition to dragons.  It attacks much like an aerial tower with low damage/moderate range/great speed.  |CFF00FF00(Does Magic Damage)  (Very Fast(0.40)/80 Damage/600 Range)"
@@ -673,7 +669,7 @@ LoopingSoundFadeOut=512
 
 [h00D]
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
-Name=Shade
+Name=[Undead] - Shade
 Hotkey=-
 Tip=Upgrade to Shade
 Ubertip="Shades are never found during the day time and are great at hiding their bodies in the shadows, rendering them completely invisible|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 10 - 10|n|cffffcc00Range:|r 256|n|cffffcc00Ability:|r Poison; deals 100 damage per second for 2 seconds"
@@ -689,7 +685,7 @@ Animprops=upgrade,first
 
 [h00E]
 Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
-Name=Infernal
+Name=G Infernal
 Hotkey=D
 Tip=Build Infernal
 Ubertip="The Infernal is a good addition to the demon side.  It has a larger splash radius than the felhound and good damage and range.  |CFF00FF00(Fast(1.20)/200-275 Chaos Damage/900 Range)"
@@ -778,7 +774,7 @@ LoopingSoundFadeOut=512
 
 [h00K]
 Art=ReplaceableTextures\CommandButtons\BTNDeathTower.blp
-Name=Death Tower
+Name=[Humans] - Death Tower
 Hotkey=S
 Tip=Build Death Tower [|cffffcc00S|r]
 Ubertip="A tower of pure death that is capable of taking down large groups of enemies in no time|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 200 - 200|n|cffffcc00Range:|r 650|n|cffffcc00Ability:|r Splash; the area of effect is 140|n|cffffcc00Ability (2):|r Death Strike; 20% chance to deal 5 times damage"
@@ -794,7 +790,7 @@ Animprops=fifth
 
 [h00L]
 Art=ReplaceableTextures\CommandButtons\BTNDalaranGuardTower.blp
-Name=Dalaran Guard Tower
+Name=[Humans] - Dalaran Guard Tower
 Hotkey=Z
 Tip=Build Dalaran Guard Tower [|cffffcc00Z|r]
 Ubertip="The city of Dalaran had a huge problem with incoming air raids so they invented this amazing AA tower|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 1000 - 1050|n|cffffcc00Range:|r 1000 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 300"
@@ -810,7 +806,7 @@ Animprops=upgrade,first
 
 [h00M]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyWitch.blp
-Name=Harpy
+Name=[Aviaries] - Harpy
 Hotkey=S
 Tip=Build Harpy [|cffffcc00S|r]
 Ubertip="Heavy Aerial tower. This tower deals high damage at a very fast speed.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.05|n|cffffcc00Damage:|r 170 - 170|n|cffffcc00Range:|r 700"
@@ -824,7 +820,7 @@ LoopingSoundFadeOut=512
 
 [h00N]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalFlameCannon.blp
-Name=Infernal Fireblaster
+Name=[Undead] - Infernal Fireblaster
 Hotkey=Z
 Tip=Build Infernal Fireblaster [|cffffcc00Z|r]
 Ubertip="The undead built this thing to compete with war machines like the ballista and catapult, but quickly found out their contraption was way stronger|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 123 - 143|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 250"
@@ -852,7 +848,7 @@ LoopingSoundFadeOut=512
 
 [h00P]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
-Name=Queen Alexstrasza
+Name=G Queen Alexstrasza
 Hotkey=B
 Tip=Build Queen Alexstrasza
 Ubertip="The Queen of the Dragons is the best dragon tower and has a nasty surprise.  It casts Breath of Fire which deals a ton of spell damage in a good area of effect.                                                                                                                 |CFF00FF00 (600 Breath of Fire Damage/1000 Range / .70cooldown)"
@@ -881,7 +877,7 @@ LoopingSoundFadeOut=512
 
 [h00R]
 Art=ReplaceableTextures\CommandButtons\BTNSacrificialPit.blp
-Name=Sacrificial Pit
+Name=[Undead] - Sacrificial Pit
 Hotkey=D
 Tip=Build Sacrificial Pit [|cffffcc00D|r]
 Ubertip="If you ever visit the Sacrificial Pit it's either because you're about to become their new sacrifice or you already have been|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Sacrifice; any dying unit within range spawns a rain of fire with an area of 250 which deals 200 initial damage and then 100 damage per second for 10 seconds"
@@ -927,7 +923,7 @@ LoopingSoundFadeOut=512
 
 [h00U]
 Art=ReplaceableTextures\CommandButtons\BTNArachnathid.blp
-Name=Scorpion
+Name=G Scorpion
 Hotkey=E
 Tip=Build S|cffffcc00c|rorpion
 Ubertip="The Scorpion is a basic tower that has good damage, range, and speed. also has a special anti-air attack with medium splash. |CFF00FF00( 13-15 Magic Ground Dmg / 22-24 Chaos Air Dmg / 600 Ground Range / 600 Air Range / 0.95 Ground Cooldown / .75 Air Cooldown )"
@@ -1055,7 +1051,7 @@ LoopingSoundFadeOut=512
 [h012]
 Art=ReplaceableTextures\CommandButtons\BTNClockWerkGoblin.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-Name=Mecha-Goblin
+Name=G Mecha-Goblin
 Tip=Summon Spiderling
 Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Goblin]
@@ -1069,7 +1065,7 @@ EditorSuffix=[Goblin]
 
 [h014]
 Art=ReplaceableTextures\CommandButtons\BTNDemoness.blp
-Name=PoopOnUrPorch
+Name=G PoopOnUrPorch
 Hotkey=
 Tip=Build |cffffcc00P|roopOnUrPorch
 Ubertip="PoopOnUrPorch, the name? not so manly, but what it lacks in manliness, it makes up for in Pwnage. The tower does lose its Seige dmg though. |CFF00FF00( Range: 700 / Dmg: 700 / Bounces 7 times/ .80 cooldown. )"
@@ -1085,7 +1081,7 @@ Animprops=upgrade,second
 
 [h016]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyWitch.blp
-Name=Shelbmonster
+Name=G Shelbmonster
 Hotkey=H
 Tip=Build S|cffffcc00h|relbmonster
 Ubertip="The Shelbmonster, not only superior in name but in dmg and splash radius aswell with hero dmg to boot however... longer cooldown and loses the ability to attack air |CFF00FF00( 1001 - 1078 Hero dmg / 1000range / 1.35 cooldown ) |CFFFF0000Note; CANNOT ATTACK AIR"
@@ -1113,7 +1109,7 @@ LoopingSoundFadeOut=512
 
 [h01B]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.tga
-Name=Druid of Nature
+Name=G Druid of Nature
 Hotkey=C
 Tip=Build Druid of Nature [|cffffcc00C|r]
 Ubertip="The Druid of the Claw does relatively high damage, and has a large splash. It has a tolerable cooldown time, and will make a good addition to your Night Elf lineup. |CFF00FF00(Fast(1.20)/200-300 Siege Damage/700 Range)"
@@ -1127,7 +1123,7 @@ LoopingSoundFadeOut=512
 
 [h01C]
 Art=ReplaceableTextures\CommandButtons\BTNcentaur.blp
-Name=Centaur Outrunner
+Name=[Tavern] - Centaur Outrunner
 Hotkey=Q
 Tip=Hire Centaur Outrunner [|cffffcc00Q|r]
 Ubertip="These centaurs are often hired as mercenaries to take out simple targets|n|n|cffffcc00Attack:|r Pierce|n|cffffcc00Cooldown:|r 1.25|n|cffffcc00Damage:|r 19 - 24|n|cffffcc00Range:|r 900"
@@ -1141,7 +1137,7 @@ LoopingSoundFadeOut=512
 
 [h01D]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
-Name=Forest Troll Shadow Priest
+Name=[Forest Trolls] - Forest Troll Shadow Priest
 Hotkey=R
 Tip=Hire Forest Troll Shadow Priest [|cffffcc00R|r]
 Ubertip="This creature may be chaotic, but his special ability can often come in handy when in battle|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Battle Roar; enemies within range take 50% more damage, but has a 25% increased movement speed"
@@ -1155,7 +1151,7 @@ LoopingSoundFadeOut=512
 
 [h01E]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
-Name=Gnoll Warden
+Name=[Gnolls] - Gnoll Warden
 Hotkey=W
 Tip=Hire Gnoll Warden [|cffffcc00W|r]
 Ubertip="This Gnoll Warden was found passed out drunk in your tavern and he's only working for you so you won't report him for drinking on the job|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 34 - 50|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 125"
@@ -1169,7 +1165,7 @@ LoopingSoundFadeOut=512
 
 [h01F]
 Art=ReplaceableTextures\CommandButtons\BTNEarthBrewmaster.blp
-Name=Earth Pandaren
+Name=[Tavern] - Earth Pandaren
 Hotkey=E
 Tip=Hire Earth Pandaren [|cffffcc00E|r]
 Ubertip="The first of the panda brothers is the Earth Pandaren, he spends most of his time in your tavern|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 2 - 2|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Drunken Haze; increases damage taken by 25% for 25 seconds"
@@ -1183,7 +1179,7 @@ LoopingSoundFadeOut=512
 
 [h01G]
 Art=ReplaceableTextures\CommandButtons\BTNRazorback.blp
-Name=Razormane
+Name=[Tavern] - Razormane
 Hotkey=D
 Tip=Hire Razormane [|cffffcc00D|r]
 Ubertip="The Razormane is an important unit to hire for any proper tavern, but you most likely only need one of him|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 286 - 316|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Aura of Doom; enemy units within range have their armor decreased by 5"
@@ -1197,7 +1193,7 @@ LoopingSoundFadeOut=512
 
 [h01H]
 Art=ReplaceableTextures\CommandButtons\BTNSnapDragon.tga
-Name=Snap Dragon
+Name=G Snap Dragon
 Hotkey=D
 Tip=Build Snap |cffffcc00D|rragon
 Ubertip="The next step up in Naga defense, the Snap Dragon has far higher damage, and fires further. It attacks faster, too.  Has mild splash.  |CFF00FF00(Fast(1.00)/40 Normal Damage Ground+40-60 Normal Damage Air/650 Range Ground + 700 Range Air)"
@@ -1212,7 +1208,7 @@ Animprops=upgrade,second
 
 [h01I]
 Art=ReplaceableTextures\CommandButtons\BTNFireBrewmaster.blp
-Name=Fire Pandaren
+Name=[Tavern] - Fire Pandaren
 Hotkey=S
 Tip=Hire Fire Pandaren [|cffffcc00S|r]
 Ubertip="The second panda brother is the Fire Pandaren, he can ignite doused enemies by spitting fire on them|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 2 - 2|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Breath of Fire; deals 100 initial damage and then 300 damage per second if the enemies are doused"
@@ -1227,7 +1223,7 @@ LoopingSoundFadeOut=512
 
 [h01J]
 Art=ReplaceableTextures\CommandButtons\BTNStormBrewmaster.blp
-Name=Storm Pandaren
+Name=[Tavern] - Storm Pandaren
 Hotkey=F
 Tip=Hire Storm Pandaren [|cffffcc00F|r]
 Ubertip="The third panda brother is the Storm Pandaren, he's especially drunk and has no clue what he is doing|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 453 - 609|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Drunken Brawler; this unit will randomly cast Rain of Fire, Dazzle, Carrion Swarm, Flame Strike, Fan of Knives and Impale on enemy units"
@@ -1242,7 +1238,7 @@ LoopingSoundFadeOut=512
 
 [h01K]
 Art=ReplaceableTextures\CommandButtons\BTNHeroTinker.blp
-Name=Goblin Tinker
+Name=G Goblin Tinker
 Hotkey=
 Tip=Hire G|cffffcc00o|rblin Tinker
 Ubertip="Goblin Tinker, Left the Tavern when word got round of the Goblins organising into a full fledged race. Retaining the same skills from his Tavern days this makes him the slowest attacking Goblin but also the longest ranged, with his Cluster Rocket spell. |CFF00FF00( 500dmg / 900 range / 1.25sec stun / 3.50 Cooldown) |CFFED1C24NOTE: can NOT attack air"
@@ -1257,7 +1253,7 @@ Animprops=upgrade,second
 
 [h01L]
 Art=ReplaceableTextures\CommandButtons\BTNPandarenBrewmaster.blp
-Name=Pandaren Brewmaster
+Name=[Tavern] - Pandaren Brewmaster
 Hotkey=C
 Tip=Hire Pandaren Brewmaster [|cffffcc00C|r]
 Ubertip="This is the largest and scariest of the pandas, this big man is of course the uncle to the three brothers|n|n|cffffcc00Attack:|r Hero|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 1010 - 1953|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 250"
@@ -1286,7 +1282,7 @@ LoopingSoundFadeOut=512
 
 [h01N]
 Art=ReplaceableTextures\CommandButtons\BTNGhost.blp
-Name=Silver_Arrow
+Name=G Silver_Arrow
 Hotkey=S
 Tip=Upgrade to |cffffcc00S|rilver_Arrow
 Ubertip="The Sibling of Rusty, kept her status of "fellow worshiper" a secret from Rusty for fear of Rusty's enfamous jealous rage. PRETENDING to lothe, hate and dispise Ultron. Going so far as to say such hurtful things as "Ultron is gay" or "Ultron is a spoiled snot" .... Witty stuff... I know.  |CFF00FF00(900range, Peircing dmg, 96-123 dmg as well as an upgraded AA attack)"
@@ -1318,7 +1314,7 @@ LoopingSoundFadeOut=512
 
 [h01P]
 Art=ReplaceableTextures\CommandButtons\BTNClockWerkGoblin.blp
-Name=Minature Mecha Goblin
+Name=G Minature Mecha Goblin
 Hotkey=Q
 Tip=Build The Minature Mecha Goblin [|cffffcc00Q|r]
 Ubertip="The Minature Mecha Goblin has a very fast attack and good dmg |CFF00FF00( Normal type dmg, 7-14 / 700 Range / .35 Cooldown )|"
@@ -1333,7 +1329,7 @@ Animprops=upgrade,second
 
 [h01Q]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
-Name=Goblin Sapper
+Name=G Goblin Sapper
 Hotkey=
 Tip=Build |cffffcc00G|roblin Sapper
 Ubertip="Goblin Sapper, a very effective 2nd tower with is Spread Fire ability allowing it to attack 3 targets at a time, slightly slower and with less range however... slower... for a goblin... |CFF00FF00 ( Magic type dmg, 23-23 / 600 Range / .45 Cooldown )|"
@@ -1348,7 +1344,7 @@ Animprops=upgrade,second
 
 [h01R]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
-Name=Goblin Bomber
+Name=G Goblin Bomber
 Hotkey=B
 Tip=Build Goblin |cffffcc00B|romber
 Ubertip="Goblin Bomber, a breakthrough in goblin technology with its range and splash however, being artillery it loses accuracy on moving targets |CFF00FF00 ( Siege type dmg, 86-104/ 750Range / .45 Cooldown )| |CFFED1C24Note: This tower CAN'T attack air"
@@ -1363,7 +1359,7 @@ Animprops=upgrade,second
 
 [h01S]
 Art=ReplaceableTextures\CommandButtons\BTNJunkGolem.blp
-Name=Superior Mecha Goblin
+Name=G Superior Mecha Goblin
 Hotkey=B
 Tip=Build |cffffcc00S|ruperior Mecha Goblin
 Ubertip="The Superior Mecha Goblin has shorter range, less dmg and costs more, BUT! it has a larger splash greater attack speed and accuracy. |CFF00FF00 ( Normal type dmg, 55-55 / 700 Range / .20 Cooldown )|"
@@ -1378,7 +1374,7 @@ Animprops=upgrade,second
 
 [h01T]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAlchemist.blp
-Name=Goblin Alchemist
+Name=G Goblin Alchemist
 Hotkey=A
 Tip=Build Goblin |cffffcc00A|rlchemist
 Ubertip="Goblin Alchemist. The final tower in the way of Goblin defense. The Alchemist does excellent dmg with great speed and decent range, its TRUE strength however, lies with its Transmutation ability. Allowing the Alchemist to turn its enemies into gold.|n|n|cFFFF0000DISABLED|r"
@@ -1393,7 +1389,7 @@ Animprops=upgrade,second
 
 [h01U]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
-Name=Fire Lord
+Name=[Tavern] - Fire Lord
 Hotkey=X
 Tip=Hire Fire Lord [|cffffcc00X|r]
 Ubertip="The recent betrayal by the Goblin Tinker had left an open spot in the Tavern Union, the Fire Lord hopes to fill that spot|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 902 - 934|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 150|n|cffffcc00Ability(2):|r After Burn; deals 350 damage per second in an area of 200 after the Fire Lord attacks"
@@ -1407,7 +1403,7 @@ LoopingSoundFadeOut=512
 
 [h01V]
 Art=ReplaceableTextures\CommandButtons\BTNChemicalRage.blp
-Name=Enraged Goblin's Ogre
+Name=G Enraged Goblin's Ogre
 Hotkey=E
 Tip=Build |cffffcc00E|rnraged Goblin's Ogre
 Ubertip="Enraged Goblin's Ogre is a dangerous melee tower with incredible speed and damage. For its price, easily one of the strongest 5th towers. |CFF00FF00 ( Chaos type dmg, 380-440 / 128 Range / 0.00 Cooldown ) |CFFED1C24Note: This tower does Melee Dmg."
@@ -1422,7 +1418,7 @@ Animprops=upgrade,second
 
 [h01W]
 Art=ReplaceableTextures\CommandButtons\BTNROBOGOBLIN.blp
-Name=Decepticon Goblin Autobot
+Name=G Decepticon Goblin Autobot
 Hotkey=D
 Tip=Build |cffffcc00D|recepticon Goblin Autobot
 Ubertip="The Decepticon Goblin Autobot... Definitly More Then Meets The Eye??? Goblins In Disguise??? "You'll pay for this Optimus Prime!" No? well puns aside although weak it has range and unique splash dmg that allows it to cut through multiple targets. |CFF00FF00 ( Magic type dmg, 397-419 / 700 Range / 0.70 Cooldown Goblin Pulse Beam Ability) "
@@ -1452,7 +1448,7 @@ Animprops=upgrade,second
 
 [h01Y]
 Art=ReplaceableTextures\CommandButtons\BTNAmmoDump.blp
-Name=Goblin Inferno Silo
+Name=G Goblin Inferno Silo
 Hotkey=T
 Tip=Build Goblin |cffffcc00I|rnferno Silo
 Ubertip="Goblin Inferno Silo, yes, even the Goblins have Weapons of Mass Destruction. The Goblin Silo has the 2nd largest range deals HUGE splash dmg however it has a very long cooldown |CFF00FF00 ( 793-856 Siege dmg / 895 Range / 3.50 Cooldown ) "
@@ -1636,7 +1632,7 @@ Animprops=upgrade,first
 
 [h02A]
 Art=ReplaceableTextures\CommandButtons\BTNChaosSpaceOrc.blp
-Name=Orc Firebat
+Name=[The Unique] - Orc Firebat
 Hotkey=O
 Tip=Build |cffffcc00O|rrc Firebat
 Ubertip="The Orc Firebat. Again, I SUPPOSE this model isn't the most original nowadays, but this is MY maul... Mofo... Has short range, splash, chaos dmg and a short cooldown.                                                                                                                                                                        |CFF00FF00(117-137 Chaos Damage /400 Range / .30 Cooldown )"
@@ -1695,7 +1691,7 @@ Animprops=upgrade,first
 
 [h02E]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-Name=TheMoonGoddess (Male)
+Name=G TheMoonGoddess (Male)
 Hotkey=M
 Tip=Upgrade to The|cffffcc00M|roonGoddess (Male)
 Ubertip="Gender... In this crazy online world, what does it matter REALLY? One persons ugly female may be anothers ugly male. Moon met every single prerequisite one need meet to be a young online female. Annoying and... Yup, uhhh pretty sure thats all of them.                                                                                                               |CFF00FF00( Chaos type dmg, 67-90 / .75cooldown / Melee Range )                                                                                      |CFFED1C24Note: This tower does MELEE Splash Dmg."
@@ -1743,7 +1739,7 @@ LoopingSoundFadeOut=512
 
 [h02H]
 Art=ReplaceableTextures\CommandButtons\BTNMarine.blp
-Name=Marine
+Name=[The Unique] - Marine
 Hotkey=Q
 Tip=Build Marine [|cffffcc00Q|r]
 Ubertip="A simple combat trained marine used for killing of hoards and hoards of zerglings.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 7 - 7|n|cffffcc00Range:|r 800"
@@ -1754,7 +1750,7 @@ Missilespeed=2000
 
 [h02I]
 Art=ReplaceableTextures\CommandButtons\BTNFelBoar.blp
-Name=Fel Clown
+Name=G Fel Clown
 Hotkey=F
 Tip=Build |cffffcc00F|rel Clown
 Ubertip="The Fel Clown. Now we're talkin', bet this Model doesn't see too much action. Deals HUGE melee dmg at fast speeds and has a pretty good splash. Can attack air but pretty much has to be right on top of it.                                                                                                                                                                                             |CFF00FF00(57-105 Hero Damage /128 Range(Melee) / .75 Cooldown )                                      |CFFED1C24Note: This Tower Does Melee Dmg|R"
@@ -1767,7 +1763,7 @@ LoopingSoundFadeOut=512
 
 [h02J]
 Art=ReplaceableTextures\CommandButtons\BTNProudmoore.blp
-Name=Admiral Proudmoore
+Name=[The Unique] - Admiral Proudmoore
 Hotkey=A
 Tip=Build |cffffcc00A|rdmiral Proudmoore
 Ubertip="Admiral Proudmoore. Not a very good attack for this lvl of tower, however his aura deals dmg to those around him which is VERY effective.                                                                                                                                                                       |CFF00FF00(150-150 Normal Dmg /800 Range /1.00 Cooldown) (Aura Deals 50 dmg per sec / 800 range)"
@@ -1780,7 +1776,7 @@ LoopingSoundFadeOut=512
 
 [h02K]
 Art=ReplaceableTextures\CommandButtons\BTNForgottenOne.blp
-Name=Forgotten One
+Name=[The Unique] - Forgotten One
 Hotkey=A
 Tip=Build For|cffffcc00g|rotten One
 Ubertip="The Forgotten One. Has long range, some good splash dmg but a longer cooldown and artillery type attack.                                                                                                                               |CFF00FF00(403-431 Siegel Dmg /1200 Range /1.60 Cooldown) "
@@ -1794,7 +1790,7 @@ LoopingSoundFadeOut=512
 
 [h02L]
 Art=ReplaceableTextures\CommandButtons\BTNHydralisk.blp
-Name=Hydralisk
+Name=[The Unique] - Hydralisk
 Hotkey=H
 Tip=Build |cffffcc00H|rydralisk
 Ubertip="The Hydralisk. Has no splash dmg, but doesn't cost that much more than the last tower and has more dmg and a better attack speed. Every Hydralisk HAS to have poison too.                                                                                                                                                                   |CFF00FF00(481-537 Piercing Dmg /900 Range /.80 Cooldown) "
@@ -1807,7 +1803,7 @@ LoopingSoundFadeOut=512
 
 [h02M]
 Art=ReplaceableTextures\CommandButtons\BTNOrcCar.blp
-Name=Orc Kart
+Name=G Orc Kart
 Hotkey=K
 Tip=Build Orc |cffffcc00K|rart
 Ubertip="The Orc Kart. Looks pretty nice. The spiritual sequal to The Marine. deals dmg extremely fast with its quick cooldown and chaos dmg. No splash though.                                                                                                                                                                                                       |CFF00FF00(667-763 Chaos Dmg /800 Range /.20 Cooldown) "
@@ -1820,7 +1816,7 @@ LoopingSoundFadeOut=512
 
 [h02N]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadCar.blp
-Name=Undead Kart
+Name=G Undead Kart
 Hotkey=U
 Tip=Build |cffffcc00U|rndead Kart
 Ubertip="The Undead Kart. More damage, a little more range but again, no splash. However it has the abliity to cast Lightning Shield which can do some major damage.|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 1095 - 1191|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Lightning Shield; deals 300 damage per second to enemies around the initial target"
@@ -1833,7 +1829,7 @@ LoopingSoundFadeOut=512
 
 [h02O]
 Art=ReplaceableTextures\CommandButtons\BTNDwarfCar.blp
-Name=Dwarf Kart
+Name=G Dwarf Kart
 Hotkey=D
 Tip=Build |cffffcc00D|rwarf Kart
 Ubertip="The Dwarf Kart. A fair bit less dmg than the Undead Kart, however it is able to strike up to 7 units at a time.                                                                                                                                                                                                     |CFF00FF00(800-800 Normal Dmg /900 Range /1.00 Cooldown) "
@@ -1846,7 +1842,7 @@ LoopingSoundFadeOut=512
 
 [h02P]
 Art=ReplaceableTextures\CommandButtons\BTNDiabloCar.blp
-Name=Diablo Kart
+Name=G Diablo Kart
 Hotkey=I
 Tip=Build D|cffffcc00i|rablo Kart
 Ubertip="The Diablo Kart. Has a low cooldown and some small splash. On the down side, this tower has a fairly short range but to make up for it... SHOCKWAVE.                                                                                                                                                                                                   |CFF00FF00(1006-1094 Normal Dmg /700 Range /.60 Cooldown) "
@@ -1859,7 +1855,7 @@ LoopingSoundFadeOut=512
 
 [h02Q]
 Art=ReplaceableTextures\CommandButtons\BTNManaShield.blp
-Name=Iron As In Arthas
+Name=[The Unique] - Iron Arthas
 Hotkey=I
 Tip=Build I|cffffcc00r|ron As In Arthas
 Ubertip="Iron As In Arthas. Has a low cooldown and some large splash. Buffs up all nearby towers attack damage and speed.|n|CFF00FF00(1000-1100 Normal Dmg /1200 Range /.70 Cooldown) "
@@ -1888,7 +1884,7 @@ LoopingSoundFadeOut=512
 
 [h02S]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
-Name=Husk
+Name=[Void Cult] - Husk
 Hotkey=-
 Tip=Build Scout |cffffcc00T|rower
 Ubertip="Basic observation tower. Has no attack, but can be upgraded into a Guard Tower, an Arcane Tower, or a Cannon Tower. Can learn the Magic Sentry ability."
@@ -1900,17 +1896,17 @@ LoopingSoundFadeOut=512
 
 [h02T]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
-Name=Ascended Void Cultist
+Name=[Builder] - Ascended Void Cultist
 Hotkey=P
 Tip=Train |cffffcc00P|reasant
-Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
-EditorSuffix=Void Altar
+Ubertip=
+EditorSuffix=Void Cult
 Buttonpos=0,0
 Builds=h02G,h02F,h01M,h01A
 
 [h02U]
 Art=ReplaceableTextures\CommandButtons\BTNFootman.blp
-Name=Blackrock Footman
+Name=G Blackrock Footman
 Hotkey=G
 Tip=Build Blackrock Footman
 Ubertip="Mike, you excpected a nice positon in this race?? TOO BAD Anyway, the Blademastur is a nooby begging tower, 2-5dmg normal, 1.5 cooldown and 700 range, However, has a 50% chance to do 4x the dmg so its really 2-20dmg chaos :D"
@@ -1926,7 +1922,7 @@ Animprops=upgrade,first
 
 [h02V]
 Art=ReplaceableTextures\CommandButtons\BTNElvenGuardTower.blp
-Name=Earth-Fury
+Name=[Humans] - Earth-Fury
 Hotkey=X
 Tip=Build Earth-Fury [|cffffcc00X|r]
 Ubertip="At first this tower was planned to be so tall it would shoot through the skies, but the humans quickly saw this would become impractical|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 2000 - 2000|n|cffffcc00Range:|r 700 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 600"
@@ -1943,7 +1939,7 @@ Animprops=upgrade,third
 
 [h02W]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBloodElfPrince.blp
-Name=Blood Mage
+Name=G Blood Mage
 Hotkey=G
 Tip=Build Blood Mage
 Ubertip="Blood Mage, crap damage 1-1 but has Burn baby BURN which does 50 damage a second with 25 dmg a second after. 700 range, 2.00 cooldown"
@@ -1959,7 +1955,7 @@ Animprops=upgrade,first
 
 [h02X]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfPeasant.blp
-Name=ThaiTeaIsGood
+Name=G ThaiTeaIsGood
 Hotkey=N
 Tip=Build ThaiTeaIsGood
 Ubertip="ThaiTeaIsGood spends many hours of his day making up new lines that you will soon see. His a smart nerdy asian kid that is super weak because hes asian. No attackscause hedoesnt work out at ALL.  Has a +45% attackon the WHOLEmap, a bloodlust that can targetanything on the WHOLE map and many others.  "
@@ -1976,7 +1972,7 @@ Animprops=upgrade,third
 
 [h02Y]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDemonHunter.blp
-Name=Demon Hunter
+Name=G Demon Hunter
 Hotkey=N
 Tip=Build Demon Hunter
 Ubertip="A tower that does 2-2 dmg, 700 range and 1.00 cooldown, howerver, has immolation which does 150 dmg to ground and air around it."
@@ -1993,7 +1989,7 @@ Animprops=upgrade,third
 
 [h02Z]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.blp
-Name=Lich King
+Name=G Lich King
 Hotkey=N
 Tip=Build Lich King
 Ubertip="Lich King. Nice aa tower that doesnt attack ground. Splash, and its the first tower you get that has damage xD. 500-500 dmg chaos .1 cooldown and 700 range. Has frost nova that only attacks air but does 600 to 300 dmg with a 3 second slow ONLY ATTACKS AIR"
@@ -2010,7 +2006,7 @@ Animprops=upgrade,third
 
 [h030]
 Art=ReplaceableTextures\CommandButtons\BTNHeroTaurenChieftain.blp
-Name=Tauran Chieftan
+Name=G Tauran Chieftan
 Hotkey=N
 Tip=Upgrade to Tauren Chieftan
 Ubertip="Upgrade to Tauren Chieftan, melee attack, does 13-15 dmg normal with a 1.4 cooldown.  Has blademastur's critical (15% 4x dmg) and also war stomp which does 25 dmg in a 200 range with a 1 sec stun for a 10 second cooldown.  Also has slight ground splash, and a nice AA attack."
@@ -2028,7 +2024,7 @@ Animprops=upgrade,third
 
 [h031]
 Art=ReplaceableTextures\CommandButtons\BTNPriestessOfTheMoon.blp
-Name=Priestess Of The Moon
+Name=G Priestess Of The Moon
 Hotkey=N
 Tip=Build Priestess of the Moon
 Ubertip="Nice piercing tower that does 650-750 dmg, has a .5 cooldown, 700 range, and starfall which does 75 dmg to all in a 700 range radius."
@@ -2046,7 +2042,7 @@ Animprops=upgrade,third
 
 [h032]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDeathKnight.blp
-Name=Death Knight
+Name=G Death Knight
 Hotkey=N
 Tip=Build Death Knight
 Ubertip="Death Knight, 650-750 magic damage, 700 range, .5 cooldown and has death coil, a 15 second cooldown at 700 range that does 1000 dmg."
@@ -2064,7 +2060,7 @@ Animprops=upgrade,third
 
 [h033]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
-Name=ThaiBladeIsMastur
+Name=G ThaiBladeIsMastur
 Hotkey=N
 Tip=Build ThaiBladeisMastur
 Ubertip="ThaiBladeIsMastur, FUSION HA! This 1337 tower is so strong that its 1337.  Does1337-1337 dmg hero, at a 1337 range, with a 1.337 cooldown. SOME REALLY SEXY SPLASH TOO. Has holy Power which at a 1.337% chance will do 1.337x the damage.  Also has Holy Light which stuns at a 1337 range for 1.337 seconds with a 1.337 cooldown with 1337 dmg"
@@ -2081,7 +2077,7 @@ Animprops=upgrade,third
 
 [h034]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
-Name=The Mountain King
+Name=G The Mountain King
 Hotkey=N
 Tip=Build The Mountain King
 Ubertip="The Mountain King, does 650-750 dmg seige at a .5cooldow with a 700 range. No Splash but has storm bolt which does 1000 dmg and stuns for 3 seconds"
@@ -2098,7 +2094,7 @@ Animprops=upgrade,third
 
 [h035]
 Art=ReplaceableTextures\CommandButtons\BTNHeroFarseer.blp
-Name=Far Seer
+Name=G Far Seer
 Hotkey=N
 Tip=Upgrade To Far Seer
 Ubertip="Far Seer, shitty damage, but has chain lightning which does some sexy 400 dmg to 5 targets with a 9 second cooldown. 700 range"
@@ -2115,7 +2111,7 @@ Animprops=upgrade,third
 
 [h036]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDreadLord.blp
-Name=DreadLord
+Name=G DreadLord
 Hotkey=N
 Tip=Upgrade to DreadLord
 Ubertip="Really sexy tower, great against mobs with carrion swarm :D which does hecka damamge to lots of people. Same stats as the death knight other wise"
@@ -2133,7 +2129,7 @@ Animprops=upgrade,third
 
 [h037]
 Art=ReplaceableTextures\CommandButtons\BTNHeroCryptLord.blp
-Name=Crypt Lord
+Name=G Crypt Lord
 Hotkey=N
 Tip=Upgrade to CryptLord
 Ubertip="Crypt Lord has the same stats as the Death Knight, but has Impale, which does 200 dmg in a 600 range wave with a 9 second cooldown.  Has a 2 second stun."
@@ -2150,7 +2146,7 @@ Animprops=upgrade,third
 
 [h038]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperOfTheGrove.blp
-Name=Keeper of The Grove
+Name=G Keeper of The Grove
 Hotkey=N
 Tip=Upgrade to Keeper of the Grove
 Ubertip="Keeper of the Grove, same stats as Priestess but does 750-849 dmg and has enatnagle which does 150dmg/sec to 1person and stopping them, 11 second cooldown 700 range."
@@ -2168,7 +2164,7 @@ Animprops=upgrade,third
 
 [h039]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeRanger.blp
-Name=Dark Ranger
+Name=G Dark Ranger
 Hotkey=N
 Tip=Upgrade to Dark Ranger
 Ubertip="Dark ranger, nice tower with the same stats as Pirestess, but has 200+ attack and has life drain which drains 500hp/second for 10 seconds  with a 15 second cooldown."
@@ -2185,7 +2181,7 @@ Animprops=upgrade,third
 
 [h03A]
 Art=ReplaceableTextures\CommandButtons\BTNHeroWarden.blp
-Name=Warden
+Name=G Warden
 Hotkey=N
 Tip=Upgrade to Warden
 Ubertip="Warden, 1-1 dmg chaos, ok crap >< but with fan of knives, a 3 second cooldown, 500 dmg dealing to 10 targets this tower is NOT crap :D."
@@ -2203,7 +2199,7 @@ Animprops=upgrade,third
 
 [h03B]
 Art=ReplaceableTextures\CommandButtons\BTNPitLord.blp
-Name=Pit Lord
+Name=G Pit Lord
 Hotkey=N
 Tip=Upgrade to Pit Lord
 Ubertip="The PItLorddoes 1-1dmg chaos with a 1 second cooldown and a 700 range.  Has Rain Of DOOM which does 45 dmg a wave for 5waves and 3 dmg afterburn for 3seconds. TOTALLY OWNS ARCHMAGE worth it for the 20 gold more it costs."
@@ -2354,10 +2350,10 @@ LoopingSoundFadeOut=512
 
 [h03L]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
-Name=Union Leader
+Name=[Builder] - Union Leader
 Hotkey=P
-Tip=Train |cffffcc00P|reasant
-Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+Tip=
+Ubertip=
 EditorSuffix=Workers Union
 Buttonpos=0,0
 Builds=h03E,h03I,h03F,h03G,h03H
@@ -2393,7 +2389,7 @@ LoopingSoundFadeOut=512
 
 [h03O]
 Art=ReplaceableTextures\CommandButtons\BTNChemicalRage.blp
-Name=Goblin's Ogre
+Name=G Goblin's Ogre
 Hotkey=E
 Tip=Build Goblin's Ogre |cffffcc00[E]|r
 Ubertip="Enraged Goblin's Ogre is a dangerous melee tower with incredible speed and damage.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 380 - 440|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Alchemic Enduced Rage; permanently increases attackspeed by 25%"
@@ -2569,7 +2565,7 @@ LoopingSoundFadeOut=512
 
 [h042]
 Art=ReplaceableTextures\CommandButtons\BTNGuardTower.blp
-Name=Arrow Tower
+Name=[Humans] - Arrow Tower
 Hotkey=Z
 Tip=Upgrade to Arrow Tower [|cffffcc00Z|r]
 Ubertip="A very basic arrow tower|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 20 - 21|n|cffffcc00Range:|r 900|n|cffffcc00Upgrade:|r Venom Tower|n|cffffcc00Upgrade(2):|r Lightning Tower"
@@ -2585,7 +2581,7 @@ Animprops=upgrade,first
 
 [h043]
 Art=ReplaceableTextures\CommandButtons\BTNCannonTower.blp
-Name=Cannon Tower
+Name=[Human] - Cannon Tower
 Hotkey=X
 Tip=Upgrade to Cannon Tower [|cffffcc00X|r]
 Ubertip="A basic tower that shoots cannon balls|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 22 - 23|n|cffffcc00Range:|r 700 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 50"
@@ -2601,7 +2597,7 @@ Animprops=upgrade,second
 
 [h044]
 Art=ReplaceableTextures\CommandButtons\BTNHumanArcaneTower.blp
-Name=Arcane Tower
+Name=[Humans] - Arcane Tower
 Hotkey=C
 Tip=Upgrade to Arcane Tower [|cffffcc00C|r]
 Ubertip="A very basic arcane tower that shoots magic missiles at enemies|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 15 - 16|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 50"
@@ -2617,7 +2613,7 @@ Animprops=upgrade,third
 
 [h045]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
-Name=Venom Tower
+Name=[Humans] - Venom Tower
 Hotkey=Z
 Tip=Upgrade to Venom Tower [|cffffcc00Z|r]
 Ubertip="An improved version of the arrow tower that shoots poison darts at enemies|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 1 - 1|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Venom; deals 25 damage per second and slows enemies by 30%, lasts 3 seconds"
@@ -2632,7 +2628,7 @@ Animprops=upgrade,first
 
 [h046]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
-Name=Lightning Tower
+Name=[Humans] - Lightning Tower
 Hotkey=X
 Tip=Upgrade to Lightning Tower [|cffffcc00X|r]
 Ubertip="An improved version of the arrow tower that shoots lightning at nearby enemies|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 9 - 11|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Ricochet; attacks can bounce and hit a total of 3 enemies"
@@ -2647,7 +2643,7 @@ Animprops=upgrade,first
 
 [h047]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
-Name=Fire Tower
+Name=[Humans] - Fire Tower
 Hotkey=Z
 Tip=Upgrade to Fire Tower [|cffffcc00Z|r]
 Ubertip="An improved version of the cannon tower that shoots burning fire at enemies|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 30 - 30|n|cffffcc00Range:|r 700 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 120"
@@ -2662,7 +2658,7 @@ Animprops=upgrade,second
 
 [h048]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
-Name=Frost Tower
+Name=[Humans] - Frost Tower
 Hotkey=X
 Tip=Upgrade to Frost Tower [|cffffcc00X|r]
 Ubertip="An improved version of the cannon tower that shoots balls of frost at enemies|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 16 - 17|n|cffffcc00Range:|r 700 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 120|n|cffffcc00Ability(2):|r Frost Attack; slows attacked units movement speed by 25% for 10 seconds."
@@ -2677,7 +2673,7 @@ Animprops=upgrade,second
 
 [h049]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
-Name=Darkness Tower
+Name=[Human] - Darkness Tower
 Hotkey=Z
 Tip=Upgrade to Darkness Tower [|cffffcc00Z|r]
 Ubertip="An improved version of the arcane tower that shoots dark magic at enemies|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 10 - 10|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Spreading Darkness; allows the tower to shoot up to 5 enemies at the same time"
@@ -2692,7 +2688,7 @@ Animprops=upgrade,third
 
 [h04A]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
-Name=Corruption Tower
+Name=[Humans] - Corruption Tower
 Hotkey=X
 Tip=Upgrade to Corruption Tower [|cffffcc00X|r]
 Ubertip="An improved version of the arcane tower that shoots corrption missiles at enemies|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.40|n|cffffcc00Damage:|r 12 - 12|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 150"
@@ -2707,7 +2703,7 @@ Animprops=upgrade,third
 
 [h04B]
 Art=ReplaceableTextures\CommandButtons\BTNColdTower.blp
-Name=Cold Tower
+Name=[Humans] - Cold Tower
 Hotkey=A
 Tip=Build Cold Tower [|cffffcc00A|r]
 Ubertip="The Cold Tower cools down water until it forms a large ice shard which it then uses as ammunition to shoot down it's enemies|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.75|n|cffffcc00Damage:|r 440 - 440|n|cffffcc00Range:|r 650|n|cffffcc00Ability:|r Splash; the area of effect is 150 (air only)"
@@ -2723,7 +2719,7 @@ Animprops=fourth
 
 [h04C]
 Art=ReplaceableTextures\CommandButtons\BTNRockTower.blp
-Name=Boulder Tower
+Name=[Humans] - Boulder Tower
 Hotkey=D
 Tip=Build Boulder Tower [|cffffcc00D|r]
 Ubertip="It may be slow, but this tower can definitely pack a punch once it hits it's enemies|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 1.50|n|cffffcc00Damage:|r 900 - 900|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Splash; the area of effect is 140"
@@ -2739,7 +2735,7 @@ Animprops=second
 
 [h04D]
 Art=ReplaceableTextures\CommandButtons\BTNFlameTower.blp
-Name=Flame Tower
+Name=[Humans] - Flame Tower
 Hotkey=F
 Tip=Build Flame Tower [|cffffcc00F|r]
 Ubertip="This tower takes a while to prepare it's concoction, but once it finally shoots it leaves a burning hell for enemies to walk into |n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.50|n|cffffcc00Damage:|r 50 - 50|n|cffffcc00Range:|r 800 (ground only)|n|cffffcc00Ability:|r Flames; leaves burning fire on the ground that deals 500 damage per second"
@@ -2755,7 +2751,7 @@ Animprops=third
 
 [h04E]
 Art=ReplaceableTextures\CommandButtons\BTNHeroArchMage.blp
-Name=Archmage
+Name=G Archmage
 Hotkey=N
 Tip=Build Archmage
 Ubertip="Archmage, once again, shit damage, but has COLD FURY?? does 35 dmg a wave with 5 waves with a 3 cooldown 700 range"
@@ -2832,7 +2828,7 @@ LoopingSoundFadeOut=512
 
 [h04J]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
-Name=Phoenix
+Name=[High Elven] - Phoenix
 EditorSuffix=[High Elven]
 Buttonpos=0,0
 Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile.mdl
@@ -3001,17 +2997,17 @@ Buttonpos=0,0
 
 [hC07]
 Art=ReplaceableTextures\CommandButtons\BTNPeasant.blp
-Name=Peasant
+Name=[Builder] - Peasant
 Hotkey=P
-Tip=Train |cffffcc00P|reasant
-Ubertip="Human worker, can build Human buildings"
+Tip=
+Ubertip=
 EditorSuffix=Human Town Hall
 Buttonpos=0,0
 Builds=hC66,hC08,hC54,h006,h04C,h00K,h04B,h04D,h00L,h02V
 
 [hC08]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
-Name=Knight
+Name=[Humans] - Knight
 Hotkey=W
 Tip=Build Knight [|cffffcc00W|r]
 Ubertip="A loyal knight sworn true to the human king, he will stand guard wherever you tell him to|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.16|n|cffffcc00Damage:|r 200 - 240|n|cffffcc00Range:|r Melee"
@@ -3022,7 +3018,7 @@ LoopingSoundFadeOut=512
 
 [hC11]
 Art=ReplaceableTextures\CommandButtons\BTNHippogriff.tga
-Name=Hippogryph
+Name=[Aviaries] - Hippogryph
 Hotkey=Q
 Tip=Build Hippogryph [|cffffcc00Q|r]
 Ubertip="Light Aerial tower. Does light damage in moderate range. Attacks extremely fast.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.40|n|cffffcc00Damage:|r 8 - 9|n|cffffcc00Range:|r 600"
@@ -3045,7 +3041,7 @@ Buttonpos=0,0
 
 [hC21]
 Art=ReplaceableTextures\CommandButtons\BTNGhost.blp
-Name=Ghast
+Name=[Undead] - Ghast
 Hotkey=Q
 Tip=Build Ghast [|cffffcc00Q|r]
 Ubertip="The ghast is a fearsome creature that mostly dwells in the darkness underground, hiding it's ghastly body from anyone and everyone, but once in a while it surfaces, wreaking havoc wherever it goes|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 2 - 2|n|cffffcc00Range:|r 256|n|cffffcc00Ability:|r Poison; deals 6 damage per second for 2 seconds"
@@ -3061,7 +3057,7 @@ Animprops=upgrade,first
 
 [hC27]
 Art=ReplaceableTextures\CommandButtons\BTNCryptFiend.tga
-Name=Crypt Fiend
+Name=[Undead] - Crypt Fiend
 Hotkey=W
 Tip=Build Crypt Fiend [|cffffcc00W|r]
 Ubertip="Crypt Fiends are great pets, they can get rid of anoying flying creatures like a small fly or a bird and sometimes they even manage to take down dragons|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 30 - 30|n|cffffcc00Range:|r 128 (ground only)|n|cffffcc00Attack(2):|r Chaos|n|cffffcc00Cooldown(2):|r 0.80|n|cffffcc00Damage(2):|r 70 - 70|n|cffffcc00Range(2):|r 1000 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 60 (air only)"
@@ -3077,7 +3073,7 @@ Animprops=upgrade,first
 
 [hC32]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
-Name=Frost Wyrm
+Name=G Frost Wyrm
 Hotkey=F
 Tip=Build Frost Wyrm [|cffffcc00F|r]
 Ubertip="This tower has 2 attacks.  Its first attack is a ground attack with very fast attack speed and decent damage.  Its second attack, is for air and although the speed is slower, it has moderate splash. This units well rounded nature makes it a must have.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 200 - 300|n|cffffcc00Range:|r 700 (ground only)|n|cffffcc00Attack (2):|r Normal|n|cffffcc00Cooldown (2):|r 1.00|n|cffffcc00Damage (2):|r 400 - 600|n|cffffcc00Range (2):|r 700 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 75 (ground only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 100 (air only)"
@@ -3090,7 +3086,7 @@ LoopingSoundFadeOut=512
 
 [hC34]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyQueen.blp
-Name=Harpy Scout
+Name=[Tavern] - Harpy Scout
 Hotkey=A
 Tip=Hire Harpy Scout [|cffffcc00A|r]
 Ubertip="Harpies are known to have sharp claws that can shred through the armor of almost any enemy unit|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 216 - 259|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 180"
@@ -3104,7 +3100,7 @@ LoopingSoundFadeOut=512
 
 [hC36]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.tga
-Name=Gyrocopter
+Name=[Aviaries] - Gyrocopter
 Hotkey=E
 Tip=Build Gyrocopter [|cffffcc00E|r]
 Ubertip="The Gyrocopter utilizes electrical discharges coming from storm clouds by storing them in a battery capacitor so he can discharge it upon nearby enemies|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 1 - 1|n|cffffcc00Range:|r 400|n|cffffcc00Ability:|r Chain Lightning; deals 150 damage to the initial target and then bounces to 3 nearby enemies dealing 15% less damage with each bounce"
@@ -3149,7 +3145,7 @@ Attachmentanimprops=medium
 
 [hC53]
 Art=ReplaceableTextures\CommandButtons\BTNRockGolem.blp
-Name=Rock Giant
+Name=[Giants] - Rock Giant
 Hotkey=E
 Tip=Build Rock Giant [|cffffcc00E|r]
 Ubertip="This Rock Giant is so old there's moss growing on him and is in dire need of an upgrade, which you of course promised him, riiiight?|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 3.00|n|cffffcc00Damage:|r 162 - 162|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Engineering Upgrade; after getting 40 kills the Rock Giant is upgraded|n|cffffcc00Ability(2):|r Splash; the area of effect is 125"
@@ -3163,7 +3159,7 @@ LoopingSoundFadeOut=512
 
 [hC54]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngineWithMissles.blp
-Name=Siege Engine
+Name=[Humans] - Siege Engine
 Hotkey=E
 Tip=Build Siege Engine [|cffffcc00E|r]
 Ubertip="One of the first tanks ever made was the Siege Engine, it is great at shooting down larger enemies|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 25 - 27|n|cffffcc00Range:|r 850|n|cffffcc00Ability:|r Splash; the area of effect is 180"
@@ -3179,7 +3175,7 @@ Animprops=alternate
 
 [hC66]
 Art=ReplaceableTextures\CommandButtons\BTNHumanWatchTower.blp
-Name=Tower
+Name=[Humans] - Tower
 Hotkey=Q
 Tip=Build Tower [|cffffcc00Q|r]
 Ubertip="This is a very basic tower construction that has no weapons implemented|n|n|cffffcc00Attack:|r None|n|cffffcc00Upgrade:|r Arrow Tower|n|cffffcc00Upgrade(2):|r Cannon Tower|n|cffffcc00Upgrade(3):|r Arcane Tower"
@@ -3195,7 +3191,7 @@ LoopingSoundFadeOut=512
 
 [hC75]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctor.blp
-Name=Witch Doctor
+Name=G Witch Doctor
 Hotkey=W
 Tip=Build |cffffcc00W|ritch Doctor
 Ubertip="Has an extremely fast attack speed, but the Witch Doctor lacks something that the rest of the Orcs have: splash damage. A great tower for any level. |CFF00FF00 (Very Fast(0.05)/170 Piercing Damage/700 Range)"
@@ -3286,7 +3282,7 @@ LoopingSoundFadeOut=512
 
 [hC87]
 Art=ReplaceableTextures\CommandButtons\BTNAzureDragon.tga
-Name=Blue Dragon Whelp
+Name=G Blue Dragon Whelp
 Hotkey=U
 Tip=Build Bl|cffffcc00u|re Dragon Whelp
 Ubertip="The next tower of Dragon's defense has the ability to slow enemies. It also does splash damage in a mild amount. Blue Dragon Whelp posseses a short range, however.  |CFF00FF00(Very Fast(0.70) Ground+Fast(1.00) Air/30-40  Normal Damage Ground+40-60 Normal Air/450 Range Ground + 700 Range Air)"
@@ -3301,7 +3297,7 @@ Animprops=upgrade,first
 
 [hC88]
 Art=ReplaceableTextures\CommandButtons\BTNBronzeDragon.tga
-Name=Adult Bronze Dragon
+Name=G Adult Bronze Dragon
 Hotkey=Z
 Tip=Build Adult Bron|cffffcc00z|re Dragon
 Ubertip="The Adult Bronze is a fast attacking tower with decent damage and mild splash. It is most powerful when used in numbers. This is a must-have for any Dragon player. |CFF00FF00 (Does Pierce Damage)  (Very Fast(0.20)/100 Damage/700 Range)"
@@ -3314,7 +3310,7 @@ LoopingSoundFadeOut=512
 
 [hC89]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.tga
-Name=Adult Green Dragon
+Name=G Adult Green Dragon
 Hotkey=G
 Tip=Build Adult |cffffcc00G|rreen Dragon
 Ubertip="The Green Adult reduces the target's HP by 30%. It attacks fairly fast and has decent range. A good addition to your Dragon line-up.  |CFF00FF00(Fast(1.20)/1-1 Damage + -30% of targets current life/700 Range)"
@@ -3343,7 +3339,7 @@ LoopingSoundFadeOut=512
 
 [hC94]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.tga
-Name=Lich
+Name=[Undead] - Lich
 Hotkey=A
 Tip=Build Lich [|cffffcc00A|r]
 Ubertip="The Lich is the reason you sometimes get chills creeping down your spine even when you're not cold|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.50|n|cffffcc00Damage:|r 12 - 24|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Frost Burn; shoots streams of ice every 0.30th second which deals 2 initial damage and then 125 damage a second for 3 seconds (can't kill)"
@@ -3367,7 +3363,7 @@ Buttonpos=0,0
 
 [hC96]
 Art=ReplaceableTextures\CommandButtons\BTNRedDragon.tga
-Name=Ancient Red Dragon
+Name=G Ancient Red Dragon
 Hotkey=R
 Tip=Build Ancient |cffffcc00R|red Dragon
 Ubertip="The Ancient Red provides high damage with Critical Strike. It has a long range only surpassed by deathwing, but a long cooldown. Still, it is a good idea to get one of these.  |CFF00FF00(Average(1.60)/400-450 Normal Damage/800 Range)"
@@ -3381,7 +3377,7 @@ LoopingSoundFadeOut=512
 
 [hC97]
 Art=ReplaceableTextures\CommandButtons\BTNOgreMagi.blp
-Name=Ogre Magi
+Name=[Giants] - Ogre Magi
 Hotkey=S
 Tip=Build Ogre Magi [|cffffcc00S|r]
 Ubertip="He used to be the weakest ogre in as a child, but that all changed when he found this magical book which gave him everything he desired; power.|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 1 - 0|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Splash; the area of effect is 400|n|cffffcc00Ability(2):|r Cursed Spellbook; increases damage by 350, decreases damage of nearby allied towers by 400"
@@ -3397,7 +3393,7 @@ Animprops=upgrade,first
 
 [hC99]
 Art=ReplaceableTextures\CommandButtons\BTNTidalGuardian.blp
-Name=Tidal Guardian
+Name=G Tidal Guardian
 Hotkey=T
 Tip=Build |cffffcc00T|ridal Guardian
 Ubertip="The Tidal Guardian does decent damage, and it has a huge splash. This splash of cold will slow large amounts of enemies. This tower has a high cooldown period, however. It's a good idea for every naga player to make at least one of these. |CFF00FF00(Slow(2.50)/200-300 Normal Damage/800 Range)"
@@ -3517,7 +3513,7 @@ LoopingSoundFadeOut=512
 
 [n007]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
-Name=Elemental
+Name=[Alliance of Blades] - Elemental
 Hotkey=A
 Tip=Build Elemental [|cffffcc00A|r]
 Ubertip="He does not speak, he only fights, you're just lucky he fights for you|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 32 - 32|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Inventory; this unit can hold 1 item|n|cffffcc00Ability (2):|r Splash; the area of effect is 120"
@@ -3541,7 +3537,7 @@ Attachmentanimprops=medium
 
 [n009]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedMoonWell.blp
-Name=Corrupted Moon Well
+Name=[Corrupt N.Elves] - Corrupted Moon Well
 Hotkey=W
 Tip=Build Corrupted Moon Well [|cffffcc00W|r]
 Ubertip="Drinking from this well will most definitely make you sick, it is highly recommended to stay far far away.|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 220|n|cffffcc00Ability:|r Corruption; deals 4 damage per second to enemy units within an area of 220 |cFFFF4933(does not stack)|r"
@@ -3572,7 +3568,7 @@ LoopingSoundFadeOut=512
 
 [n00B]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiMage.blp
-Name=Draenei Seer
+Name=G Draenei Seer
 Hotkey=D
 Tip=Hire Draenei |cffffcc00D|risciple
 Ubertip="An excellent step in the right direction, cheap and doing splash dmg. a MUST HAVE tower for the Draenei.|CFF00FF00 (71-75 Magic Dmg / 800 Range / 0.70 Cooldown )"
@@ -3584,7 +3580,7 @@ MissileHoming=1
 
 [n00C]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
-Name=Draenei Assassin
+Name=G Draenei Assassin
 Tip=Hire Draenei Assassin
 Ubertip="The Draenei Assassin. Incredibly usefull with its high dmg and stun spell. Yes this tower casts Impale and at a very fast rate as it has no other real attack. |CFF00FF00( SPELL: 600 Dmg / 700 range / 0.50 Cooldown)"
 Buttonpos=3,1
@@ -3592,7 +3588,7 @@ MissileHoming=1
 
 [n00D]
 Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
-Name=Tentacle
+Name=[Cavernous Creatures] - Tentacle
 Ubertip="A gnarly tentacle from the depths. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Cavernous Creatures]
 Buttonpos=,
@@ -3601,7 +3597,7 @@ MissileHoming=1
 
 [n00E]
 Art=ReplaceableTextures\CommandButtons\BTNDemolisher.blp
-Name=Draenei Anti- Air Engine
+Name=G Draenei Anti- Air Engine
 Tip=Train Anti- Air Engine
 Ubertip="The Draenei Anti-Air Engine. Probably the best anti air tower the Draenei have, giving even Akama a run for his money with its HUGE splash. |CFF00FF00( 901-908 Chaos Splash Dmg / 900 Range / 1.00 Cooldown )"
 Buttonpos=2,1
@@ -3613,7 +3609,7 @@ Attachmentanimprops=large
 
 [n00F]
 Art=ReplaceableTextures\CommandButtons\BTNIceTroll.blp
-Name=Ice Troll
+Name=[Ice Trolls] - Ice Troll
 Hotkey=Q
 Tip=Ice Troll [|cffffcc00Q|r]
 Ubertip="This is the first Ice Troll, but certainly not the last one!|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.19|n|cffffcc00Damage:|r 12 - 14|n|cffffcc00Range:|r Melee"
@@ -3628,7 +3624,7 @@ LoopingSoundFadeOut=512
 
 [n00G]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollBeserker.blp
-Name=Ice Troll Berserker
+Name=[Ice Trolls] - Ice Troll Berserker
 Hotkey=W
 Tip=Ice Troll Berserker [|cffffcc00W|r]
 Ubertip="Hide yo wife, hide yo children, he's going berserk!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.40|n|cffffcc00Damage:|r 39 - 51|n|cffffcc00Range:|r 500"
@@ -3643,7 +3639,7 @@ LoopingSoundFadeOut=512
 
 [n00H]
 Art=ReplaceableTextures\CommandButtons\BTNIceTroll.blp
-Name=Ice Troll Trapper
+Name=[Ice Trolls] - Ice Troll Trapper
 Hotkey=E
 Tip=Ice Troll Trapper [|cffffcc00E|r]
 Ubertip="An essential piece of art for the Ice Troll Tribe the first slow tower!|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.80|n|cffffcc00Damage:|r 135 - 147|n|cffffcc00Range:|r 550|n|cffffcc00Ability:|r Splash; the area of effect is 120 (ground only)|n|cffffcc00Ability(2):|r Frost Attack; slows damaged units movement speed by 25% for 10 seconds"
@@ -3665,9 +3661,9 @@ Buttonpos=,
 
 [n00J]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan.blp
-Name=Mover of Barrels
-Tip=Mover of Barrels
-Ubertip="Mover of Barrels"
+Name=[Builder] - Mover of Barrels
+Tip=
+Ubertip=
 EditorSuffix=Arachnid Hive
 Buttonpos=,
 Builds=h04K
@@ -3690,7 +3686,7 @@ LoopingSoundFadeOut=512
 
 [n00L]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientProtector.blp
-Name=Corrupted Ancient Protector
+Name=[Corrupt N.Elves] - Corrupted Ancient Protector
 Hotkey=S
 Tip=Build Corrupted Ancient Protector [|cffffcc00S|r]
 Ubertip="The Ancient Protector is mainly a guard for the corrupted, he is full of magical potency.|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 1.10|n|cffffcc00Damage:|r 82 - 130|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Starfall; every 30 seconds this unit launches a starfall that deals 200 damage each hit|n|cffffcc00Ability (2):|r Splash; the area of effect is 128"
@@ -3705,7 +3701,7 @@ LoopingSoundFadeOut=512
 
 [n00M]
 Art=ReplaceableTextures\CommandButtons\BTNBearDen.blp
-Name=Den
+Name=[Corrupt N.Elves] - Den
 Hotkey=A
 Tip=Build Den [|cffffcc00A|r]
 Ubertip="A simple research station for corrupted trees.|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Sellback; selling this tower will give you the full price back"
@@ -3721,7 +3717,7 @@ LoopingSoundFadeOut=512
 
 [n00N]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientOfWar.blp
-Name=Corrupted Ancient of War
+Name=[Corrupt N.Elves] - Corrupted Ancient of War
 Hotkey=D
 Tip=Build Corrupted Ancient of War [|cffffcc00D|r]
 Ubertip="A war strategist, he usually doesn't fight much himself, but he is great at leading an army into war.|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Force of Nature; whenever an enemy unit within range dies an ent has a 75% chance to spawn|n|cffffcc00Attack(Ent):|r Normal|n|cffffcc00Cooldown(Ent):|r 0.25|n|cffffcc00Damage(Ent):|r 999 - 999|n|cffffcc00Range(Ent):|r Melee (ground only)"
@@ -3736,7 +3732,7 @@ LoopingSoundFadeOut=512
 
 [n00O]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedEnt.blp
-Name=Corrupted Ent
+Name=[Corrupt N.Elves] - Corrupted Ent
 Hotkey=R
 Tip=Build Corrupted Ent [|cffffcc00R|r]
 Ubertip="These simple ents are often used as servants for the other corrupted trees.|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 170 - 176|n|cffffcc00Range:|r Melee"
@@ -3751,7 +3747,7 @@ LoopingSoundFadeOut=512
 
 [n00P]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedTreeOfLife.blp
-Name=Corrupted Tree of Life
+Name=[Corrupt N.Elves] - Corrupted Tree of Life
 Hotkey=F
 Tip=Build Corrupted Tree of Life [|cffffcc00F|r]
 Ubertip="This big tree used to be the corrupted headquarters of the race due to it's intelligence.|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 3.00|n|cffffcc00Damage:|r 469 - 531|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Chain Lightning; whenever this tree attacks it sends a bolt of electricity through it's enemies (requires research!)"
@@ -3767,7 +3763,7 @@ Animprops=stand,alternate
 
 [n00Q]
 Art=ReplaceableTextures\CommandButtons\BTNFountainOfLifeDefiled.blp
-Name=Corrupted Fountain of Life
+Name=[Corrupt N.Elves] - Corrupted Fountain of Life
 Hotkey=X
 Tip=Build Corrupted Fountain of Life [|cffffcc00X|r]
 Ubertip="Drinking from this fountain will most definitely make you sick, it is highly recommended to stay far far away.|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 220|n|cffffcc00Ability:|r Corruption; deals 300 damage per second to enemy units within an area of 220 (does not stack)"
@@ -3782,7 +3778,7 @@ LoopingSoundFadeOut=512
 
 [n00R]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
-Name=Corrupted Shandris
+Name=[Corrupt N.Elves] - Corrupted Shandris
 Hotkey=X
 Tip=Build Corrupted Shandris [|cffffcc00X|r]
 Ubertip="She started off as a common huntress, but quickly became the leader of the corrupted trees, often leading them into victory.|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 886 - 1016|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Poison Arrows; attacks deal 200 bonus damage and slows movement by 90% (requires research!)|n|cffffcc00Ability (2):|r Splash; the area of effect is 150"
@@ -3797,7 +3793,7 @@ LoopingSoundFadeOut=512
 
 [n00S]
 Art=ReplaceableTextures\CommandButtons\BTNHeroWarden.blp
-Name=Corrupted Warden
+Name=[Corrupt N.Elves] - Corrupted Warden
 Hotkey=Z
 Tip=Build Corrupted Warden [|cffffcc00Z|r]
 Ubertip="Corrupted with power the Warden eventually left the night elves to fight for a much more chaotic ally.|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.10|n|cffffcc00Damage:|r 500 - 500|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Corrupted Blades; deals 500 damage to 9 nearby enemy units (requires research!)"
@@ -3812,7 +3808,7 @@ LoopingSoundFadeOut=512
 
 [n00T]
 Art=ReplaceableTextures\CommandButtons\BTNArachnathidGreen.blp
-Name=Scorpasite
+Name=[Arachnid] - Scorpasite
 Tip=Hire Crystal Arachnathid
 Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Arachnid]
@@ -3832,7 +3828,7 @@ Buttonpos=,
 
 [n00V]
 Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
-Name=Infernal
+Name=[Demons] - Infernal
 Tip=Summon Infernal
 Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Demon]
@@ -3841,7 +3837,7 @@ Attachmentanimprops=large
 
 [n00W]
 Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
-Name=Chaos Infernal
+Name=[Demon] - Chaos Infernal
 Tip=Summon Infernal
 Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Demon]
@@ -3850,7 +3846,7 @@ Attachmentanimprops=large
 
 [n00X]
 Art=ReplaceableTextures\CommandButtons\BTNSpider.blp
-Name=Spiderling
+Name=[Arachnid] - Spiderling
 Tip=Summon Spiderling
 Ubertip="Light melee unit. 
 EditorSuffix=[Arachnid]
@@ -3860,7 +3856,7 @@ Attachmentanimprops=medium
 
 [n00Y]
 Art=ReplaceableTextures\CommandButtons\BTNSpider.blp
-Name=Juvenile Spiderling
+Name=[Arachnid] - Juvenile Spiderling
 Tip=Summon Spiderling
 Ubertip="Light melee unit. 
 EditorSuffix=[Arachnid]
@@ -3873,7 +3869,7 @@ Attachmentanimprops=medium
 
 [n00Z]
 Art=ReplaceableTextures\CommandButtons\BTNSpider.blp
-Name=Infected Spiderling
+Name=[Arachnid] - Infected Spiderling
 Tip=Summon Spiderling
 Ubertip="Light melee unit. 
 EditorSuffix=[Arachnid]
@@ -3883,7 +3879,7 @@ Attachmentanimprops=medium
 
 [n010]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientOfLore.BLP
-Name=Corrupted Ancient of Lore
+Name=[Corrupt N.Elves] - Corrupted Ancient of Lore
 Hotkey=E
 Tip=Build Corrupted Ancient of Lore [|cffffcc00E|r]
 Ubertip="This may be one of the oldest of the corrupted trees, but he can still pack a punch!|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 18 - 24|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Splash; the area of effect is 120"
@@ -3898,7 +3894,7 @@ LoopingSoundFadeOut=512
 
 [n011]
 Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
-Name=Corrupted Fountain of Mana
+Name=[Corrupt N.Elves] - Corrupted Fountain of Mana
 Hotkey=X
 Tip=Build Corrupted Fountain of Mana [|cffffcc00X|r]
 Ubertip="Drinking from this fountain will most definitely make you sick, it is highly recommended to stay far far away.|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 220|n|cffffcc00Ability:|r Corruption; deals 55 damage per second to enemy units within an area of 220 (does not stack)"
@@ -3914,7 +3910,7 @@ LoopingSoundFadeOut=512
 
 [n012]
 Art=ReplaceableTextures\CommandButtons\BTNAltarOfDepths.blp
-Name=Sacrificial Altar
+Name=[Alliance of Blades] - Sacrificial Altar
 Hotkey=D
 Tip=Build Sacrificial Altar [|cffffcc00D|r]
 Ubertip="The altar of the old gods is the only way to truly become divine|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Inventory; this unit can hold 1 item|n|cffffcc00Ability (2):|r Sacrifice; destroys the currently held item, upon sacrificing two items the last sacrificed item turns into a level 4 item"
@@ -3929,24 +3925,24 @@ LoopingSoundFadeOut=512
 
 [n013]
 Art=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
-Name=Misha
+Name=[Orc Stronghold] - Misha
 EditorSuffix=[Orc Stronghold]
 Buttonpos=,
 Attachmentanimprops=large
 
 [n014]
 Art=ReplaceableTextures\CommandButtons\BTNIceTroll.blp
-Name=Ice Troll Slave
+Name=[Builder] - Ice Troll Slave
 Hotkey=E
-Tip=Train Ice Troll Slave
-Ubertip="Builds Ice Trolls"
-EditorSuffix=Ice Troll Hut
+Tip=
+Ubertip=
+EditorSuffix=Ice Trolls
 Buttonpos=0,0
 Builds=n00F,n00G,n00H,n018,n019,n01A,n01B,n01C
 
 [n015]
 Art=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
-Name=Spirit Hawk
+Name=[Orc Stronghold] - Spirit Hawk
 EditorSuffix=[Orc Stronghold]
 Buttonpos=,
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
@@ -3955,7 +3951,7 @@ Missilespeed=1500
 
 [n016]
 Art=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
-Name=Huffer
+Name=[Orc Stronghold] - Huffer
 EditorSuffix=[Orc Stronghold]
 Buttonpos=,
 Missileart=Abilities\Weapons\BristleBackMissile\BristleBackMissile.mdl
@@ -3974,7 +3970,7 @@ Buttonpos=,
 
 [n018]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShadowPriest.blp
-Name=Ice Troll Priest
+Name=[Ice Trolls] - Ice Troll Priest
 Hotkey=R
 Tip=Ice Troll Priest [|cffffcc00R|r]
 Ubertip="Ice and magic has always been a strong combination and this guy proves it|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Frost Nova; casts Frost Nova on enemies within range|n|cffffcc00Cooldown (Frost Nova):|r 5.00|n|cffffcc00Specific Target Damage (Frost Nova):|r 1330|n|cffffcc00Area of Effect Damage (Frost Nova):|r 200|n|cffffcc00Area of Effect (Frost Nova):|r 990|n|cffffcc00Effect (Frost Nova):|r Slows damaged units by 25% for 5 seconds"
@@ -3989,7 +3985,7 @@ LoopingSoundFadeOut=512
 
 [n019]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShadowPriest.blp
-Name=Ice Troll High Priest
+Name=[Ice Trolls] - Ice Troll High Priest
 Hotkey=A
 Tip=Ice Troll High Priest [|cffffcc00A|r]
 Ubertip="Funfact; this guy has lived his entire life in a glacier|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.35|n|cffffcc00Damage:|r 650 - 650|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Permafrost; enemies within range has their armor lowered by 5 and movement speed reduced by 15%"
@@ -4004,7 +4000,7 @@ LoopingSoundFadeOut=512
 
 [n01A]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
-Name=Ice Troll Joker
+Name=[Ice Trolls] - Ice Troll Joker
 Hotkey=S
 Tip=Ice Troll Joker [|cffffcc00S|r]
 Ubertip="An essential piece of art for the Ice Troll Tribe the first slow tower!|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 342 - 342|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Frozen Destruction; slowed enemy units within range take 3x damage"
@@ -4019,7 +4015,7 @@ LoopingSoundFadeOut=512
 
 [n01B]
 Art=ReplaceableTextures\CommandButtons\BTNIceTroll.blp
-Name=Ice Troll King
+Name=[Ice Trolls] - Ice Troll King
 Hotkey=D
 Tip=Ice Troll King [|cffffcc00D|r]
 Ubertip="A king truly worth his weight in gold, mostly just because he taxes all his people and pocket the gold, but whatever|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.70|n|cffffcc00Damage:|r 4310 - 4310|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Big Spender; connected towers are given Critical Strike"
@@ -4034,7 +4030,7 @@ LoopingSoundFadeOut=512
 
 [n01C]
 Art=ReplaceableTextures\CommandButtons\BTNIceTroll.blp
-Name=Ice Troll Emperor
+Name=[Ice Trolls] - Ice Troll Emperor
 Hotkey=F
 Tip=Ice Troll Emperor [|cffffcc00F|r]
 Ubertip="Nothing can save those poor creeps against the Ice Troll Emperor!|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 250|n|cffffcc00Ability:|r Blizzard; casts Blizzard on a random point within range|n|cffffcc00Cooldown (Blizzard):|r 1.00|n|cffffcc00Damage (Blizzard):|r 6000|n|cffffcc00Area of Effect (Blizzard):|r 200"
@@ -4049,7 +4045,7 @@ LoopingSoundFadeOut=512
 
 [n01D]
 Art=ReplaceableTextures\CommandButtons\BTNElvenFarm.blp
-Name=High Elven Farm
+Name=[High Elven Farm] - High Elven Farm
 Hotkey=Q
 Tip=Build High Elven Farm [|cffffcc00Q|r]
 Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Food; increases your food limit by 2"
@@ -4065,7 +4061,7 @@ LoopingSoundFadeOut=512
 
 [n01E]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
-Name=Hungry Sheep
+Name=[High Elven Farm] - Hungry Sheep
 Hotkey=A
 Tip=Build Hungry Sheep [|cffffcc00A|r]
 Ubertip="Nothing to worry about, definitely not a hungry sheep with a cannon|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 768 - 770|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Splash; the area of effect is 120|n|cffffcc00Ability (2):|r Homesick; can't leave your spawn"
@@ -4081,7 +4077,7 @@ LoopingSoundFadeOut=512
 
 [n01F]
 Art=ReplaceableTextures\CommandButtons\BTNAlbatross.blp
-Name=Hungry Albatross
+Name=[High Elven Farm] - Hungry Albatross
 Hotkey=W
 Tip=Build Hungry Albatross [|cffffcc00W|r]
 Ubertip="This hungry albatross is a fairly small creature|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.70|n|cffffcc00Damage:|r 30 - 34|n|cffffcc00Range:|r 400|n|cffffcc00Ability:|r Homesick; can't leave your spawn"
@@ -4097,7 +4093,7 @@ LoopingSoundFadeOut=512
 
 [n01G]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-Name=Hungry Seal
+Name=[High Elven Farm] - Hungry Seal
 Hotkey=E
 Tip=Build Hungry Seal [|cffffcc00E|r]
 Ubertip="A hungry seal is no joke, it might actually eat you one day|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 136 - 136|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Frost Attack; slows damaged enemy units|n|cffffcc00Ability (2):|r Splash; the area of effect is 60|n|cffffcc00Ability (3):|r Homesick; can't leave your spawn"
@@ -4113,7 +4109,7 @@ LoopingSoundFadeOut=512
 
 [n01H]
 Art=ReplaceableTextures\CommandButtons\BTNElvenFarm.blp
-Name=Upgraded Elven Farm
+Name=[High Elven Farm] - Upgraded Elven Farm
 Hotkey=Z
 Tip=Upgraded Elven Farm [|cffffcc00Z|r]
 Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Food; increases your food limit by 3"
@@ -4128,7 +4124,7 @@ LoopingSoundFadeOut=512
 
 [n01I]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
-Name=Hungry Crab
+Name=[High Elven Farm] - Hungry Crab
 Hotkey=R
 Tip=Build Hungry Crab [|cffffcc00R|r]
 Ubertip="Hungry hungry crab is coming to eat your Acolyte|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 187 - 197|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Homesick; can't leave your spawn"
@@ -4144,7 +4140,7 @@ LoopingSoundFadeOut=512
 
 [n01J]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-Name=Seal
+Name=[Elven Farm] - Seal
 Hotkey=X
 Tip=Upgrade to Seal [|cffffcc00X|r]
 Ubertip="This seal is not only cute, but badass too!|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 272 - 272|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Frost Attack; slows damaged enemy units|n|cffffcc00Ability (2):|r Splash; the area of effect is 120|n|cffffcc00Ability (3):|r Homesick; can't leave your spawn"
@@ -4160,7 +4156,7 @@ LoopingSoundFadeOut=512
 
 [n01K]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-Name=Well Fed Seal
+Name=[High Elven Farm] - Well Fed Seal
 Hotkey=X
 Tip=Upgrade to Well Fed Seal [|cffffcc00X|r]
 Ubertip="A well fed seal is a big seal|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 353 - 353|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Frost Attack; slows damaged enemy units|n|cffffcc00Ability (2):|r Splash; the area of effect is 240|n|cffffcc00Ability (3):|r Homesick; can't leave your spawn"
@@ -4172,7 +4168,7 @@ MissileHoming=1
 
 [n01L]
 Art=ReplaceableTextures\CommandButtons\BTNAlbatross.blp
-Name=Albatross
+Name=[High Elven Farm] - Albatross
 Hotkey=Z
 Tip=Upgrade to Albatross [|cffffcc00Z|r]
 Ubertip="Even when this guy is fed he's still just an albatross|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 60 - 54|n|cffffcc00Range:|r 400|n|cffffcc00Ability:|r Homesick; can't leave your spawn"
@@ -4188,7 +4184,7 @@ LoopingSoundFadeOut=512
 
 [n01M]
 Art=ReplaceableTextures\CommandButtons\BTNAlbatross.blp
-Name=Well Fed Albatross
+Name=[High Elven Farm] - Well Fed Albatross
 Hotkey=Z
 Tip=Upgrade to Well Fed Albatross [|cffffcc00Z|r]
 Ubertip="The strongest albatross there is!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 136 - 140|n|cffffcc00Range:|r 400|n|cffffcc00Ability:|r Homesick; can't leave your spawn"
@@ -4203,7 +4199,7 @@ LoopingSoundFadeOut=512
 
 [n01N]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
-Name=Sheep
+Name=[High Elven Farm] - Sheep
 Hotkey=Z
 Tip=Upgrade to Sheep [|cffffcc00Z|r]
 Ubertip="The sheep is going crazy with the cannon!|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 768 - 770|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Splash; the area of effect is 120|n|cffffcc00Ability (2):|r Homesick; can't leave your spawn"
@@ -4219,7 +4215,7 @@ LoopingSoundFadeOut=512
 
 [n01O]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
-Name=Well Fed Sheep
+Name=[High Elven Farm] - Well Fed Sheep
 Hotkey=Z
 Tip=Upgrade to Well Fed Sheep [|cffffcc00Z|r]
 Ubertip="If you're looking for the crazy sheep with the cannon then I know an even crazier well fed sheep!|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 1536 - 1538|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Splash; the area of effect is 120|n|cffffcc00Ability (2):|r Homesick; can't leave your spawn"
@@ -4234,7 +4230,7 @@ LoopingSoundFadeOut=512
 
 [n01P]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
-Name=Crab
+Name=[High Elven Farm] - Crab
 Hotkey=Z
 Tip=Upgrade to Crab [|cffffcc00Z|r]
 Ubertip="Hungry hungry crab is coming to eat your Acolyte|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 238 - 248|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Homesick; can't leave your spawn"
@@ -4250,7 +4246,7 @@ LoopingSoundFadeOut=512
 
 [n01Q]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
-Name=Well Fed Crab
+Name=[High Elven Farm] - Well Fed Crab
 Hotkey=Z
 Tip=Upgrade to Well Fed Crab [|cffffcc00Z|r]
 Ubertip="Hungry hungry crab is coming to eat your Acolyte|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 544 - 556|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Homesick; can't leave your spawn"
@@ -4327,10 +4323,10 @@ LoopingSoundFadeOut=512
 
 [n01V]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
-Name=Animal Caller
+Name=[Builder] - Animal Caller
 Hotkey=E
-Tip=Calls Animals
-Ubertip="SEXYYY"
+Tip=
+Ubertip=
 EditorSuffix=The Summons
 Buttonpos=0,0
 Builds=n01Y,n01T,n01U,n01W,n01Z,n01X,n020,n021
@@ -4496,7 +4492,7 @@ Upgrade=u039
 
 [n029]
 Art=ReplaceableTextures\CommandButtons\BTNGnoll.blp
-Name=Gnoll
+Name=[Gnolls] - Gnoll
 Hotkey=Q
 Tip=Gnoll [|cffffcc00Q|r]
 Ubertip="A very weak, but useful Gnoll that can handle early game enemies with it's melee attacks.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.05|n|cffffcc00Damage:|r 7 - 7|n|cffffcc00Range:|r Melee"
@@ -4511,17 +4507,17 @@ LoopingSoundFadeOut=512
 
 [n02A]
 Art=ReplaceableTextures\CommandButtons\BTNGnoll.blp
-Name=Gnoll
+Name=[Builder] - Gnoll
 Hotkey=E
-Tip=Gives birth to gnolls.
-Ubertip="ROFL"
-EditorSuffix=Gnoll Republic
+Tip=
+Ubertip=
+EditorSuffix=Gnolls
 Buttonpos=0,0
 Builds=n02G,n02F,n02E,n02D,n02C,n02B,n029
 
 [n02B]
 Art=ReplaceableTextures\CommandButtons\BTNGnoll.blp
-Name=Gnoll Brute
+Name=[Gnolls] - Gnoll Brute
 Hotkey=W
 Tip=Gnoll Brute [|cffffcc00W|r]
 Ubertip="The Gnoll Brute is the Gnoll's bigger brother and that is literally the only reason he carries a bigger weapon.|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.05|n|cffffcc00Damage:|r 79 - 79|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Splash; the area of effect is 75 (air only)"
@@ -4529,7 +4525,7 @@ Buttonpos=1,0
 
 [n02C]
 Art=ReplaceableTextures\CommandButtons\BTNGnollKing.blp
-Name=Gnoll Elite
+Name=[Gnolls] - Gnoll Elite
 Hotkey=E
 Tip=Gnoll Elite [|cffffcc00E|r]
 Ubertip="An elite warrior trained to kill enemies with his piercing morningstar.|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.05|n|cffffcc00Damage:|r 230 - 250|n|cffffcc00Range:|r Melee"
@@ -4537,7 +4533,7 @@ Buttonpos=2,0
 
 [n02D]
 Art=ReplaceableTextures\CommandButtons\BTNGnollArcher.blp
-Name=Gnoll Poacher
+Name=[Gnolls] - Gnoll Poacher
 Hotkey=R
 Tip=Gnoll Poacher [|cffffcc00R|r]
 Ubertip="This gnoll found himself a crossbow that shoots magical arrows.|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 250 - 250|n|cffffcc00Range:|r 400|n|cffffcc00Ability:|r Splash; the area of effect is 90"
@@ -4548,7 +4544,7 @@ Missilespeed=1300
 
 [n02E]
 Art=ReplaceableTextures\CommandButtons\BTNGnollArcher.blp
-Name=Gnoll Assassin
+Name=[Gnolls] - Gnoll Assassin
 Hotkey=A
 Tip=Gnoll Assassin [|cffffcc00A|r]
 Ubertip="An assassin dedicated to killing the enemies one by one.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 2800 - 2800|n|cffffcc00Range:|r 400"
@@ -4559,7 +4555,7 @@ Missilespeed=1300
 
 [n02F]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
-Name=Gnoll Warden
+Name=[Gnolls] - Gnoll Warden
 Hotkey=S
 Tip=Gnoll Warden [|cffffcc00S|r]
 Ubertip="Gnolls invented electricity you say? I say we're all doomed.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 1400 - 1400|n|cffffcc00Range:|r 400|n|cffffcc00Ability:|r Electric; this unit can attack 4 enemies at a time"
@@ -4570,7 +4566,7 @@ Missilespeed=1500
 
 [n02G]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
-Name=Gnoll Leader
+Name=[Gnolls] - Gnoll Leader
 Hotkey=D
 Tip=Gnoll Leader [|cffffcc00D|r]
 Ubertip="All hail our supreme gnoll leader!|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.30|n|cffffcc00Damage:|r 6666 - 6666|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Splash; the area of effect is 400"
@@ -4578,7 +4574,7 @@ Buttonpos=2,1
 
 [n02H]
 Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
-Name=Roots
+Name=[Corrupt N.Elves] - Roots
 Hotkey=Q
 Tip=Build Roots [|cffffcc00Q|r]
 Ubertip="Roots from one of your corrupted trees, a spreading plague in many large cities.|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 128|n|cffffcc00Ability:|r Thorns; slows enemy units within range by 20% (requires research!)"
@@ -4608,7 +4604,7 @@ LoopingSoundFadeOut=512
 
 [n02J]
 Art=ReplaceableTextures\CommandButtons\BTNGrunt.blp
-Name=Gar'thok
+Name=G Gar'thok
 Hotkey=D
 Tip=Build Gar'thok
 Ubertip="Furious at being the noob of the HEROS! Blademastur has run from that army and joined the AOA. There, he became Captain instead of noob. Though still pissed at his position, Blademastur is slowly building his way up."
@@ -4623,7 +4619,7 @@ LoopingSoundFadeOut=512
 
 [n02K]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-Name=Eliminator
+Name=G Eliminator
 Hotkey=D
 Tip=Build Eliminator
 Ubertip="The Eliminator, true to his name, the eliminator truly eliminates his opponents; truly. Anyway, this guy truly shoots beams of 80 dmg hella fast. Truly yours, ThaiTeaIsGood; TRULY."
@@ -4638,7 +4634,7 @@ LoopingSoundFadeOut=512
 
 [n02L]
 Art=ReplaceableTextures\CommandButtons\BTNDwarvenLongRifle.blp
-Name=Sniper
+Name=[Hybrid] - Sniper
 Hotkey=D
 Tip=Build Sniper
 Ubertip="The Sniper does 1 hell of alot of damage for a shitty ass cooldown.  Anyway, does 500-500 dmg at a 4 second cooldown. Has a 1501 range OMGOMGOMGOMGOMGOGMG cause the range max is supposed to be 1500 oh noes... This sniper has air splash but since its so slow..."
@@ -4653,7 +4649,7 @@ LoopingSoundFadeOut=512
 
 [n02M]
 Art=ReplaceableTextures\CommandButtons\BTNEnchantedBears.blp
-Name=50fang
+Name=G 50fang
 Hotkey=D
 Tip=Build 50fang
 Ubertip="50fang's pretty OP, with a sexy splash attack with high damage for a 5th tower, however, his only draw back is that he's melee. these are the AOA's front lines."
@@ -4668,7 +4664,7 @@ LoopingSoundFadeOut=512
 
 [n02N]
 Art=ReplaceableTextures\CommandButtons\BTNTheCaptain.blp
-Name=Captain
+Name=G Captain
 Hotkey=D
 Tip=Build Captain
 Ubertip="Captain of the AOA, these guys lead the front charges with the noobs.  As expected, the captain has larger splash and a stronger attack than 50fang. Also has a larger range with an average cool"
@@ -4683,7 +4679,7 @@ LoopingSoundFadeOut=512
 
 [n02O]
 Art=ReplaceableTextures\CommandButtons\BTNAvatarOn.blp
-Name=Grand General Nice-Angel
+Name=G Grand General Nice-Angel
 Hotkey=D
 Tip=Build Grand General Nice-Angel
 Ubertip="Yep, this is the guy who named his army AOA, or, Asses On Angels because he was horny off Jaina. Anyway, pervs aside, this tower has better splash and higher damage than the Captain."
@@ -4698,7 +4694,7 @@ LoopingSoundFadeOut=512
 
 [n02P]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
-Name=White-Angel
+Name=[Hybrid] - White-Angel
 Hotkey=D
 Tip=Build White-Angel
 Ubertip="Ever heard the saying, "Behind every great man, is a greater woman?"|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0|n|cffffcc00Damage:|r 450 - 450|n|cffffcc00Range:|r 1000|n|cffffcc00Attack(2):|r Magic|n|cffffcc00Cooldown(2):|r -|n|cffffcc00Damage(2):|r 500 - 500|n|cffffcc00Range(2):|r 1500|n"
@@ -4713,7 +4709,7 @@ LoopingSoundFadeOut=512
 
 [n02Q]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfPeasant.blp
-Name=AOA servant
+Name=G AOA servant
 Hotkey=E
 Tip=Train AOA servant
 Ubertip="Serves the Asses on Angels army"
@@ -4738,17 +4734,17 @@ LoopingSoundFadeOut=512
 
 [n02S]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
-Name=Guild Leader
+Name=[Builder] - Guild Leader
 Hotkey=E
-Tip=Train Metal Worker
-Ubertip="Makes Blademastur's swords"
+Tip=
+Ubertip=
 EditorSuffix=Alliance of Blades
 Buttonpos=0,0
 Builds=n02T,n02X,n02V,n02U,n007,n02W,n012
 
 [n02T]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan1.blp
-Name=Adventurer
+Name=[Alliance of Blades] - Adventurer
 Hotkey=Q
 Tip=Build Adventurer [|cffffcc00Q|r]
 Ubertip="Adventurers are thrill seekers and they can often end up in tricky situations caused by their own curiousity.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 30 - 30|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Inventory; this unit can hold 1 item|n|cffffcc00Ability(2):|r Looter; whenever this unit kills he has a chaince to loot for items"
@@ -4763,7 +4759,7 @@ LoopingSoundFadeOut=512
 
 [n02U]
 Art=ReplaceableTextures\CommandButtons\BTNSorceress.blp
-Name=Sorceress
+Name=[Alliance of Blades] - Sorceress
 Hotkey=R
 Tip=Build Sorceress [|cffffcc00R|r]
 Ubertip="She's the strongest mage the guild has and for good reason|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 23 - 24|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Inventory; this unit can hold 1 item|n|cffffcc00Ability (2):|r Enchant; turns the currently held item into a level 2 item for the price of 5 gold|n|cffffcc00Ability (3):|r Splash; the area of effect is 120"
@@ -4778,7 +4774,7 @@ LoopingSoundFadeOut=512
 
 [n02V]
 Art=ReplaceableTextures\CommandButtons\BTNMerchant.blp
-Name=Merchant
+Name=[Alliance of Blades] - Merchant
 Hotkey=E
 Tip=Build Merchant [|cffffcc00E|r]
 Ubertip="A must have for any respectable guild!|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Inventory; this unit can hold 1 item|n|cffffcc00Ability (2):|r Trade; destroys the currently held item, every second item destroyed turns into a new level 1 item"
@@ -4793,7 +4789,7 @@ LoopingSoundFadeOut=512
 
 [n02W]
 Art=ReplaceableTextures\CommandButtons\BTNArcaneVault.blp
-Name=Arcane Infuser
+Name=[Alliance of Blades] - Arcane Infuser
 Hotkey=S
 Tip=Build Arcane Infuser [|cffffcc00S|r]
 Ubertip="Holds incredible magical powers that can turn your weak adventurers into strong independent men!|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Inventory; this unit can hold 1 item|n|cffffcc00Ability (2):|r Transfuse; destroys the currently held level 2 item to gain mana|n|cffffcc00Ability (3):|r Infuse; infuses the currently held item with your mana, the more mana the higher the chance of success|n|cffffcc00Ability (4):|r Alchemical Transmutation; transforms the currently held level 1 item into a level 3 item at the cost of 75 gold"
@@ -4808,7 +4804,7 @@ LoopingSoundFadeOut=512
 
 [n02X]
 Art=ReplaceableTextures\CommandButtons\BTNDalaranMutant.blp
-Name=Scavenger
+Name=[Alliance of Blades] - Scavenger
 Hotkey=W
 Tip=Build Scavenger [|cffffcc00W|r]
 Ubertip="A lowly Scavenger, the lowest ranked member of the guild|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 7 - 7|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Inventory; this unit can hold 1 item|n|cffffcc00Ability (2):|r Scavenge; this unit will scavenge for items if he doesn't have any"
@@ -4827,7 +4823,7 @@ Name=Corrupted Tree
 
 [n031]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
-Name=Angel Warrior
+Name=G Angel Warrior
 Hotkey=Q
 Tip=Build Angel Warrior [|cffffcc00Q|r]
 Ubertip="The Angel Warrior is the basic front lines of the AOA, they mostly serve as guards while not in war|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 20 - 22|n|cffffcc00Range:|r 600"
@@ -4858,7 +4854,7 @@ LoopingSoundFadeOut=512
 
 [n03C]
 Art=ReplaceableTextures\CommandButtons\BTNGreenHydra.blp
-Name=Cavern Creature
+Name=[Builder] - Cavern Creature
 Hotkey=E
 Tip=String
 Ubertip="String"
@@ -4868,7 +4864,7 @@ Builds=h04T,h04R,h041,h04M,h04N,h04Q,h04O,n03B
 
 [n03D]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
-Name=Forest Troll
+Name=[Forest Trolls] - Forest Troll
 Hotkey=Q
 Tip=Build Forest Troll [|cffffcc00Q|r]
 Ubertip="The simplest of the Forest Trolls is the Forest Troll itself, it owns no title|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 10 - 11|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Splash; the area of effect is 120"
@@ -4883,7 +4879,7 @@ LoopingSoundFadeOut=512
 
 [n03E]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
-Name=Forest Troll Beserker
+Name=[Forest Trolls] - Forest Troll Beserker
 Hotkey=W
 Tip=Build Forest Troll Berserker [|cffffcc00W|r]
 Ubertip="A proud member of the Forest Troll tribe is the Forest Troll Berserker, welcome him, brethren!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.95|n|cffffcc00Damage:|r 60 - 64|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Splash; the area of effect is 130"
@@ -4898,7 +4894,7 @@ LoopingSoundFadeOut=512
 
 [n03F]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollTrapper.blp
-Name=Forest Troll Trapper
+Name=[Forest Trolls] - Forest Troll Trapper
 Hotkey=E
 Tip=Build Forest Troll Trapper [|cffffcc00E|r]
 Ubertip="This big guy used to punch holes in walls simply because he thought it was fun|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 116 - 116|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 140"
@@ -4913,7 +4909,7 @@ LoopingSoundFadeOut=512
 
 [n03G]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
-Name=Forest Troll Warlord
+Name=[Forest Trolls] - Forest Troll Warlord
 Hotkey=A
 Tip=Build Forest Troll Warlord [|cffffcc00A|r]
 Ubertip="The Forest Troll Warlord is the leader of all Forest Troll Berserkers|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.75|n|cffffcc00Damage:|r 192 - 204|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 160"
@@ -4928,7 +4924,7 @@ LoopingSoundFadeOut=512
 
 [n03H]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
-Name=Forest Troll Shadow Priest
+Name=[Forest Trolls] - Forest Troll Shadow Priest
 Hotkey=R
 Tip=Build Forest Troll Shadow Priest [|cffffcc00R|r]
 Ubertip="This was once a worthless Forest Troll until he got hit in the back of the head with a rock|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.80|n|cffffcc00Damage:|r 171 - 171|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 150"
@@ -4943,7 +4939,7 @@ LoopingSoundFadeOut=512
 
 [n03I]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
-Name=Forest Troll High Priest
+Name=[Forest Trolls] - Forest Troll High Priest
 Hotkey=S
 Tip=Build Forest Troll High Priest [|cffffcc00S|r]
 Ubertip="The second Forest Troll to ever be hit by a rock is the Forest Troll High Priest|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.70|n|cffffcc00Damage:|r 2 - 104|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 170|n|cffffcc00Ability (2):|r Moonsoon; deals 300 damage in an area of 300"
@@ -4958,7 +4954,7 @@ LoopingSoundFadeOut=512
 
 [n03J]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
-Name=Forest Troll Joker
+Name=[Forest Trolls] - Forest Troll Joker
 Hotkey=D
 Tip=Build Forest Troll Joker [|cffffcc00D|r]
 Ubertip="Please tell the Forest Troll Emperor not to execute this one!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 225 - 225|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 180|n|cffffcc00Ability (2):|r Joker's Rally; increases nearby friendly towers' attack rate by +20%"
@@ -4973,7 +4969,7 @@ LoopingSoundFadeOut=512
 
 [n03K]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollTrapper.blp
-Name=Forest Troll Emperor
+Name=[Forest Trolls] - Forest Troll Emperor
 Hotkey=Z
 Tip=Build Forest Troll Emperor [|cffffcc00Z|r]
 Ubertip="Can you feel it? The immense power radiating through the tower, the Forest Troll Emperor is here!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 800 - 850|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 200|n|cffffcc00Ability (2):|r Emperor's Rally; increases nearby towers' damage by +20% in an AOE of 300 (ranged only)|n|cffffcc00Ability (3):|r Spirit Swords; increases the emperor's damage by +100%"
@@ -4988,7 +4984,7 @@ LoopingSoundFadeOut=512
 
 [n03L]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
-Name=Forest Troll King
+Name=[Forest Trolls] - Forest Troll King
 Hotkey=F
 Tip=Build Forest Troll King [|cffffcc00F|r]
 Ubertip="One of the stronger towers the tribe has, he obviously became king through brute force|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.30|n|cffffcc00Damage:|r 500 - 500|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 190"
@@ -5012,26 +5008,27 @@ Builds=h02X,h033,h032,h031,h034,h02Z,h02Y,h02W,h02U
 
 [n03W]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
-Name=Countess
+Name=[Builder] - Countess
 Hotkey=E
-Tip=Countess
-Ubertip="Builds Dark Trolls"
+Tip=
+Ubertip=
+EditorSuffix=High Elf Farm
 Buttonpos=0,0
 Builds=n01D,n01E,n01F,n01G,n01I
 
 [n046]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
-Name=Forest Troll Slave
+Name=[Builder] - Forest Troll Slave
 Hotkey=E
-Tip=Train Forest Troll Slave
-Ubertip="Builds Forest Trolls"
+Tip=
+Ubertip=
 EditorSuffix=Forest Troll Hut
 Buttonpos=0,0
 Builds=n03K,n03L,n03J,n03I,n03H,n03G,n03F,n03E,n03D
 
 [n047]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
-Name=Ghoul
+Name=G Ghoul
 Hotkey=Q
 Tip=Build Ghoul [|cffffcc00Q|r]
 Ubertip="Ghouls, the front line of the Undead Forsaken Faction(UFF), are extemely beastly.  They are know to have the tendancy to go beserk and even hit many enemies. However, they have a small range. |CFF00FF00 (Fast(1.00)/14-14 Chaos Damage/Melee Range) Can hit 3 at a time."
@@ -5046,7 +5043,7 @@ LoopingSoundFadeOut=512
 
 [n048]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
-Name=Zombie
+Name=G Zombie
 Hotkey=D
 Tip=Kill To Create A Zombie
 Ubertip="Zombies, the dead of Lordaeron, these guys are well known for fast attack speeds and hunting down brains.  Straight from Left 4 Dead, these guys will hunt any living object within their grasp, including air. Can hit air at a melee range.  |CFF00FF00 (Very Fast(0.50)/40-40 Chaos Damage/Melee Range) Can hit 4 at a time, including air."
@@ -5061,7 +5058,7 @@ LoopingSoundFadeOut=512
 
 [n049]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
-Name=Fallen Archer
+Name=G Fallen Archer
 Hotkey=D
 Tip=Revive A Night Elf Archer
 Ubertip="The Fallen Archer, who was playing COD5 before being revived, wishes to increase her headshot count and will try to shot down anyone.  The UFFs early Anti-Air tower, the Fallen Archer is like a more powerful Rifleman, dealing more 1vs1 damage and having the ability to strike down 7 Air Enemies with huge amounts of damage and being the earliest ranged tower you can get from the UFF.  |CFF00FF00 (Fast(1.00)/40-40 Chaos Damage/700 Range) Can hit 7 air at 175 damage."
@@ -5076,7 +5073,7 @@ LoopingSoundFadeOut=512
 
 [n04A]
 Art=ReplaceableTextures\CommandButtons\BTNAbomination.blp
-Name=Abomination
+Name=G Abomination
 Hotkey=D
 Tip=Assemble An Abomination
 Ubertip="The UFF's abomination, large, beastly creatures that will do anything for more arms.  The abomination tears apart its enemies with its massive strength and power at a melee range.  Howerver, he will not attempt to attack air.  |CFF00FF00 (Fast(0.90)/100-100 Chaos Damage/Melee Range) Can hit 6."
@@ -5091,7 +5088,7 @@ LoopingSoundFadeOut=512
 
 [n04B]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancer.blp
-Name=Necromancer
+Name=G Necromancer
 Hotkey=D
 Tip=Summon A Necromancer
 Ubertip="The Necromancer uses his black magic to destroy any ground enemy.  He has a small range and a slower speed, however, he does have a range, unlike earlier towers, making him a must get for decimating the enemy.  However, everyone knows that black magic doesn't work on air.  |CFF00FF00 (Fast(0.95)/125-125 Chaos Damage/650 Range) Can hit 5."
@@ -5106,7 +5103,7 @@ LoopingSoundFadeOut=512
 
 [n04C]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
-Name=Rifleman
+Name=G Rifleman
 Hotkey=D
 Tip=Recruit A Rifleman
 Ubertip="Joining the UFF with Lord Garithos, the Rifleman is an extremely powerful addition to the UFF army.  He has been trained to be faster though the gun he uses is a shotgun that won't shoot very far.  The problem here is that the Rifleman can hit 6 ground enemies but shotguns just plain suck against air.  |CFF00FF00 (Fast(0.80)/175-175 Chaos Damage/600 Range) Can hit 6."
@@ -5121,7 +5118,7 @@ LoopingSoundFadeOut=512
 
 [n04D]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
-Name=Knight
+Name=G Knight
 Hotkey=D
 Tip=Eat A Knight... (Wait...)
 Ubertip="The Knight, Gatithos's most powerful warriors, is always on the lookout for better weapons to deal damage with, therefore, he is incredibly powerful.  An EXTREMELY powerful tower against ground, this towers can wipe the floor with your buttocks.  Air don't have no buttocks so he won't go after no air.  |CFF00FF00 (Very Fast(0.70)/425-425 Chaos Damage/Melee Range) Can hit 3."
@@ -5136,7 +5133,7 @@ LoopingSoundFadeOut=512
 
 [n04E]
 Art=ReplaceableTextures\CommandButtons\BTNBanshee.blp
-Name=Banshee
+Name=G Banshee
 Hotkey=D
 Tip=Recall A Banshee
 Ubertip="The Banshee is a weak Anti-Ground tower, but makes up for it with a powerful Anti-Air attack, leaving any air who she takes vengance upon completely defeated and pantless.  |CFF00FF00 (Fast(0.75)/40-40 Chaos Damage/700 Range) Can hit 15 air at 500 damage."
@@ -5151,7 +5148,7 @@ LoopingSoundFadeOut=512
 
 [n04F]
 Art=ReplaceableTextures\CommandButtons\BTNGarithos.blp
-Name=Lord Garithos
+Name=G Lord Garithos
 Hotkey=D
 Tip=Make Garithos Help You
 Ubertip="Lord Gatithos is helping the UFF for a limited time.  An extremely powerful Anti-Ground tower, this tower is BEASTLY, not only does he wipe the floor with your buttocks but MINE TOO!!  |CFF00FF00 (Very Fast(0.65)/900-900 Chaos Damage/Melee Range) Can hit 3."
@@ -5166,7 +5163,7 @@ LoopingSoundFadeOut=512
 
 [n04G]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDreadLord.blp
-Name=Varimathras
+Name=G Varimathras
 Hotkey=D
 Tip=Enslave A Varimathras
 Ubertip="Varimathras would betray his brothers just to save his own skin.  He is extremely weak willed but extremely devious, extremely.  |CFF00FF00 (Very Fast(0.60)/300-300 Chaos Damage/500 Range) Can hit 9."
@@ -5181,7 +5178,7 @@ LoopingSoundFadeOut=512
 
 [n04H]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeRanger.blp
-Name=Sylvanus Windrunner
+Name=G Sylvanus Windrunner
 Hotkey=D
 Tip=Create A Forsaken Queen
 Ubertip="The dead Sylvanus Windrunner is the most powerful UFF Slave tower you will ever build, please be careful though as her personality is her only weakness|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 300 - 300|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Vengeance; deals 300 damage to 18 enemies within range"
@@ -5196,7 +5193,7 @@ LoopingSoundFadeOut=512
 
 [n04I]
 Art=ReplaceableTextures\CommandButtons\BTNAcolyte.blp
-Name=Forsaken Follower
+Name=[Builder] - Forsaken Follower
 Hotkey=E
 Tip=Train Forsaken Follower
 Ubertip="Builds Forsaken Towers"
@@ -5206,7 +5203,7 @@ Builds=u00C,u00D,u00E,u00F,u010,u011,u012,u013
 
 [n04J]
 Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
-Name=TH3 B34ST
+Name=G TH3 B34ST
 Hotkey=D
 Tip=Upgrade to TH3 B34ST
 Ubertip="The B3ast is a very unique tower, it has no real point in damage, but does a HUGE roar that stuns in a LARGE area.  Very useful against champs, leak catching, in mazes, or with "Lord D.O.T." GET THIS!!                               |CFFF26522Upgrades to Th3 B3AST and than to TH3 B34ST|R                                   |CFF00FF00 (Very Slow(2.50)/50-50 Normal Damage/750 Range) + Roars in a HUGE area, dealing 1 damage and stunning."
@@ -5221,7 +5218,7 @@ LoopingSoundFadeOut=512
 
 [n04K]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid.blp
-Name=Mild-Mannered Chris
+Name=G Mild-Mannered Chris
 Hotkey=Q
 Tip=Build Mild-Mannered Chris [|cffffcc00Q|r]
 Ubertip="Mild-Mannered Chris, easily tied fastest 1st tower with Unique's Marine, but at a melee range.  However, theres a catch, Mild-Mannered Chris is only SUPER fast when he is in his alter ego, YAH TRICK YAH, which is only 2/3rds of the time.  So, if you start a round and the transformation isn't ready, you may leak, bad. |CFFF26522Upgrades to YAH TRICK YAH|R      |CFF00FF00 (Fast(1.00)/20-20 Normal Damage/MELEE Range) Tansforms into YAH TRICK YAH, .20 cooldown, lasts 60 seconds, 90 second cooldown.                     "
@@ -5237,7 +5234,7 @@ LoopingSoundFadeOut=512
 
 [n04L]
 Art=ReplaceableTextures\CommandButtons\BTNEvilIllidan.blp
-Name=Decimator
+Name=G Decimator
 Hotkey=D
 Tip=Build Decimator
 Ubertip="Decimator, is a weak 2nd tower, no splash, melee range, and below average damage.  Lol.  The good thing?? SPEED! This tower truly decimates ANY enemy at melee range.  Also, this tower is a VERY powerful AA.  |CFFF26522Upgrades to Ninjuh|R        |CFF00FF00 (Very Fast(0.00)/20-25 Normal Damage/MELEE Range) + Very Fast 0.50 cooldown, 35-55 damage normal, 900 range AIR ONLY.                "
@@ -5253,7 +5250,7 @@ LoopingSoundFadeOut=512
 
 [n04M]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
-Name=Lord D.O.T.
+Name=G Lord D.O.T.
 Hotkey=D
 Tip=Build Lord D.O.T.
 Ubertip="Lord D.O.T. a beastly Damage Over Time tower, this beast can slowly damage any enemy until they're SEVERELY HURT!  All combined, this tower can average 10ks over a whole minute to LARGE groups of people. Works VERY well with a "The B3ast" and its upgrades or with a fast tower near the end of your maze.  |CFFF26522Upgrades to Lord A.O.E.|R                |CFF00FF00 (Very Fast(0.50)/40-60 Magic Damage/700 Range) + Posions and burns to deal 10k+ to large groups over 1 minute."
@@ -5269,7 +5266,7 @@ LoopingSoundFadeOut=512
 
 [n04N]
 Art=ReplaceableTextures\CommandButtons\BTNPeasant.blp
-Name=Sir C.R.U.S.T.Y.
+Name=G Sir C.R.U.S.T.Y.
 Hotkey=D
 Tip=Build Sir C.R.U.S.T.Y.
 Ubertip="Sir C.R.U.S.T.Y., the most noble peasant EVER!! Sir C.R.U.S.T.Y. brings decent splash to  this race, stabalizing this race's horrible starting.  Not only that, but Sir C.R.U.S.T.Y. also has the most decent range yet. Sir C.R.U.S.T.Y. 's speed is alright, but works VERY well next to spawns, or with a "The B3ast" and itself near a spawn to deal intense damage. THE NOBLEST PEASANT EVER is the turning point to this race's horrible beggining damage.                  |CFFF26522Upgrades to Sir C.R.U.S.T.Y.K.R.A.B., Duke C.R.U.S.T.Y.K.R.A.B., AND Duke CrustyKrab|R  |CFF00FF00 (Fast(1.30)/200-300 Normal Damage/900 Range) + Decent ground splash."
@@ -5285,7 +5282,7 @@ LoopingSoundFadeOut=512
 
 [n04O]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan.blp
-Name=Mr. Charlie
+Name=[Hybrid] - Mr. Charlie
 Hotkey=D
 Tip=Build Mr. Charlie
 Ubertip="Mr. Charlie the gentleman is now sold in various colors, get yours at https://maulbot.com|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.00|n|cffffcc00Damage:|r 150 - 200|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 60"
@@ -5300,7 +5297,7 @@ LoopingSoundFadeOut=512
 
 [n04P]
 Art=ReplaceableTextures\CommandButtons\BTNHarpy.blp
-Name=OhMyWTEFF?
+Name=G OhMyWTEFF?
 Hotkey=D
 Tip=Build OhMyWTEFF?
 Ubertip="OhMyWTEFF? is a decent tower, dealing line damage in the like of forest trolls with siege damage, but, it's a nice tower near spawns, but the only reason why i'd get it is for the buff, +100% attack for a short time with a nice cooldown.  THE BEST attack buff in the game.   |CFFF26522Upgrades to OhMyEFFTW|R  |CFF00FF00 (Fast(1.00)/275-275 Siege Damage/700 Range) + Line damage and 100% attack buff for 15 seconds, 25 second cooldown"
@@ -5316,7 +5313,7 @@ LoopingSoundFadeOut=512
 
 [n04Q]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
-Name=Blackrock Clan Member
+Name=[Hybrid] - Blackrock Clan Member
 Hotkey=D
 Tip=Build Blackrock Clan Member
 Ubertip="The BladeMastur is a very decent anti champ tower, dealing really high damage at a decent range.   However, like it's older brother, BladeMastur of Blade Alliance, it is EXTREMELY unstable.  Having a smaller critical, range and no air splash, but otherwise, the BladeMastur is EXACTLY like it's older brother.  Useful against champs with "The B3ast" and it's upgrades, or for picking of "Lord D.O.T."'s 1 hp leaks.             |CFFF26522Upgrades to Mike The BladeMastur|R  |CFF00FF00 (Very Fast(.25)/1-20 Normal Damage/700 Range) + Critical, 90% 200x"
@@ -5331,7 +5328,7 @@ LoopingSoundFadeOut=512
 
 [n04R]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerWoman.blp
-Name=MissyisPissy
+Name=G MissyisPissy
 Hotkey=D
 Tip=Build MissyisPissy
 Ubertip="Unlike most other females, MissyisPissy doesnt PMS once a month, but 3 times a month (shudders).  Anyway, Missy does EXCELENT damage at a melee range with a fast speed.  However, on her period, she's a BEAST!  Having a .00 cooldown, she tears apart ANYTHING! Great in mazes with slowing towers like "Lord A.O.E." and "The B3ast" and it's upgrades. |CFFF26522Upgrades to MissyisVERYPissy|R  |CFF00FF00 (Fast(1.00)/600-800 Piercing Damage/Melee Range) + Bloodlust, +100% speed for 21 seconds, 28 second cooldown"
@@ -5347,7 +5344,7 @@ LoopingSoundFadeOut=512
 
 [n04S]
 Art=ReplaceableTextures\CommandButtons\BTNElfVillager.blp
-Name=BrandTheOne
+Name=G BrandTheOne
 Hotkey=D
 Tip=Build BrandTheOne
 Ubertip="BrandTheOne, a very nice tower for a high price.  Over time, BrandTheOne pays for himself, dealing high magic damage with a SUPER FAST SPEED.  Not only that, but every now and than, by the power invested in him by ThaiTeaisGOD himself, BrandTheOne can become a bounty hunter and hunt for heads, earning him extra gold for you every now and than.                                       |CFFF26522Upgrades to Son, I'm BRANDON|R  |CFF00FF00 (Very Fast(0.00)/700-900 Magic Damage/900 Range) + Bounty hunter ability, kills monsters, get extra gold."
@@ -5377,7 +5374,7 @@ LoopingSoundFadeOut=512
 
 [n04U]
 Art=ReplaceableTextures\CommandButtons\BTNElfVillager.blp
-Name=A Smexy Person
+Name=G A Smexy Person
 Hotkey=E
 Tip=Train A Smexy Person
 Ubertip="WOW"
@@ -5386,7 +5383,7 @@ Builds=n04T,n04S,n04R,n04Q,n04P,n04O,n04N,n04V,n04M,n04L,n04K
 
 [n04V]
 Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-Name=The B3ast
+Name=G The B3ast
 Hotkey=D
 Tip=Build The B3ast
 Ubertip="The B3ast is a very unique tower, it has no real point in damage, but does a HUGE roar that stuns in a LARGE area.  Very useful against champs, leak catching, in mazes, or with "Lord D.O.T." GET THIS!!                               |CFFF26522Upgrades to Th3 B3AST and than to TH3 B34ST|R                                   |CFF00FF00 (Very Slow(2.50)/50-50 Normal Damage/750 Range) + Roars in a HUGE area, dealing 1 damage and stunning."
@@ -5402,7 +5399,7 @@ LoopingSoundFadeOut=512
 
 [n04W]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
-Name=Th3 B3AST
+Name=G Th3 B3AST
 Hotkey=D
 Tip=Upgrade to Th3 B3AST
 Ubertip="Th3 B3AST is a more powerful version of it's first version, dealing higher siege damage with a much faster cooldown, making it a shitty damage dealer.  However, for 100 gold, this guy gives you a 1.5 second long stun, and deals 5 damage.  Which is WAYY nicer than before. |CFFF26522Upgrades to TH3 B34ST|R               |CFF00FF00 (Average(1.25)/100-175 Siege Damage/750 Range) + Roars in a HUGE area, dealing 5 damage and stunning."
@@ -5418,7 +5415,7 @@ LoopingSoundFadeOut=512
 
 [n04X]
 Art=ReplaceableTextures\CommandButtons\BTNAvatarOn.blp
-Name=Yah Trick Yah
+Name=G Yah Trick Yah
 Hotkey=Z
 Tip=Upgrade to Yah Trick Yah [|cffffcc00Z|r]
 Ubertip="Yah Trick Yah, yeah it's old, but I needed something angryish for Mild-Mannered Chris.  So yeah.  Anyway, A very NICE tower, dealing stronger chaos damage and this time, he doesnt run out of bloodlust on you halfway through your spawn. WOOT!                                 |CFF00FF00 (Fast(1.00)/30-30 Chaos Damage/MELEE Range) + Bloodlust, +80% attack for 60 minutes."
@@ -5433,7 +5430,7 @@ LoopingSoundFadeOut=512
 
 [n04Y]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDemonHunter.blp
-Name=Ninjuh
+Name=G Ninjuh
 Hotkey=D
 Tip=Upgrade to Ninjuh
 Ubertip="Ninjuh is, a very good tower for it's low cost. Is deals very nice siege damage at the same speed as "Decimator", making a very low cost, alright siege damage doer for the first time fortified round.|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.00|n|cffffcc00Damage:|r 35 - 35|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Attack (2):|r Normal|n|cffffcc00Cooldown (2):|r 0.50|n|cffffcc00Damage (2):|r 45 - 70|n|cffffcc00Range (2):|r 900 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 105 (air only)"
@@ -5448,7 +5445,7 @@ LoopingSoundFadeOut=512
 
 [n04Z]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
-Name=Lord A.O.E.
+Name=G Lord A.O.E.
 Hotkey=D
 Tip=Upgrade to Lord A.O.E.
 Ubertip="Lord A.O.E., which means, Area Of Effect.  That's right, Lord A.O.E. does A.O.E., dealing a frost nova in a very nice radius.  and slowing for a while.  Very nice if you want the enemy to stay in the spawn for a couple more seconds.  Useful with "Sir C.R.U.S.T.Y." and it's upgrades near spawns.                                             |CFF00FF00 (Fast(1.00)/100-150 Magic Damage/700 Range) + Frost Nova, dealing nice damage in a HUGE radius."
@@ -5463,7 +5460,7 @@ LoopingSoundFadeOut=512
 
 [n050]
 Art=ReplaceableTextures\CommandButtons\BTNFootman.blp
-Name=Duke C.R.U.S.T.Y.K.R.A.B.
+Name=G Duke C.R.U.S.T.Y.K.R.A.B.
 Hotkey=D
 Tip=Build Sir C.R.U.S.T.Y.
 Ubertip="Sir C.R.U.S.T.Y., the most noble peasant EVER!! Sir C.R.U.S.T.Y. brings decent splash to  this race, stabalizing this race's horrible starting.  Not only that, but Sir C.R.U.S.T.Y. also has the most decent range yet. Sir C.R.U.S.T.Y. 's speed is alright, but works VERY well next to spawns, or with a "The B3ast" and itself near a spawn to deal intense damage. THE NOBLEST PEASANT EVER is the turning point to this race's horrible beggining damage.                  |CFFF26522Upgrades to Sir C.R.U.S.T.Y.K.R.A.B., Duke C.R.U.S.T.Y.K.R.A.B., AND Duke CrustyKrab|R  |CFF00FF00 (Fast(1.30)/200-300 Normal Damage/900 Range) + Decent ground splash."
@@ -5479,7 +5476,7 @@ LoopingSoundFadeOut=512
 
 [n051]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-Name=Sir C.R.U.S.T.Y.K.R.A.B.
+Name=G Sir C.R.U.S.T.Y.K.R.A.B.
 Hotkey=D
 Tip=Build Sir C.R.U.S.T.Y.
 Ubertip="Sir C.R.U.S.T.Y., the most noble peasant EVER!! Sir C.R.U.S.T.Y. brings decent splash to  this race, stabalizing this race's horrible starting.  Not only that, but Sir C.R.U.S.T.Y. also has the most decent range yet. Sir C.R.U.S.T.Y. 's speed is alright, but works VERY well next to spawns, or with a "The B3ast" and itself near a spawn to deal intense damage. THE NOBLEST PEASANT EVER is the turning point to this race's horrible beggining damage.                  |CFFF26522Upgrades to Sir C.R.U.S.T.Y.K.R.A.B., Duke C.R.U.S.T.Y.K.R.A.B., AND Duke CrustyKrab|R  |CFF00FF00 (Fast(1.30)/200-300 Normal Damage/900 Range) + Decent ground splash."
@@ -5495,7 +5492,7 @@ LoopingSoundFadeOut=512
 
 [n052]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
-Name=Duke CrustyKrab
+Name=GDuke CrustyKrab
 Hotkey=D
 Tip=Build Sir C.R.U.S.T.Y.
 Ubertip="Sir C.R.U.S.T.Y., the most noble peasant EVER!! Sir C.R.U.S.T.Y. brings decent splash to  this race, stabalizing this race's horrible starting.  Not only that, but Sir C.R.U.S.T.Y. also has the most decent range yet. Sir C.R.U.S.T.Y. 's speed is alright, but works VERY well next to spawns, or with a "The B3ast" and itself near a spawn to deal intense damage. THE NOBLEST PEASANT EVER is the turning point to this race's horrible beggining damage.                  |CFFF26522Upgrades to Sir C.R.U.S.T.Y.K.R.A.B., Duke C.R.U.S.T.Y.K.R.A.B., AND Duke CrustyKrab|R  |CFF00FF00 (Fast(1.30)/200-300 Normal Damage/900 Range) + Decent ground splash."
@@ -5510,7 +5507,7 @@ LoopingSoundFadeOut=512
 
 [n053]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyQueen.blp
-Name=OhMyEFFTW
+Name=G OhMyEFFTW
 Hotkey=D
 Tip=Build OhMyWTEFF?
 Ubertip="OhMyWTEFF? is a decent tower, dealing line damage in the like of forest trolls with siege damage, but, it's a nice tower near spawns, but the only reason why i'd get it is for the buff, +100% attack for a short time with a nice cooldown.  THE BEST attack buff in the game.   |CFFF26522Upgrades to OhMyEFFTW|R  |CFF00FF00 (Fast(1.00)/275-275 Siege Damage/700 Range) + Line damage and 100% attack buff for 15 seconds, 25 second cooldown"
@@ -5525,7 +5522,7 @@ LoopingSoundFadeOut=512
 
 [n054]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
-Name=MissyisVERYPissy
+Name=G MissyisVERYPissy
 Hotkey=D
 Tip=Build OhMyWTEFF?
 Ubertip="OhMyWTEFF? is a decent tower, dealing line damage in the like of forest trolls with siege damage, but, it's a nice tower near spawns, but the only reason why i'd get it is for the buff, +100% attack for a short time with a nice cooldown.  THE BEST attack buff in the game.   |CFFF26522Upgrades to OhMyEFFTW|R  |CFF00FF00 (Fast(1.00)/275-275 Siege Damage/700 Range) + Line damage and 100% attack buff for 15 seconds, 25 second cooldown"
@@ -5540,7 +5537,7 @@ LoopingSoundFadeOut=512
 
 [n055]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-Name=French Soldier
+Name=[Caerbannog] - French Soldier
 Hotkey=Q
 Tip=Build French Soldier [|cffffcc00Q|r]
 Ubertip="This french soldier has dedicated his whole life practicing the art of taunting, he's become so good at it he could taunt a rock to attack him if he really wanted to.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 1.0|n|cffffcc00Damage:|r 54 - 59|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Taunt; decreases nearby enemy units armor by 1"
@@ -5555,7 +5552,7 @@ LoopingSoundFadeOut=512
 
 [n056]
 Art=ReplaceableTextures\CommandButtons\BTNDemolisher.blp
-Name=Cow Catapult (Sheep)
+Name=[Caerbannog] - Cow Catapult (Sheep)
 Hotkey=W
 Tip=Build Cow Catapult (Sheep) [|cffffcc00W|r]
 Ubertip="The cow catapult was a great invention, the weight of a dead cow can crush even the strongest of foes! A shame this place only has sheep.|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.0|n|cffffcc00Damage:|r 58 - 61|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 60"
@@ -5570,7 +5567,7 @@ LoopingSoundFadeOut=512
 
 [n057]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan.blp
-Name=Witch Hunter (Peasant)
+Name=[Caerbannog] - Witch Hunter (Peasant)
 Hotkey=E
 Tip=Build Witch Hunter [|cffffcc00E|r]
 Ubertip="This peasant is obsessed with burning witches, infact he's so obsessed he'll burn anything and anyone within reach!|n|n|cffffcc00Attack:|r Pierce|n|cffffcc00Cooldown:|r 1.0|n|cffffcc00Damage:|r 10 - 10|n|cffffcc00Range:|r 500 (ground only)|n|cffffcc00Ability:|r BURN the Witch; deals 80 damage a second to ground units in a an area of 90"
@@ -5585,7 +5582,7 @@ LoopingSoundFadeOut=512
 
 [n058]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
-Name=The Knights Who Say Ni!
+Name=[Caerbannog] - The Knights Who Say Ni!
 Hotkey=R
 Tip=Build The Knights Who Say Ni! [|cffffcc00R|r]
 Ubertip="These silly knights doesn't know who they are, where they are or what they're doing, in fact, they're quite random, almost too random.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 2 - 150|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Block Path; slows enemy ground units within range by 25%"
@@ -5600,7 +5597,7 @@ LoopingSoundFadeOut=512
 
 [n059]
 Art=ReplaceableTextures\CommandButtons\BTNFurion.blp
-Name=Tim the Enchanter
+Name=[Caerbannog] - Tim the Enchanter
 Hotkey=A
 Tip=Build Tim the Enchanter [|cffffcc00A|r]
 Ubertip="Time the Enchanter can summon fire and explosions at will which he of course uses to blow his enemies into dust and other microscopic pieces|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 262 - 280|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 250"
@@ -5615,7 +5612,7 @@ LoopingSoundFadeOut=512
 
 [n05A]
 Art=ReplaceableTextures\CommandButtons\BTNCritterRabbit.blp
-Name=Killer Rabbit
+Name=[Caerbannog] - Killer Rabbit
 Hotkey=D
 Tip=Build Killer Rabbit [|cffffcc00D|r]
 Ubertip="The Killer Rabbit guards the cave of Caerbannog and has often been seen decapitating it's foes with it's sharp teeth|n|n|cffffcc00Attack:|r Pierce|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 499 - 501|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Nasty, big, pointy teeth; gives a 10% chance to deal 2 times normal damage|n|cffffcc00Ability (2):|r A vicious streak a mile wide; attacks strike through to nearby enemies, dealing 50% of the original damage"
@@ -5630,7 +5627,7 @@ LoopingSoundFadeOut=512
 
 [n05B]
 Art=ReplaceableTextures\CommandButtons\BTNPriest.blp
-Name=Brother Maynard
+Name=[Caerbannog] - Brother Maynard
 Hotkey=S
 Tip=Build Brother Maynard [|cffffcc00S|r]
 Ubertip="Brother Maynard is a well known and reputable priest, he doesn't know much about fighting, but his attacks can certainly banish ancient bosses to the purgatory|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 3.0|n|cffffcc00Damage:|r 1500 - 1500|n|cffffcc00Range:|r 1000 (non-ancients only)|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 3.0|n|cffffcc00Damage (2):|r 4500 - 4500|n|cffffcc00Range (2):|r 1000 (ancients only)"
@@ -5645,7 +5642,7 @@ LoopingSoundFadeOut=512
 
 [n05C]
 Art=ReplaceableTextures\CommandButtons\BTNWolf.blp
-Name=Sir Galahad the Pure
+Name=[Caerbannog] - Sir Galahad the Pure
 Hotkey=F
 Tip=Build Sir Galahad the Pure [|cffffcc00F|r]
 Ubertip="Sir Galahad the Pure is the purest being alive, he's so pure he became one with nature itself and can thus summon wolves to aid him in battle!|n|n|cffffcc00Ability:|r Summon Companion; summons two wolves for 6 seconds|n|cffffcc00Attack (Wolf):|r Chaos|n|cffffcc00Cooldown (Wolf):|r 0.1|n|cffffcc00Damage (Wolf):|r 600 - 600|n|cffffcc00Range (Wolf):|r Melee (ground only)"
@@ -5660,7 +5657,7 @@ LoopingSoundFadeOut=512
 
 [n05D]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheMoon.blp
-Name=Shrubbery
+Name=[Caerbannog] - Shrubbery
 Hotkey=Z
 Tip=Build Shrubbery [|cffffcc00Z|r]
 Ubertip="It's a shrubbery, what did you expect?|n|n|cffffcc00Attack:|r Pierce|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 100 - 100|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 250|n|cffffcc00Ability (2):|r Envenomed Shrub; attacks deal 200 poison damage per second|n|cffffcc00Ability (3):|r Thorned Shrub; enemies in melee range take 350 damage per second|n|cffffcc00Ability (4):|r Red Herring; chops down trees?"
@@ -5675,7 +5672,7 @@ LoopingSoundFadeOut=512
 
 [n05E]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
-Name=The Black Beast of Arrrghhh
+Name=[Caerbannog] - The Black Beast of Arrrghhh
 Hotkey=C
 Tip=Build The Black Beast of Arrrghhh [|cffffcc00C|r]
 Ubertip="The last utterance you'll make when this monster is within sight will be ''Arrrghhh!''|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.5|n|cffffcc00Damage:|r 1500 - 1750|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Fear; enemies within range has their armor decreased by 15|n|cffffcc00Ability (2):|r Run Away; enemies within range has their movement speed increased by 15%"
@@ -5690,7 +5687,7 @@ LoopingSoundFadeOut=512
 
 [n05F]
 Art=ReplaceableTextures\CommandButtons\BTNTheCaptain.blp
-Name=Sir Lancelot the Brave
+Name=[Caerbannog] - Sir Lancelot the Brave
 Hotkey=X
 Tip=Build Sir Lancelot the Brave [|cffffcc00X|r]
 Ubertip="Sir Lancelot the Brave is the greatest commander and sword fighter in the world, allies honour him and enemies fear him|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.03|n|cffffcc00Damage:|r 999 - 1111|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Leader; towers within an area of 400 gain +20% damage"
@@ -5710,7 +5707,7 @@ Buttonpos=,
 
 [n05H]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
-Name=Undead Dwarf
+Name=[Dwarves] - Undead Dwarf
 Hotkey=Q
 Tip=Build Undead Dwarf [|cffffcc00Q|r]
 Ubertip="Once a dwarf always a dwarf, not even death will take that away from you and this minion, I mean undead dwarf shows that|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.35|n|cffffcc00Damage:|r 13 - 14|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Bash; gives a 10% chance to stun for 0.5 seconds"
@@ -5725,7 +5722,7 @@ LoopingSoundFadeOut=512
 
 [n05I]
 Art=ReplaceableTextures\CommandButtons\BTNMortarTeam.blp
-Name=Mortar Dwarves
+Name=[Dwarven Mine] - Mortar Dwarves
 Hotkey=W
 Tip=Build Mortar Dwarves [|cffffcc00W|r]
 Ubertip="These two proud brothers are inseparable, together they make the worlds best snowball thrower, one loads the huge cannon and the other one fires!|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 50 - 50|n|cffffcc00Range:|r 500 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 90|n|cffffcc00Ability(2):|r Snowball Cannon; slows attacked units movement speed by 25%"
@@ -5740,7 +5737,7 @@ LoopingSoundFadeOut=512
 
 [n05J]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
-Name=Dwarven Hunter
+Name=[Dwarven Mine] - Dwarven Hunter
 Hotkey=E
 Tip=Build Dwarven Hunter [|cffffcc00E|r]
 Ubertip="He may be tiny and cute, but this dwarf has an impeccable shooting ability to hit up to three targets in one shot|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.65|n|cffffcc00Damage:|r 40 - 40|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Bounce; hits up to 3 enemies in one attack"
@@ -5756,7 +5753,7 @@ LoopingSoundFadeOut=512
 
 [n05K]
 Art=ReplaceableTextures\CommandButtons\BTNMountainGiant.blp
-Name=Mountain Dwarf
+Name=[Dwarven Mine] - Mountain Dwarf
 Hotkey=R
 Tip=Build Mountain Dwarf [|cffffcc00R|r]
 Ubertip="The Mountain Dwarf isn't really a dwarf per se, but he's been working together with the dwarves for thousands of years and has thus been adopted as a dwarf by the community|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 240 - 240|n|cffffcc00Range:|r 300|n|cffffcc00Ability:|r Splash; the area of effect is 200"
@@ -5771,7 +5768,7 @@ LoopingSoundFadeOut=512
 
 [n05L]
 Art=ReplaceableTextures\CommandButtons\BTNBlacksmith.blp
-Name=Blacksmith
+Name=[Dwarven Mine] - Blacksmith
 Hotkey=A
 Tip=Build Blacksmith [|cffffcc00A|r]
 Ubertip="There's not much the dwarves know better than the mines and the blacksmith, they have one of the best smiths in the whole wide world|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 200|n|cffffcc00Ability:|r Forge; increases attack damage of allies within range by 25%"
@@ -5786,7 +5783,7 @@ LoopingSoundFadeOut=512
 
 [n05M]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
-Name=Dwarven Warrior
+Name=[Dwarven Mine] - Dwarven Warrior
 Hotkey=S
 Tip=Build Dwarven Warrior [|cffffcc00S|r]
 Ubertip="Dwarfs are much smaller than humans, yet humans can't even compete with their strength which this dwarf takes full advantage of by wielding not just one, but two weapons!|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.05|n|cffffcc00Damage:|r 225 - 225|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Attack(2):|r Magic|n|cffffcc00Cooldown(2):|r 0.1|n|cffffcc00Damage(2):|r 225 - 225|n|cffffcc00Range(2):|r 400 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 100 (both air and ground)|n|cffffcc00Ability(2):|r Dwarven Superiority; decreases enemy armor by 5 within a range of 400"
@@ -5801,7 +5798,7 @@ LoopingSoundFadeOut=512
 
 [n05N]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
-Name=Flying Dwarf
+Name=[Dwarven Mine] - Flying Dwarf
 Hotkey=D
 Tip=Build Flying Dwarf [|cffffcc00D|r]
 Ubertip="The first ever flying dwarf! Well the first ever dwarven pilot, but still impressive|n|n|cffffcc00Attack:|r Hero|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 400 - 400|n|cffffcc00Range:|r 750|n|cffffcc00Ability:|r Dazzle; deals 100 damage and stuns enemies for 1 second"
@@ -5816,7 +5813,7 @@ LoopingSoundFadeOut=512
 
 [n05O]
 Art=ReplaceableTextures\CommandButtons\BTNArmorGolem.blp
-Name=Battle Golem
+Name=[Dwarven Mine] - Battle Golem
 Hotkey=F
 Tip=Build Battle Golem [|cffffcc00F|r]
 Ubertip="The Battle Golem is one of many incredible inventions made by the dwarves, this thing can throw large bombs that explode upon impact|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 650 - 650|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Splash; the area of effect is 350"
@@ -5831,7 +5828,7 @@ LoopingSoundFadeOut=512
 
 [n05P]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
-Name=Golden Hunter
+Name=[Dwarven Mine] - Golden Hunter
 Hotkey=V
 Tip=Upgrade to Golden Hunter [|cffffcc00V|r]
 Ubertip="This is Dwarven Hunter's bigger brother and as you'd expect he's not just bigger he's better! He can hit up to five targets in one shot|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 1600 - 1600|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Bounce; hits up to 5 enemies in one attack"
@@ -5846,7 +5843,7 @@ LoopingSoundFadeOut=512
 
 [n05Q]
 Art=ReplaceableTextures\CommandButtons\BTNStoneForm.blp
-Name=Dwarf King (Statue)
+Name=[Dwarven Mine] - Dwarf King (Statue)
 Hotkey=X
 Tip=Build Dwarf King [|cffffcc00X|r]
 Ubertip="A king amongst dwarfs (not in person, he's far too important to be here) is what this is a statue of|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 2000 - 2000|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Splash; the area of effect is 300|n|cffffcc00Ability (2):|r Kings Wrath; this tower has a 3% chance to cast shockwave whenever it damages a unit with its attack, shockwave deals 1000 damage"
@@ -5861,7 +5858,7 @@ LoopingSoundFadeOut=512
 
 [nC03]
 Art=ReplaceableTextures\CommandButtons\BTNPeon.tga
-Name=Peon
+Name=[Builder] - Peon
 Hotkey=P
 Tip=Train |cffffcc00P|reon
 Ubertip="Orc worker. Can build various Orc structures"
@@ -6004,7 +6001,7 @@ Attachmentanimprops=medium
 
 [o000]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
-Name=Juvenile Phoenix
+Name=[Humans] - Juvenile Phoenix
 Hotkey=Z
 Tip=Morph into Juvenile Phoenix [|cffffcc00Z|r]
 Ubertip="A full born phoenix hatched from a phoenix egg is a rare sight and it is said to take decades for a phoenix egg to hatch|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.00|n|cffffcc00Damage:|r 200 - 200|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Splash; the area of effect is 100 (ground only)"
@@ -6021,7 +6018,7 @@ Attachmentanimprops=Alternate
 
 [o001]
 Art=ReplaceableTextures\CommandButtons\BTNArmoredOge.blp
-Name=Giant King
+Name=[Giants] - Giant King
 Hotkey=C
 Tip=Build Giant King [|cffffcc00C|r]
 Ubertip="The king himself is the largest of all the giants, he's so big he even uses more space than any other tower in the game!|n|n|cffffcc00Attack:|r Hero|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 2050 - 2050|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Splash; the area of effect is 256|n|cffffcc00Ability(2):|r Huuuuuge; This tower is visually huuuuge!"
@@ -6036,7 +6033,7 @@ Attachmentanimprops=Alternate
 
 [o002]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
-Name=Spirit Wolf
+Name=[Draenei] - Spirit Wolf
 EditorSuffix=[Draenei]
 Buttonpos=,
 Attachmentanimprops=medium
@@ -6073,7 +6070,7 @@ Attachmentanimprops=Alternate
 
 [o005]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
-Name=Chaos Warlock
+Name=[Outlanders] - Chaos Warlock
 Hotkey=E
 Tip=Build Chaos Warlock [|cffffcc00E|r]
 Ubertip="The Chaos Warlock has the ability to augment friendly towers speed by 40%.  It has higher damage/speed/range as well!|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 100 - 120|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Bloodlust; increases a friendly towers attack speed by 40%"
@@ -6088,7 +6085,7 @@ Attachmentanimprops=Alternate
 
 [o006]
 Art=ReplaceableTextures\CommandButtons\BTNChaosKotoBeast.blp
-Name=Chaos Kodo Beast
+Name=[Shrine of Buffs] - Chaos Kodo Beast
 Hotkey=S
 Tip=Build Chaos Kodo Beast [|cffffcc00S|r]
 Ubertip="This unit has alot more damage as well as higher range than the Chaos Champion.  Its speed however is the same.  It increases nearby towers damage by 20%|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.90|n|cffffcc00Damage:|r 300 - 400|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Command Aura; friendly towers within range has their attack damage increased by 20%"
@@ -6118,7 +6115,7 @@ Attachmentanimprops=Alternate
 
 [o008]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrom.blp
-Name=Grom Hellscream
+Name=[Shrine of Buffs] - Grom Hellscream
 Hotkey=X
 Tip=Build Grom Hellscream [|cffffcc00X|r]
 Ubertip="This unit is the strongest chaos orc unit.  It has the best speed/damage/range as well as the fear aura which slows enemies by 35%|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.40|n|cffffcc00Damage:|r 462 - 1062|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Crippling Fear; slows enemy units within an area of 700 by 35%"
@@ -6247,7 +6244,7 @@ Animprops=upgrade,first
 
 [o00G]
 Art=ReplaceableTextures\CommandButtons\BTNFleshGolem.blp
-Name=Flesh Golem
+Name=[Giants] - Flesh Golem
 Hotkey=F
 Tip=Build Flesh Golem [|cffffcc00F|r]
 Ubertip="A ghoulish collection of humanoid body parts stitched together into a single composite form.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 3.00|n|cffffcc00Damage:|r 600 - 650|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Splash; the area of effect is 150|n|cffffcc00Ability(2):|r Berserk; increases attack speed by 50% for 10 seconds"
@@ -6262,7 +6259,7 @@ Attachmentanimprops=Alternate
 
 [o00H]
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
-Name=Serpent Ward
+Name=[Orc Stronghold] - Serpent Ward
 EditorSuffix=[Orc Stronghold]
 Buttonpos=,
 Missileart=Abilities\Weapons\SerpentWardMissile\SerpentWardMissile.mdl
@@ -6306,7 +6303,7 @@ Animprops=upgrade,first
 
 [o00K]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
-Name=Zealot
+Name=G Zealot
 Hotkey=T
 Tip=Build Zealot
 Ubertip="This unit has a moderate range, but a terrific attack speed and good damage.  This unit is similar to kiljaedan, though not as powerful.  (Very Fast/400 Damage/700 Range)  "
@@ -6419,7 +6416,7 @@ Attachmentanimprops=Alternate
 
 [o00R]
 Art=ReplaceableTextures\CommandButtons\BTNBoneyard.blp
-Name=Boneyard
+Name=[Undead] -Boneyard
 Hotkey=S
 Tip=Build Boneyard [|cffffcc00S|r]
 Ubertip="The Boneyard is the gathering place of all the undead looking for new bodies to consume|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 575 - 625|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 120"
@@ -6452,7 +6449,7 @@ Attachmentanimprops=Alternate
 
 [o00T]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBlademaster.blp
-Name=Blademaster
+Name=G Blademaster
 Hotkey=S
 Tip=Build Blademaster
 Ubertip="This unit has a very short range, but is capable of utilizing the bladestorm ability to create a deadly effect on nearby foes! |CFF00FF00 (Very Fast(0.50)/400 Piercing Damage+400 Damage per second bladestorm/300 Range) "
@@ -6467,7 +6464,7 @@ Attachmentanimprops=Alternate
 
 [o00U]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
-Name=Phoenix
+Name=[Aviaries] - Phoenix
 Hotkey=X
 Tip=Build Phoenix [|cffffcc00X|r]
 Ubertip="The best aerial unit. It combines the speed of the chimeara with splash. Though its damage is lower than the chimeara it makes up for it with its splash.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.00|n|cffffcc00Damage:|r 200 - 250|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Splash; the area of effect is 100"
@@ -6482,7 +6479,7 @@ Attachmentanimprops=Alternate
 
 [o00V]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidonRoyalGuard.blp
-Name=Royal Guard
+Name=G Royal Guard
 Hotkey=M
 Tip=Build Royal Guard
 Ubertip="This is a interesting addition.  This tower casts crushing wave which does spell damage to a group of enemies.  |CFF00FF00(Fast(1.20)/1-1+100 Normal Damage Crushing Wave/700 Range)"
@@ -6497,7 +6494,7 @@ Attachmentanimprops=Alternate
 
 [o00W]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleRed.blp
-Name=Dragon Turtle
+Name=G Dragon Turtle
 Hotkey=M
 Tip=Build Dragon Turtle
 Ubertip="This tower has the highest range of naga.  Though its cooldown is higher and it lacks splash, its good damage and range make it a decent addition.  |CFF00FF00(Deals Siege Damage)  (Fast(1.30)/300 Damage/1200 Range)"
@@ -6512,7 +6509,7 @@ Attachmentanimprops=Alternate
 
 [o00X]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
-Name=Ancient Golem
+Name=[Giants] - Ancient Golem
 Hotkey=A
 Tip=Build Ancient Golem [|cffffcc00A|r]
 Ubertip="A giant dating way back to when the old gods used to roam this planet, he's almost become one with nature by now yet he refuses to retire.|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 3.00|n|cffffcc00Damage:|r 405 - 405|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Splash; the area of effect is 256|n|cffffcc00Ability(2):|r Growing Moss; increases damage by +75 every minute (capped at +525 damage)"
@@ -6527,7 +6524,7 @@ Attachmentanimprops=Alternate
 
 [o00Y]
 Art=ReplaceableTextures\CommandButtons\BTNSeaGiant.blp
-Name=Sea Giant
+Name=[Giants] - Sea Giant
 Hotkey=Z
 Tip=Build Sea Giant [|cffffcc00Z|r]
 Ubertip="Sea Giants or Skrogs are very aggressive and territorial giants, you shouldn't get up close to one unless you're planning to fight it|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 5.00|n|cffffcc00Damage:|r 3000 - 3000|n|cffffcc00Range:|r 700|n|cffffcc00Ability:|r Splash; the area of effect is 192|n|cffffcc00Ability(2):|r Flood; enemies killed by this tower sends out waves dealing 500 damage to struck enemy units"
@@ -6590,7 +6587,7 @@ Attachmentanimprops=Alternate
 
 [o012]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadShrine.blp
-Name=Chaos Shrine
+Name=[Shrine of Buffs] - Chaos Shrine
 Hotkey=A
 Tip=Build Chaos Shrine [|cffffcc00A|r]
 Ubertip="This tower has no attack, but it has two very useful abilities, making it a terrific SUPPORT tower.|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Unholy Fire; increases the damage of a friendly tower within range by 20%|n|cffffcc00Ability (2):|r Aura of Doom; enemies within range has their armor reduced by 5"
@@ -6605,7 +6602,7 @@ Attachmentanimprops=Alternate
 
 [o013]
 Art=ReplaceableTextures\CommandButtons\BTNFountainOfLifeBlood.blp
-Name=Chaos Pool
+Name=[Shrine of Buffs] - Chaos Pool
 Hotkey=F
 Tip=Build Chaos Pool [|cffffcc00F|r]
 Ubertip="This is the best support tower on the map.  It increases the attack speed of friendly towers in a large area around it|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Blood Aura; friendly towers within range has their attack speed increased by 60%"
@@ -6620,7 +6617,7 @@ Attachmentanimprops=Alternate
 
 [o014]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSeaWitch.blp
-Name=Lady Vashj
+Name=G Lady Vashj
 Hotkey=M
 Tip=Build Lady Vashj
 Ubertip="This unit functions similar the the naga royal guard in that it attacks with spell damage.  It uses the forked lightning spell to do excellent damage to up to 3 targets.  |CFF00FF00(Fast(1.00)/1-1+350 Damage Forked Lightning/600 Range)"
@@ -6635,7 +6632,7 @@ Attachmentanimprops=Alternate
 
 [o015]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
-Name=Giant Revenant
+Name=[Giants] - Giant Revenant
 Hotkey=X
 Tip=Build Giant Revenant [|cffffcc00X|r]
 Ubertip="Revenants usually aren't this big, but a curse turned this revenant into a giant, forcing him to leave his old life behind.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 4125 - 4125|n|cffffcc00Range:|r Melee"
@@ -6665,7 +6662,7 @@ Attachmentanimprops=Alternate
 
 [o017]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
-Name=Draenei Laborer
+Name=[Builder] - Draenei Laborer
 Hotkey=A
 Tip=Train Draenei Laborer
 Ubertip="Draenei worker. This guy builds Draenei towers"
@@ -6766,7 +6763,7 @@ Animprops=upgrade,first
 
 [o01E]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
-Name=Companion
+Name=[Caerbannog] - Companion
 EditorSuffix= (Sir Galahad the Pure)
 Buttonpos=,
 Attachmentanimprops=medium
@@ -6949,7 +6946,7 @@ Attachmentanimprops=Alternate
 
 [o01Q]
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
-Name=Mirror Image
+Name=[Goblins] - Mirror Image
 EditorSuffix= (Goblin Blademaster)
 Buttonpos=,
 Attachmentanimprops=medium
@@ -6988,7 +6985,7 @@ Attachmentanimprops=Alternate
 
 [oC14]
 Art=ReplaceableTextures\CommandButtons\BTNSasquatch.tga
-Name=Sasquatch
+Name=[Giants] - Sasquatch
 Hotkey=Q
 Tip=Build Sasquatch [|cffffcc00Q|r]
 Ubertip="The infamous Sasquatch lives up in the mountains, but for the right coin he's willing to work for you, no questions asked|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 3.00|n|cffffcc00Damage:|r 26 - 26|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Splash; the area of effect is 125"
@@ -7003,7 +7000,7 @@ Attachmentanimprops=Alternate
 
 [oC18]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.tga
-Name=Gargoyle
+Name=[Aviaries] - Gargoyle
 Hotkey=W
 Tip=Build Gargoyle [|cffffcc00W|r]
 Ubertip="The Gargoyle is a large advance in the Aerial line. It's damage is much higher, but it's range slightly lower.|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.40|n|cffffcc00Damage:|r 30 - 30|n|cffffcc00Range:|r 500 (ground only)|n|cffffcc00Attack (2):|r Normal|n|cffffcc00Cooldown (2):|r 1.00|n|cffffcc00Damage (2):|r 70 - 90|n|cffffcc00Range (2):|r 700 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 80 (air only)"
@@ -7036,17 +7033,17 @@ Attachmentanimprops=Alternate
 
 [oC22]
 Art=ReplaceableTextures\CommandButtons\BTNAcolyte.tga
-Name=Acolyte
+Name=[Builder] - Acolyte
 Hotkey=A
-Tip=Train |cffffcc00A|rcolyte
-Ubertip="Undead worker. This guy builds undead towers"
+Tip=
+Ubertip=
 EditorSuffix=Undead Necropolis
 Buttonpos=0,0
 Builds=hC21,hC27,oC56,oC73,hC94,o00R,h00R,oC74,h00N,h000
 
 [oC24]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.tga
-Name=Mur'Gul Reaver
+Name=G Mur'Gul Reaver
 Hotkey=M
 Tip=Build |cffffcc00M|rur'Gul Reaver
 Ubertip="A simple Mur'Gul Reaver is pretty much the peasant of the naga race|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 12 - 12|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Splash; the area of effect is 60"
@@ -7061,7 +7058,7 @@ Attachmentanimprops=Alternate
 
 [oC25]
 Art=ReplaceableTextures\CommandButtons\BTNMurgalSlave.tga
-Name=Mur'Gul Slave
+Name=G Mur'Gul Slave
 Hotkey=S
 Tip=Train Mur'Gul |cffffcc00S|rlave
 Ubertip="The builder of Naga Towers"
@@ -7070,7 +7067,7 @@ Builds=oC24,h01H,oC37,h007,oC61,o00W,o00V,hC99,o014,oC62
 
 [oC26]
 Art=ReplaceableTextures\CommandButtons\BTNArmorGolem.blp
-Name=Iron Golem Statue
+Name=[Giants] - Iron Golem Statue
 Hotkey=R
 Tip=Build Iron Golem Statue [|cffffcc00R|r]
 Ubertip="A statue dedicated to the giants, they keep it in the middle of town, to those guys the spikes are too small to hurt, they mostly just tickle.|n|n|cffffcc00Attack:|r None|n|cffffcc00Range:|r 300 (ground only)|n|cffffcc00Ability:|r Spiked Trap; sends out waves of impaling spikes every 5th second dealing 600 damage to struck enemies"
@@ -7095,7 +7092,7 @@ Attachmentanimprops=medium
 
 [oC35]
 Art=ReplaceableTextures\CommandButtons\BTNOgre.tga
-Name=Ogre Warrior
+Name=[Giants] - Ogre Warrior
 Hotkey=W
 Tip=Build Ogre Warrior [|cffffcc00W|r]
 Ubertip="The simple ogre doesn't know how to hit air units as they're too far up there, but he's great at smashing ground units!|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 3.00|n|cffffcc00Damage:|r 168 - 169|n|cffffcc00Range:|r 600 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 300|n|cffffcc00Ability(2):|r Massive Blow; damaged enemies are slowed by 30% for 1.5 seconds"
@@ -7110,7 +7107,7 @@ Attachmentanimprops=Alternate
 
 [oC37]
 Art=ReplaceableTextures\CommandButtons\BTNSeaWitch.tga
-Name=Siren
+Name=G Siren
 Hotkey=S
 Tip=Train a |cffffcc00S|riren
 Ubertip="Naga just improved again. The Siren is an expensive, but worthwhile investment, gaining moderate splash and better damage.  |CFF00FF00(Fast(1.00)/80-90 Normal Damage/700 Range)"
@@ -7136,7 +7133,7 @@ Attachmentanimprops=medium
 
 [oC56]
 Art=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
-Name=Meat Wagon
+Name=[Undead] - Meat Wagon
 Hotkey=E
 Tip=Build Meat Wagon [|cffffcc00E|r]
 Ubertip="Meat Wagons usually carry the dead which is why they are full of plagues and diseases and should not be approached by anyone other than the dead themselves|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 4.00|n|cffffcc00Damage:|r 16 - 19|n|cffffcc00Range:|r 900 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 150|n|cffffcc00Ability(2):|r Disease Cloud; deals 36 damage a second for 20 seconds"
@@ -7167,7 +7164,7 @@ Attachmentanimprops=Alternate
 
 [oC60]
 Art=ReplaceableTextures\CommandButtons\BTNWyvern.tga
-Name=Wyvern
+Name=[Aviaries] - Wyvern
 Hotkey=D
 Tip=Build Wyvern [|cffffcc00D|r]
 Ubertip="A truly helpful Tower for any situation, the Wyvern does basically no base damage. It removes 15% of any non boss opponents current health. |n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 2.50|n|cffffcc00Damage:|r 1 - 1|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Splash; the area of effect is 128|n|cffffcc00Ability(2):|r Deadly Venom; enemies hit by this tower has their current health reduced by 15%"
@@ -7197,7 +7194,7 @@ Attachmentanimprops=Alternate
 
 [oC62]
 Art=ReplaceableTextures\CommandButtons\BTNEvilIllidan.blp
-Name=Illidan
+Name=G Illidan
 Hotkey=I
 Tip=Build |cffffcc00I|rllidan
 Ubertip="The final defense for Naga will more than do a good job.  It does great damage with a very fast speed and fabulous range.  It however has no splash.  (Very Fast(0.25)/1000 Normal Damage/1000 Range)"
@@ -7245,7 +7242,7 @@ Attachmentanimprops=Alternate
 
 [oC67]
 Art=ReplaceableTextures\CommandButtons\BTNOgreLord.blp
-Name=Ogre Lord
+Name=[Giants] - Ogre Lord
 Hotkey=D
 Tip=Build Ogre Lord [|cffffcc00D|r]
 Ubertip="Two isn't always better than one, these two heads constantly argue about who's time it is to be in charge of their body|n|n|cffffcc00Attack:|r Hero|n|cffffcc00Cooldown:|r 3.00|n|cffffcc00Damage:|r 400 - 400|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Splash; the area of effect is 120|n|cffffcc00Ability(2):|r Double Vision; 50% chance to deal 4100 damage instead of 400"
@@ -7260,7 +7257,7 @@ Attachmentanimprops=Alternate
 
 [oC68]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.tga
-Name=Chimera
+Name=[Aviaries] - Chimera
 Hotkey=Z
 Tip=Build Chimera [|cffffcc00Z|r]
 Ubertip="The second to last in the line of Aerial Towers has fantastic damage and speed. |n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.00|n|cffffcc00Damage:|r 350 - 350|n|cffffcc00Range:|r 700"
@@ -7284,7 +7281,7 @@ Buttonpos=0,0
 
 [oC73]
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
-Name=Obsidian Statue
+Name=[Undead] - Obsidian Statue
 Hotkey=R
 Tip=Build Obsidian Statue [|cffffcc00R|r]
 Ubertip="This statue has been filled to the brim with potent demon magic which consists of pure energized fire|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 36 - 44|n|cffffcc00Range:|r 750|n|cffffcc00Ability:|r Splash; the area of effect is 60 (ground only)"
@@ -7300,7 +7297,7 @@ Attachmentanimprops=Alternate
 
 [oC74]
 Art=ReplaceableTextures\CommandButtons\BTNDuneWorm.blp
-Name=Dune Worm
+Name=[Undead] - Dune Worm
 Hotkey=F
 Tip=Build Dune Worm [|cffffcc00F|r]
 Ubertip="This small creature can often be found hiding in the sand dunes, waiting for approaching victims to leech|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.03|n|cffffcc00Damage:|r 700 - 800|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Splash; the area of effect is 150"
@@ -7315,7 +7312,7 @@ Attachmentanimprops=Alternate
 
 [oC91]
 Art=ReplaceableTextures\CommandButtons\BTNPitLord.tga
-Name=Pit Lord
+Name=G Pit Lord
 Hotkey=P
 Tip=Build |cffffcc00P|rit Lord
 Ubertip="The Pit Lord is like the Felhound. The Pit Lord, however, has a larger range, higher damage, and a greater splash. It's quite expensive, though.  |CFF00FF00(Fast(1.20)/700-800 Chaos Damage/900 Range)"
@@ -7349,10 +7346,10 @@ Builds=o003,o004,o005,o007,o011,o016,o01B,u01C
 
 [u002]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfPeasant.blp
-Name=High Elf Worker
+Name=[Builder] - High Elf Worker
 Hotkey=W
-Tip=Train High Elf Workers
-Ubertip="Summons High Elf towers."
+Tip=
+Ubertip=
 EditorSuffix=High Elf Barracks
 Buttonpos=0,0
 Builds=o009,o00A,o00B,o00C,o00Z,o00Q,o00D,o00N
@@ -7375,7 +7372,7 @@ Missilespeed=500
 
 [u005]
 Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
-Name=Ent
+Name=[Corrupt N.Elves] - Ent
 Buttonpos=,
 Missileart=-
 Missilearc=0
@@ -7424,10 +7421,10 @@ Missilespeed=0
 
 [u00B]
 Art=ReplaceableTextures\CommandButtons\BTNpurpleDragonSpawn.tga
-Name=Royal Dragonling
+Name=[Builder] - Royal Dragonling
 Hotkey=D
-Tip=Train Royal |cffffcc00D|rragonling
-Ubertip="Builds Dragon Towers."
+Tip=
+Ubertip=
 EditorSuffix=Dragons
 Buttonpos=,
 Builds=h00Z,h010
@@ -7572,7 +7569,7 @@ Attachmentanimprops=
 
 [u015]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonArcher.blp
-Name=Forsaken Archer
+Name=[Forsaken] - Forsaken Archer
 Ubertip=
 EditorSuffix=(Necromancer)
 Buttonpos=0,0
@@ -7596,7 +7593,7 @@ MissileHoming=0,0
 
 [u018]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
-Name=Forsaken Mage
+Name=[Forsaken] - Forsaken Mage
 EditorSuffix=(Destroyer)
 Buttonpos=0,0
 Missileart=Abilities\Weapons\NecromancerMissile\NecromancerMissile.mdl
@@ -7623,9 +7620,9 @@ Missilespeed=0
 Art=ReplaceableTextures\CommandButtons\BTNChaosPeon.blp
 Name=Bringer of Buffs
 Hotkey=W
-Tip=Train Bringer of Buffs
-Ubertip="Summons Chaos Buff towers."
-EditorSuffix=Shrine of Buffs
+Tip=
+Ubertip=
+EditorSuffix=[Builder] - Shrine of Buffs
 Buttonpos=0,0
 Builds=o012,o006,o013,o008
 
@@ -8040,7 +8037,7 @@ LoopingSoundFadeOut=512
 
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-Name=Giant Worker
+Name=[Builder] - Giant Worker
 Hotkey=G
 Tip=Train |cffffcc00G|riant Worker
 Ubertip="Giant Worker, builds giant buildings."
@@ -8094,7 +8091,7 @@ Buttonpos=0,0
 
 [uC84]
 Art=ReplaceableTextures\CommandButtons\BTNpurpleDragonSpawn.tga
-Name=Dragonspawn
+Name=G Dragonspawn
 Hotkey=D
 Tip=Train |cffffcc00D|rragonspawn
 Ubertip="Builds Dragon Towers."
@@ -8104,10 +8101,10 @@ Builds=hC85,hC87,h00C,hC89,hC88,hC96,hC92,h004,h001,h00P
 
 [uC98]
 Art=ReplaceableTextures\CommandButtons\BTNBlueDemoness.tga
-Name=Demon Worker
+Name=[Builder] - Demon Worker
 Hotkey=W
-Tip=Train Demon |cffffcc00W|rorker
-Ubertip="Summons Demon towers."
+Tip=
+Ubertip=
 EditorSuffix=Demon Portal
 Buttonpos=0,0
 Builds=h03W,h03U,h03X,n00U,h03V,h00F,o00L,eC93
