@@ -3474,7 +3474,6 @@ Hotkey=K
 Tip=Summon Blue Dra|cffffcc00k|re
 Ubertip="Small ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 20
-Buttonpos=,
 Missileart=Abilities\Weapons\FrostWyrmMissile\FrostWyrmMissile.mdl
 Missilearc=0.1
 Missilespeed=800
@@ -3532,7 +3531,6 @@ Name=Enraged Yeti
 Tip=Summon Fel Stalker
 Ubertip="Demonic beast that casts Mana Burn. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=lvl 11
-Buttonpos=,
 Attachmentanimprops=medium
 
 [n009]
@@ -3591,7 +3589,6 @@ Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
 Name=[Cavernous Creatures] - Tentacle
 Ubertip="A gnarly tentacle from the depths. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Cavernous Creatures]
-Buttonpos=,
 Missilespeed=2000
 MissileHoming=1
 
@@ -3657,7 +3654,6 @@ Art=ReplaceableTextures\CommandButtons\BTNSpider.blp
 Name=Spider
 Tip=Summon Spider
 Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
-Buttonpos=,
 
 [n00J]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan.blp
@@ -3665,7 +3661,6 @@ Name=[Builder] - Mover of Barrels
 Tip=
 Ubertip=
 EditorSuffix=Arachnid Hive
-Buttonpos=,
 Builds=h04K
 
 [n00K]
@@ -3824,7 +3819,6 @@ Hotkey=R
 Tip=Build Summoning Shrine [|cffffcc00R|r]
 Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 8.00|n|cffffcc00Damage:|r 1|n|cffffcc00Range:|r 600 (ground only)|n|cffffcc00Ability:|r Infernal Strike; Calls down a meteor from the sky, dealing 500 damage on impact, stunning for 1 second and spawning an Infernal."
 EditorSuffix=[T4]
-Buttonpos=,
 
 [n00V]
 Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
@@ -3832,7 +3826,6 @@ Name=[Demons] - Infernal
 Tip=Summon Infernal
 Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Demon]
-Buttonpos=,
 Attachmentanimprops=large
 
 [n00W]
@@ -3841,7 +3834,6 @@ Name=[Demon] - Chaos Infernal
 Tip=Summon Infernal
 Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=[Demon]
-Buttonpos=,
 Attachmentanimprops=large
 
 [n00X]
@@ -3927,7 +3919,6 @@ LoopingSoundFadeOut=512
 Art=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
 Name=[Orc Stronghold] - Misha
 EditorSuffix=[Orc Stronghold]
-Buttonpos=,
 Attachmentanimprops=large
 
 [n014]
@@ -3944,7 +3935,6 @@ Builds=n00F,n00G,n00H,n018,n019,n01A,n01B,n01C
 Art=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
 Name=[Orc Stronghold] - Spirit Hawk
 EditorSuffix=[Orc Stronghold]
-Buttonpos=,
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilearc=0.00
 Missilespeed=1500
@@ -3953,7 +3943,6 @@ Missilespeed=1500
 Art=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
 Name=[Orc Stronghold] - Huffer
 EditorSuffix=[Orc Stronghold]
-Buttonpos=,
 Missileart=Abilities\Weapons\BristleBackMissile\BristleBackMissile.mdl
 Missilearc=0.15
 Missilespeed=1500
@@ -3966,7 +3955,6 @@ Name=Teleport
 Description=A large pedestal that glows with energy.
 Tip=Build Circle of Power
 EditorSuffix=(large)
-Buttonpos=,
 
 [n018]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShadowPriest.blp
@@ -5703,7 +5691,6 @@ LoopingSoundFadeOut=512
 [n05G]
 Art=ReplaceableTextures\CommandButtons\BTNShip.blp
 Name=Ship
-Buttonpos=,
 
 [n05H]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
@@ -5873,7 +5860,6 @@ Hotkey=W
 Tip=Summon Blue Dragon |cffffcc00W|rhelp
 Ubertip="Tiny ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 5
-Buttonpos=,
 Missileart=Abilities\Weapons\FrostWyrmMissile\FrostWyrmMissile.mdl
 Missilearc=0.1
 Missilespeed=800
@@ -5886,7 +5872,6 @@ Hotkey=H
 Tip=Hire Murloc |cffffcc00H|runtsman
 Ubertip="Light melee unit that can Ensnare opponents. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=lvl 6
-Buttonpos=,
 
 [nC30]
 Art=ReplaceableTextures\CommandButtons\BTNLobstrokkGreen.blp
@@ -5894,7 +5879,6 @@ Name=Makrura Snapper
 Tip=Hire Ice Troll Priest
 Ubertip="Priest of healing magic. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 8
-Buttonpos=,
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=900
@@ -5906,7 +5890,6 @@ Name=Mini-Tank
 Tip=Summon Black Spider
 Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=lvl 10
-Buttonpos=,
 
 [nC39]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardSalamander.blp
@@ -5915,7 +5898,6 @@ Hotkey=T
 Tip=Summon |cffffcc00T|rhunder Lizard
 Ubertip="Heavy ranged unit that hurls bolts of lightning. Can Slam opponents. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 13
-Buttonpos=,
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilearc=0.00
 Missilespeed=1500
@@ -5927,7 +5909,6 @@ Name=Nymph
 Tip=Summon Fel Stalker
 Ubertip="Demonic beast that casts Mana Burn. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=lvl 14
-Buttonpos=,
 Attachmentanimprops=medium
 
 [nC41]
@@ -5937,7 +5918,6 @@ Hotkey=K
 Tip=Summon Blue Dra|cffffcc00k|re
 Ubertip="Small ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 15
-Buttonpos=,
 Missileart=Abilities\Weapons\FrostWyrmMissile\FrostWyrmMissile.mdl
 Missilearc=0.1
 Missilespeed=800
@@ -5949,7 +5929,6 @@ Name=Merfolk Champion
 Tip=Summon Granite Golem
 Ubertip="Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 16
-Buttonpos=,
 Missileart=Abilities\Weapons\AncientProtectorMissile\AncientProtectorMissile.mdl
 Missilearc=0.0
 Missilespeed=1000
@@ -5961,7 +5940,6 @@ Name=Big Game Hunter
 Tip=Hire Dark Wizard
 Ubertip="Heavy ranged unit with Brilliance Aura. Can also cast Raise Dead and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 23
-Buttonpos=,
 Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
 Missilearc=0.15
 Missilespeed=900
@@ -5974,7 +5952,6 @@ Name=Satyr Hellcaller
 Tip=Summon Infernal
 Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=lvl 24
-Buttonpos=,
 Attachmentanimprops=large
 
 [nC51]
@@ -5984,7 +5961,6 @@ Hotkey=K
 Tip=Summon Blue Dra|cffffcc00k|re
 Ubertip="Small ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
 EditorSuffix=lvl 25
-Buttonpos=,
 Missileart=Abilities\Weapons\FrostWyrmMissile\FrostWyrmMissile.mdl
 Missilearc=0.1
 Missilespeed=800
@@ -5996,7 +5972,6 @@ Name=Steel Golem
 Tip=Hire Pandaren
 Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
 EditorSuffix=lvl 26
-Buttonpos=,
 Attachmentanimprops=medium
 
 [o000]
@@ -6035,7 +6010,6 @@ Attachmentanimprops=Alternate
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
 Name=[Draenei] - Spirit Wolf
 EditorSuffix=[Draenei]
-Buttonpos=,
 Attachmentanimprops=medium
 
 [o003]
@@ -6261,7 +6235,6 @@ Attachmentanimprops=Alternate
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
 Name=[Orc Stronghold] - Serpent Ward
 EditorSuffix=[Orc Stronghold]
-Buttonpos=,
 Missileart=Abilities\Weapons\SerpentWardMissile\SerpentWardMissile.mdl
 Missilearc=0.15
 Missilespeed=900
@@ -6765,7 +6738,6 @@ Animprops=upgrade,first
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
 Name=[Caerbannog] - Companion
 EditorSuffix= (Sir Galahad the Pure)
-Buttonpos=,
 Attachmentanimprops=medium
 
 [o01F]
@@ -6948,7 +6920,6 @@ Attachmentanimprops=Alternate
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
 Name=[Goblins] - Mirror Image
 EditorSuffix= (Goblin Blademaster)
-Buttonpos=,
 Attachmentanimprops=medium
 
 [o01R]
@@ -7360,12 +7331,10 @@ Name=Artifact Curse
 Tip=Train Shade
 Ubertip="A permanently invisible spirit that can see other invisible units, but cannot attack."
 EditorSuffix= (Unholy Aura)
-Buttonpos=,
 
 [u004]
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Name=Nerubian Prince's Web
-Buttonpos=,
 Missileart=Abilities\Weapons\LocustMissile\LocustMissile.mdl
 Missilearc=0.15
 Missilespeed=500
@@ -7373,7 +7342,6 @@ Missilespeed=500
 [u005]
 Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
 Name=[Corrupt N.Elves] - Ent
-Buttonpos=,
 Missileart=-
 Missilearc=0
 Missilespeed=0
@@ -7384,12 +7352,10 @@ Name=Wisp
 Tip=Train Shade
 Ubertip="A permanently invisible spirit that can see other invisible units, but cannot attack."
 EditorSuffix=lvl 1
-Buttonpos=,
 
 [u007]
 Art=ReplaceableTextures\PassiveButtons\PASBTNPlagueCloud.blp
 Name=Disease Cloud
-Buttonpos=,
 
 [u008]
 Art=ReplaceableTextures\WorldEditUI\DoodadPlaceholder.blp
@@ -7397,7 +7363,6 @@ Name=Dummy
 Tip=Train Shade
 Ubertip="A permanently invisible spirit that can see other invisible units, but cannot attack."
 EditorSuffix= (Spellcaster)
-Buttonpos=,
 
 [u009]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
@@ -7414,7 +7379,6 @@ MissileHoming=1
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Name=Creature
 EditorSuffix=[Cavernous Creatures]
-Buttonpos=,
 Missileart=-
 Missilearc=0.15
 Missilespeed=0
@@ -7426,7 +7390,6 @@ Hotkey=D
 Tip=
 Ubertip=
 EditorSuffix=Dragons
-Buttonpos=,
 Builds=h00Z,h010
 
 [u00C]
@@ -7611,7 +7574,6 @@ MissileHoming=0,0
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Name=Gargoyle
 EditorSuffix=[Forsaken]
-Buttonpos=,
 Missileart=-
 Missilearc=0.15
 Missilespeed=0
@@ -8096,7 +8058,6 @@ Hotkey=D
 Tip=Train |cffffcc00D|rragonspawn
 Ubertip="Builds Dragon Towers."
 EditorSuffix=Dragon Roost
-Buttonpos=,
 Builds=hC85,hC87,h00C,hC89,hC88,hC96,hC92,h004,h001,h00P
 
 [uC98]
