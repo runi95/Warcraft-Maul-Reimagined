@@ -1632,12 +1632,13 @@ Animprops=upgrade,first
 
 [h02A]
 Art=ReplaceableTextures\CommandButtons\BTNChaosSpaceOrc.blp
-Name=[The Unique] - Orc Firebat
-Hotkey=O
-Tip=Build |cffffcc00O|rrc Firebat
-Ubertip="The Orc Firebat. Again, I SUPPOSE this model isn't the most original nowadays, but this is MY maul... Mofo... Has short range, splash, chaos dmg and a short cooldown.                                                                                                                                                                        |CFF00FF00(117-137 Chaos Damage /400 Range / .30 Cooldown )"
-Buttonpos=2,2
-Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile.mdl
+Name=[Uniques] - Orc Firebat
+Hotkey=E
+Tip=Build Orc Firebat [|cffffcc00E|r]
+Ubertip="|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 50 - 100|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Splash; the area of effect is 200"
+EditorSuffix=[T3]
+Buttonpos=2,0
+Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
 Missilespeed=2000
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
@@ -1739,10 +1740,11 @@ LoopingSoundFadeOut=512
 
 [h02H]
 Art=ReplaceableTextures\CommandButtons\BTNMarine.blp
-Name=[The Unique] - Marine
+Name=[Uniques] - Marine
 Hotkey=Q
 Tip=Build Marine [|cffffcc00Q|r]
-Ubertip="A simple combat trained marine used for killing of hoards and hoards of zerglings.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 7 - 7|n|cffffcc00Range:|r 800"
+Ubertip="|cffffcc00Attack:|r Pierce|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 5|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Marine Force; increases damage by 1 for each Marine tower owned"
+EditorSuffix=[T1]
 Buttonpos=0,2
 Missileart=Abilities\Weapons\Rifle\RifleImpact.mdl
 Missilearc=0.15
@@ -1762,12 +1764,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [h02J]
-Art=ReplaceableTextures\CommandButtons\BTNProudmoore.blp
-Name=[The Unique] - Admiral Proudmoore
-Hotkey=A
-Tip=Build |cffffcc00A|rdmiral Proudmoore
-Ubertip="Admiral Proudmoore. Not a very good attack for this lvl of tower, however his aura deals dmg to those around him which is VERY effective.                                                                                                                                                                       |CFF00FF00(150-150 Normal Dmg /800 Range /1.00 Cooldown) (Aura Deals 50 dmg per sec / 800 range)"
-Buttonpos=0,1
+Art=ReplaceableTextures\CommandButtons\BTNProudMoore.blp
+Name=[Uniques] - Admiral Proudmoore
+Hotkey=R
+Tip=Build Admiral Proudmoore [|cffffcc00R|r]
+Ubertip="Admiral Proudmoore, a long time alliance naval officer, also an Oceanmaster and you can only have one Oceanmaster.|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Oceanmaster; creates a ring of 8 Sea Elementals around the tower, elementals deal 200 magic splash damage."
+EditorSuffix=[T4]
+Buttonpos=3,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Missilespeed=1500
 BuildingSoundLabel=BuildingConstructionLoop
@@ -1776,25 +1779,27 @@ LoopingSoundFadeOut=512
 
 [h02K]
 Art=ReplaceableTextures\CommandButtons\BTNForgottenOne.blp
-Name=[The Unique] - Forgotten One
+Name=[Uniques] - Ancient Monstrosity
 Hotkey=A
-Tip=Build For|cffffcc00g|rotten One
-Ubertip="The Forgotten One. Has long range, some good splash dmg but a longer cooldown and artillery type attack.                                                                                                                               |CFF00FF00(403-431 Siegel Dmg /1200 Range /1.60 Cooldown) "
-Buttonpos=1,1
-Missileart=Abilities\Weapons\DemonHunterMissile\DemonHunterMissile.mdl
+Tip=Build Ancient Monstrosity [|cffffcc00A|r]
+Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 5.00|n|cffffcc00Damage:|r 2000|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Corrosive Residue; attacks have a 50% chance to cast Acid Bomb on damage enemys|n|cffffcc00Ability (2):|r Splash; the area of effect is 300"
+EditorSuffix=[T5]
+Buttonpos=0,1
+Missileart=Abilities\Spells\Other\Volcano\VolcanoMissile.mdl
 Missilearc=0.75
-Missilespeed=500
+Missilespeed=600
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [h02L]
 Art=ReplaceableTextures\CommandButtons\BTNHydralisk.blp
-Name=[The Unique] - Hydralisk
-Hotkey=H
-Tip=Build |cffffcc00H|rydralisk
-Ubertip="The Hydralisk. Has no splash dmg, but doesn't cost that much more than the last tower and has more dmg and a better attack speed. Every Hydralisk HAS to have poison too.                                                                                                                                                                   |CFF00FF00(481-537 Piercing Dmg /900 Range /.80 Cooldown) "
-Buttonpos=2,1
+Name=[Uniques] - Hydralisk
+Hotkey=S
+Tip=Build Hydralisk [|cffffcc00S|r]
+Ubertip="|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 300|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Evolution; every enemy killed by this tower will increases its effectiveness.|n|cffffcc00Ability (2):|r Splash; the area of effect is 100 (air only)"
+EditorSuffix=[T6]
+Buttonpos=1,1
 Missileart=Abilities\Weapons\IllidanMissile\IllidanMissile.mdl
 Missilespeed=1500
 BuildingSoundLabel=BuildingConstructionLoop
@@ -1855,13 +1860,16 @@ LoopingSoundFadeOut=512
 
 [h02Q]
 Art=ReplaceableTextures\CommandButtons\BTNManaShield.blp
-Name=[The Unique] - Iron Arthas
-Hotkey=I
-Tip=Build I|cffffcc00r|ron As In Arthas
-Ubertip="Iron As In Arthas. Has a low cooldown and some large splash. Buffs up all nearby towers attack damage and speed.|n|CFF00FF00(1000-1100 Normal Dmg /1200 Range /.70 Cooldown) "
+Name=[Uniques] - Iron Arthas
+Hotkey=D
+Tip=Build Iron Arthas [|cffffcc00D|r]
+Ubertip="|cffffcc00Attack:|r Hero|n|cffffcc00Cooldown:|r 0.75|n|cffffcc00Damage:|r 800 - 1200|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Heavy Metal; Increases damage and attack speed of nearby towers by 30%|n|cffffcc00Ability (2):|r Splash; the area of effect is 250"
+EditorSuffix=[T7]
 Buttonpos=0,0
 Missileart=Abilities\Weapons\MurgulMagicMissile\MurgulMagicMissile.mdl
+Missilearc=0.15
 Missilespeed=1200
+MissileHoming=1
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
