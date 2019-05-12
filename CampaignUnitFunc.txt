@@ -1745,7 +1745,7 @@ Hotkey=Q
 Tip=Build Marine [|cffffcc00Q|r]
 Ubertip="|cffffcc00Attack:|r Pierce|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 5|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Marine Force; increases damage by 1 for each Marine tower owned"
 EditorSuffix=[T1]
-Buttonpos=0,2
+Buttonpos=0,0
 Missileart=Abilities\Weapons\Rifle\RifleImpact.mdl
 Missilearc=0.15
 Missilespeed=2000
@@ -1768,7 +1768,7 @@ Art=ReplaceableTextures\CommandButtons\BTNProudMoore.blp
 Name=[Uniques] - Admiral Proudmoore
 Hotkey=R
 Tip=Build Admiral Proudmoore [|cffffcc00R|r]
-Ubertip="Admiral Proudmoore, a long time alliance naval officer, also an Oceanmaster and you can only have one Oceanmaster.|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Oceanmaster; creates a ring of 8 Sea Elementals around the tower, elementals deal 200 magic splash damage."
+Ubertip="Admiral Proudmoore, a long time alliance naval officer, also an Oceanmaster and you can only have one Oceanmaster.|n|n|cffffcc00Ability:|r Oceanmaster; creates a ring of 8 Sea elementals around the tower|n|cffffcc00Attack (Elementals):|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 200|n|cffffcc00Range:|r 600|n|cffffcc00Ability:|r Splash; the area of effect is 50|n"
 EditorSuffix=[T4]
 Buttonpos=3,0
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
@@ -8002,6 +8002,54 @@ Missilearc=0.15
 Missilespeed=1200
 MissileHoming=1,0
 BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u03E]
+Art=ReplaceableTextures\CommandButtons\BTNZergling.blp
+Name=[Uniques] - Zergling Hive
+Hotkey=W
+Tip=Build Zergling Hive [|cffffcc00W|r]
+Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 30 - 60|n|cffffcc00Range:|r 400 (ground only)|n|cffffcc00Ability:|r Pointy Bits; attacks up to 4 targets|n|cffffcc00Ability (2):|r Mutagen Injection; 10% chance on attack to spawn a Zergling"
+EditorSuffix=[T2]
+Buttonpos=1,0
+Missileart=Abilities\Weapons\HarpyMissile\HarpyMissile.mdl
+Missilearc=0.15
+Missilespeed=1000
+MissileHoming=1,0
+BuildingSoundLabel=BuildingConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u03F]
+Art=ReplaceableTextures\CommandButtons\BTNTemp.blp
+Name=[Uniques] - Sammy the Kobold Shoveler
+Hotkey=F
+Tip=Build Sammy the Kobold Shoveler [|cffffcc00F|r]
+Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.10|n|cffffcc00Damage:|r 1 - 3000|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Bonk; 5 chance to stun the target|n|cffffcc00Ability (2):|r Mana; whats this mana used for?"
+EditorSuffix=[T8]
+Buttonpos=3,1
+Missileart=
+Missilearc=
+Missilespeed=
+MissileHoming=0,0
+BuildingSoundLabel=BuildingConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u040]
+Art=ReplaceableTextures\CommandButtons\BTNTemp.blp
+Name=[Uniques] - The Darkness
+Hotkey=
+Tip=
+Ubertip=
+EditorSuffix=[T9]
+Buttonpos=3,1
+Missileart=Abilities\Spells\Undead\DeathCoil\DeathCoilMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
