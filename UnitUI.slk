@@ -16616,7 +16616,7 @@ C;X50;K0
 C;X1;Y340;K"n02P"
 C;X3;K"units\nightelf\Shandris\Shandris.mdl"
 C;X4;K0
-C;X5;K"DarkRanger"
+C;X5;K"Shandris"
 C;X6;K0
 C;X7;K"TRIGSTR_3645"
 C;X8;K
@@ -28623,7 +28623,7 @@ C;X3;K"Doodads\Dungeon\Terrain\EggSack\EggSack0.mdl"
 C;X4;K0
 C;X5;K"Ziggurat"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -28670,9 +28670,9 @@ C;X50;K0
 C;X1;Y586;K"u03F"
 C;X3;K"Units\Critters\Shoveler\Shoveler.mdl"
 C;X4;K0
-C;X5;K-
+C;X5;K
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -28719,9 +28719,9 @@ C;X50;K0
 C;X1;Y587;K"u040"
 C;X3;K"Units\Critters\SammyCube\SammyCube.mdl"
 C;X4;K0
-C;X5;K-
+C;X5;K
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -28770,7 +28770,7 @@ C;X3;K"Units\Creeps\SeaElemental\SeaElemental"
 C;X4;K0
 C;X5;K"WaterElemental"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -28819,7 +28819,7 @@ C;X3;K"Units\Critters\zergling\zergling"
 C;X4;K0
 C;X5;K"Zergling"
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
