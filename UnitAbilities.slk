@@ -505,7 +505,7 @@ C;X5;K"A098,A09M,A031,A02D,Avul"
 C;X6;K
 C;X1;Y126;K"h02H"
 C;X4;K"_"
-C;X5;K"A02D,Avul"
+C;X5;K"A02D,Avul,A0EJ"
 C;X6;K
 C;X1;Y127;K"h02I"
 C;X4;K"_"
@@ -513,7 +513,7 @@ C;X5;K"A02D,Avul"
 C;X6;K
 C;X1;Y128;K"h02J"
 C;X4;K"_"
-C;X5;K"A02D,Avul"
+C;X5;K"A02D,Avul,A0EK"
 C;X6;K
 C;X1;Y129;K"h02K"
 C;X4;K"_"
@@ -521,7 +521,7 @@ C;X5;K"A02D,Avul"
 C;X6;K
 C;X1;Y130;K"h02L"
 C;X4;K"_"
-C;X5;K"A02D,Avul"
+C;X5;K"A02D,Avul,A0EH,A0EI"
 C;X6;K
 C;X1;Y131;K"h02M"
 C;X4;K"_"
@@ -541,7 +541,7 @@ C;X5;K"A01Y,A02D,Avul"
 C;X6;K
 C;X1;Y135;K"h02Q"
 C;X4;K"_"
-C;X5;K"A02D,Avul"
+C;X5;K"A02D,Avul,A01Z,A020"
 C;X6;K
 C;X1;Y136;K"h02R"
 C;X4;K"_"
@@ -2341,15 +2341,15 @@ C;X5;K"Avul,A02D,A0E4"
 C;X6;K
 C;X1;Y585;K"u03E"
 C;X4;K"_"
-C;X5;K"A02D,Avul"
+C;X5;K"A02D,Avul,A0EL"
 C;X6;K
 C;X1;Y586;K"u03F"
 C;X4;K"_"
-C;X5;K"A02D,Avul"
+C;X5;K"A02D,Avul,A0EF"
 C;X6;K
 C;X1;Y587;K"u040"
 C;X4;K"_"
-C;X5;K"A02D,Avul"
+C;X5;K"A02D,Avul,A0EN"
 C;X6;K
 C;X1;Y588;K"u041"
 C;X4;K"_"
@@ -2357,7 +2357,7 @@ C;X5;K"Avul"
 C;X6;K
 C;X1;Y589;K"u042"
 C;X4;K"_"
-C;X5;K"Avul,Aeth"
+C;X5;K"Avul,Aeth,A0EM"
 C;X6;K
 C;X1;Y590;K"uC13"
 C;X4;K"_"

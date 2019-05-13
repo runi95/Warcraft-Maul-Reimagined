@@ -116,14 +116,14 @@ MissileHoming=1,0
 Attachmentanimprops=large
 
 [e00A]
-Art=ReplaceableTextures\CommandButtons\BTNLament.blp
-Name=[Builder] - The Unique One
+Art=ReplaceableTextures\CommandButtons\BTNTemp.blp
+Name=[Builder] - Sammy
 Hotkey=U
 Tip=
 Ubertip=
-EditorSuffix=The Unique
+EditorSuffix=Uniques
 Buttonpos=0,0
-Builds=h02Q,h02P,h02O,h02N,h02M,h02L,h02K,h02J,h02A,h02I,h02H
+Builds=h02H,u03E,h02A,h02J,h02K,h02L,h02Q,u03F
 Attachmentanimprops=medium
 
 [e00B]
