@@ -4631,15 +4631,15 @@ LoopingSoundFadeOut=512
 [n02L]
 Art=ReplaceableTextures\CommandButtons\BTNDwarvenLongRifle.blp
 Name=[Hybrid] - Sniper
-Hotkey=D
-Tip=Build Sniper
-Ubertip="The Sniper does 1 hell of alot of damage for a shitty ass cooldown.  Anyway, does 500-500 dmg at a 4 second cooldown. Has a 1501 range OMGOMGOMGOMGOMGOGMG cause the range max is supposed to be 1500 oh noes... This sniper has air splash but since its so slow..."
+Hotkey=E
+Tip=Build Sniper [|cffffcc00E|r]
+Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 4.00|n|cffffcc00Damage:|r 750|n|cffffcc00Range:|r 1000"
 Buttonpos=1,1
 Missileart=Abilities\Weapons\Rifle\RifleImpact.mdl
 Missilearc=0.15
-Missilespeed=1200
+Missilespeed=1600
 MissileHoming=1
-BuildingSoundLabel=NagaConstructionLoop
+BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
@@ -4691,15 +4691,15 @@ LoopingSoundFadeOut=512
 [n02P]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
 Name=[Hybrid] - White-Angel
-Hotkey=D
-Tip=Build White-Angel
-Ubertip="Ever heard the saying, "Behind every great man, is a greater woman?"|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0|n|cffffcc00Damage:|r 450 - 450|n|cffffcc00Range:|r 1000|n|cffffcc00Attack(2):|r Magic|n|cffffcc00Cooldown(2):|r -|n|cffffcc00Damage(2):|r 500 - 500|n|cffffcc00Range(2):|r 1500|n"
+Hotkey=F
+Tip=Build White-Angel [|cffffcc00F|r]
+Ubertip="Ever heard the saying, "Behind every great man, is a greater woman?"|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.00|n|cffffcc00Damage:|r 450 - 450|n|cffffcc00Range:|r 1000|n|cffffcc00Attack(2):|r Magic|n|cffffcc00Cooldown(2):|r 0.10|n|cffffcc00Damage(2):|r 500 - 500|n|cffffcc00Range(2):|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 450|n"
 Buttonpos=1,0
 Missileart=Abilities\Weapons\Arrow\ArrowMissile.mdl,Abilities\Weapons\Arrow\ArrowMissile.mdl
-Missilearc=0.15
-Missilespeed=1200
+Missilearc=0.15,0.15
+Missilespeed=1200,1200
 MissileHoming=1
-BuildingSoundLabel=NagaConstructionLoop
+BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
@@ -5279,15 +5279,15 @@ LoopingSoundFadeOut=512
 [n04O]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan.blp
 Name=[Hybrid] - Mr. Charlie
-Hotkey=D
-Tip=Build Mr. Charlie
+Hotkey=R
+Tip=Build Mr. Charlie [|cffffcc00R|r]
 Ubertip="Mr. Charlie the gentleman is now sold in various colors, get yours at https://maulbot.com|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.00|n|cffffcc00Damage:|r 150 - 200|n|cffffcc00Range:|r 900|n|cffffcc00Ability:|r Splash; the area of effect is 60"
 Buttonpos=2,1
 Missileart=Abilities\Weapons\FaerieDragonMissile\FaerieDragonMissile.mdl
 Missilearc=0.15
 Missilespeed=10000
 MissileHoming=1
-BuildingSoundLabel=NagaConstructionLoop
+BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
@@ -5309,16 +5309,16 @@ LoopingSoundFadeOut=512
 
 [n04Q]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
-Name=[Hybrid] - Blackrock Clan Member
+Name=[Hybrid] - Blackrock Blademaster
 Hotkey=D
-Tip=Build Blackrock Clan Member
-Ubertip="The BladeMastur is a very decent anti champ tower, dealing really high damage at a decent range.   However, like it's older brother, BladeMastur of Blade Alliance, it is EXTREMELY unstable.  Having a smaller critical, range and no air splash, but otherwise, the BladeMastur is EXACTLY like it's older brother.  Useful against champs with "The B3ast" and it's upgrades, or for picking of "Lord D.O.T."'s 1 hp leaks.             |CFFF26522Upgrades to Mike The BladeMastur|R  |CFF00FF00 (Very Fast(.25)/1-20 Normal Damage/700 Range) + Critical, 90% 200x"
+Tip=Build Blackrock Blademaster [|cffffcc00D|r]
+Ubertip="|cffffcc00Attack:|r Hero|n|cffffcc00Cooldown:|r 0.25|n|cffffcc00Damage:|r 1 - 20|n|cffffcc00Range:|r 400|n|cffffcc00Ability:|r Critical Slash; 90% chance to deal 200 times damage to target"
 Buttonpos=0,0
 Missileart=-
-Missilearc=0.15
-Missilespeed=1200
-MissileHoming=1
-BuildingSoundLabel=NagaConstructionLoop
+Missilearc=
+Missilespeed=
+MissileHoming=0
+BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
