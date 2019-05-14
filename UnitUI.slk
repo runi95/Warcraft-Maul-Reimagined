@@ -576,7 +576,7 @@ C;X33;K"_"
 C;X34;K
 C;X35;K0
 C;X36;K"Flesh"
-C;X37;K0.5
+C;X37;K1
 C;X38;K255
 C;X39;K255
 C;X40;K255
@@ -938,7 +938,7 @@ C;X3;K"Doodads\Icecrown\Props\SnowMan\SnowMan.mdl"
 C;X4;K0
 C;X5;K
 C;X6;K0
-C;X7;K-
+C;X7;K
 C;X8;K
 C;X9;K0
 C;X10;K1
@@ -6309,7 +6309,7 @@ C;X33;K"_"
 C;X34;K-1
 C;X35;K0
 C;X36;K"Wood"
-C;X37;K0.8
+C;X37;K0.5
 C;X38;K255
 C;X39;K255
 C;X40;K255
