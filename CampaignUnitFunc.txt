@@ -61,6 +61,7 @@ Name=[Builder] - Goblin Airship
 Hotkey=S
 Tip=Train Goblin Air|cffffcc00s|rhip
 Ubertip="The crafty goblins have loaded this ship up with weaponry and explosives; a lethal combination!"
+EditorSuffix=Goblins
 Buttonpos=0,0
 Builds=o01S,o01R,o01P,o01O,o01N,o01M,h011
 Attachmentanimprops=medium
@@ -5192,7 +5193,7 @@ Name=[Builder] - Forsaken Follower
 Hotkey=E
 Tip=Train Forsaken Follower
 Ubertip="Builds Forsaken Towers"
-EditorSuffix=[Forsaken]
+EditorSuffix=Forsaken
 Buttonpos=0,0
 Builds=u00C,u00D,u00E,u00F,u010,u011,u012,u013
 
@@ -7587,11 +7588,11 @@ Missilespeed=0
 
 [u01B]
 Art=ReplaceableTextures\CommandButtons\BTNChaosPeon.blp
-Name=Bringer of Buffs
+Name=[Builder] - Bringer of Buffs
 Hotkey=W
 Tip=
 Ubertip=
-EditorSuffix=[Builder] - Shrine of Buffs
+EditorSuffix=Shrine of Buffs
 Buttonpos=0,0
 Builds=o012,o006,o013,o008
 
@@ -8076,6 +8077,159 @@ Missilearc=
 Missilespeed=
 MissileHoming=0,0
 Attachmentanimprops=
+
+[u043]
+Art=ReplaceableTextures\CommandButtons\BTNVillagerKid.blp
+Name=[Builder] - Little Timmy
+Hotkey=A
+EditorSuffix=Loot Boxers
+Buttonpos=0,0
+MissileHoming=0,0
+Builds=
+
+[u044]
+Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Name=[Loot Boxers] - Parent-Unfriendly Lootbox
+Hotkey=Q
+Tip=Open Parent-Unfriendly Lootbox |cffffcc00[Q]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 1 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T1]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u045]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - Big Boy Box
+Hotkey=W
+Tip=Open Big Boy Box |cffffcc00[W]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 2 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T2]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u046]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - "Canvas" Loot Bag
+Hotkey=R
+Tip=Pre-Order "Canvas" Loot Bag |cffffcc00[R]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 4 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T4]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u047]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - Enigma Chest
+Hotkey=E
+Tip=Open Enigma Chest |cffffcc00[E]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 3 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T3]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u048]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - Skinner Box
+Hotkey=A
+Tip=Pre-Order Skinner Box |cffffcc00[A]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 5 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T5]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u049]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - Augmented Box
+Hotkey=S
+Tip=Pre-Order Augmented Box |cffffcc00[S]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 6 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T6]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u04A]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - Prime Loot Bundle
+Hotkey=D
+Tip=Pre-Order Prime Loot Bundle |cffffcc00[D]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 7 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T7]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u04B]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - Gold Elite Lootbox
+Hotkey=F
+Tip=Pre-Order Elite Lootbox |cffffcc00[F]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 8 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T8]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
+
+[u04C]
+Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Name=[Loot Boxers] - Premium Deluxe Diamond Pre-Order Extravaganza Box
+Hotkey=Z
+Tip=Pre-Order Premium Deluxe Diamond Pre-Order Extravaganza Box |cffffcc00[Z]|r
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 9 Tower, along with a random assortment of "Loot""
+EditorSuffix=[T9]
+Buttonpos=1,1
+Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1,0
+BuildingSoundLabel=NagaConstructionLoop
+LoopingSoundFadeIn=512
+LoopingSoundFadeOut=512
 
 [uC13]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
