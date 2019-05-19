@@ -2916,6 +2916,7 @@ Name=[Cavernous Creatures] - Cavern Hydra
 Hotkey=T
 Tip=Build Scout |cffffcc00T|rower
 Ubertip="Basic observation tower. Has no attack, but can be upgraded into a Guard Tower, an Arcane Tower, or a Cannon Tower. Can learn the Magic Sentry ability."
+EditorSuffix=[T9]
 Buttonpos=0,2
 Missileart=Abilities\Weapons\ChimaeraAcidMissile\ChimaeraAcidMissile.mdl
 Missilearc=0.15
@@ -6397,7 +6398,7 @@ Attachmentanimprops=Alternate
 
 [o00R]
 Art=ReplaceableTextures\CommandButtons\BTNBoneyard.blp
-Name=[Undead] -Boneyard
+Name=[Undead] - Boneyard
 Hotkey=S
 Tip=Build Boneyard [|cffffcc00S|r]
 Ubertip="The Boneyard is the gathering place of all the undead looking for new bodies to consume|n|n|cffffcc00Attack:|r Siege|n|cffffcc00Cooldown:|r 2.00|n|cffffcc00Damage:|r 575 - 625|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 120"
