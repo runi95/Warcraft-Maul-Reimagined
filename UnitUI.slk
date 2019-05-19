@@ -1,5 +1,5 @@
 ID;PWXL;N;E
-B;X51;Y606;D0
+B;X51;Y607;D0
 C;X1;Y1;K"unitUIID"
 C;X2;K"sortUI"
 C;X3;K"file"
@@ -482,7 +482,7 @@ C;X37;K1
 C;X38;K255
 C;X39;K255
 C;X40;K255
-C;X41;K"EMDB"
+C;X41;K"HSMA"
 C;X42;K"_"
 C;X43;K
 C;X44;K
@@ -1023,7 +1023,7 @@ C;X39;K75
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1072,7 +1072,7 @@ C;X39;K75
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1121,7 +1121,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1170,7 +1170,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1219,7 +1219,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1268,7 +1268,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1317,7 +1317,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1366,7 +1366,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1415,7 +1415,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1464,7 +1464,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1513,7 +1513,7 @@ C;X39;K100
 C;X40;K200
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowMoonWell"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -1903,7 +1903,7 @@ C;X37;K1
 C;X38;K255
 C;X39;K255
 C;X40;K255
-C;X41;K"EMDB"
+C;X41;K"HSMA"
 C;X42;K"_"
 C;X43;K
 C;X44;K
@@ -2003,7 +2003,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -2248,7 +2248,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -2297,7 +2297,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -2493,7 +2493,7 @@ C;X39;K100
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -2640,7 +2640,7 @@ C;X39;K255
 C;X40;K155
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -2983,7 +2983,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -3032,7 +3032,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -3081,7 +3081,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -3130,7 +3130,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -3326,7 +3326,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -3718,7 +3718,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -3767,7 +3767,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -3816,7 +3816,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4159,7 +4159,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4208,7 +4208,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4257,7 +4257,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4306,7 +4306,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4355,7 +4355,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4453,7 +4453,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4502,7 +4502,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -4600,7 +4600,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -5041,7 +5041,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -6854,7 +6854,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -8961,7 +8961,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9010,7 +9010,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9059,7 +9059,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9108,7 +9108,7 @@ C;X39;K255
 C;X40;K125
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9157,7 +9157,7 @@ C;X39;K125
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9206,7 +9206,7 @@ C;X39;K125
 C;X40;K125
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9255,7 +9255,7 @@ C;X39;K125
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9304,7 +9304,7 @@ C;X39;K55
 C;X40;K55
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9353,7 +9353,7 @@ C;X39;K125
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9402,7 +9402,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9451,7 +9451,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -9500,7 +9500,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -10480,7 +10480,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -10529,7 +10529,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -10627,7 +10627,7 @@ C;X39;K255
 C;X40;K155
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -10676,7 +10676,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -10774,7 +10774,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowCannonTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -10823,7 +10823,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -10970,7 +10970,7 @@ C;X39;K100
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -11019,7 +11019,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowCannonTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -11068,7 +11068,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -11656,7 +11656,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -11803,7 +11803,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -12244,7 +12244,7 @@ C;X39;K100
 C;X40;K25
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -12636,7 +12636,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -12685,7 +12685,7 @@ C;X39;K130
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -12734,7 +12734,7 @@ C;X39;K255
 C;X40;K170
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -13763,7 +13763,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -14057,7 +14057,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -14106,7 +14106,7 @@ C;X39;K100
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -14155,7 +14155,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -14204,7 +14204,7 @@ C;X39;K255
 C;X40;K135
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -14253,7 +14253,7 @@ C;X39;K120
 C;X40;K135
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -14302,7 +14302,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -15870,7 +15870,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -15968,7 +15968,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16017,7 +16017,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16066,7 +16066,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16115,7 +16115,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16164,7 +16164,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16213,7 +16213,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16458,7 +16458,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16654,7 +16654,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16850,7 +16850,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16899,7 +16899,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16948,7 +16948,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -16997,7 +16997,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17046,7 +17046,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17291,7 +17291,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17340,7 +17340,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17389,7 +17389,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17438,7 +17438,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17487,7 +17487,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17536,7 +17536,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17585,7 +17585,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17634,7 +17634,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -17683,7 +17683,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -18712,7 +18712,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -18810,7 +18810,7 @@ C;X39;K100
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19545,7 +19545,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19643,7 +19643,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19692,7 +19692,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19741,7 +19741,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19790,7 +19790,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19839,7 +19839,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19888,7 +19888,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19937,7 +19937,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -19986,7 +19986,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20035,7 +20035,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20133,7 +20133,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20182,7 +20182,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20231,7 +20231,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20280,7 +20280,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20329,7 +20329,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20378,7 +20378,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20427,7 +20427,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20476,7 +20476,7 @@ C;X39;K125
 C;X40;K125
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20525,7 +20525,7 @@ C;X39;K255
 C;X40;K0
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -20574,7 +20574,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21260,7 +21260,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21309,7 +21309,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21407,7 +21407,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21456,7 +21456,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21505,7 +21505,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21554,7 +21554,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21603,7 +21603,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21652,7 +21652,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -21995,7 +21995,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22044,7 +22044,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22142,7 +22142,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22191,7 +22191,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22338,7 +22338,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22436,7 +22436,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22583,7 +22583,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22730,7 +22730,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22877,7 +22877,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -22926,7 +22926,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23024,7 +23024,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23073,7 +23073,7 @@ C;X39;K0
 C;X40;K0
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23122,7 +23122,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23171,7 +23171,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23269,7 +23269,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23318,7 +23318,7 @@ C;X39;K100
 C;X40;K100
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23416,7 +23416,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23563,7 +23563,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23661,7 +23661,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23759,7 +23759,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23808,7 +23808,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23857,7 +23857,7 @@ C;X39;K155
 C;X40;K155
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23906,7 +23906,7 @@ C;X39;K100
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -23955,7 +23955,7 @@ C;X39;K155
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24004,7 +24004,7 @@ C;X39;K255
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24053,7 +24053,7 @@ C;X39;K255
 C;X40;K155
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowHouse"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24102,7 +24102,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24151,7 +24151,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24200,7 +24200,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24249,7 +24249,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24347,7 +24347,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24396,7 +24396,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24445,7 +24445,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24494,7 +24494,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24739,7 +24739,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24837,7 +24837,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -24984,7 +24984,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -25082,7 +25082,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -25327,7 +25327,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -25376,7 +25376,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -25474,7 +25474,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -25523,7 +25523,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26209,7 +26209,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26258,7 +26258,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26307,7 +26307,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26356,7 +26356,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26405,7 +26405,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26454,7 +26454,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26503,7 +26503,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26552,7 +26552,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -26993,7 +26993,7 @@ C;X39;K255
 C;X40;K255
 C;X41;K"OSMA"
 C;X42;K"_"
-C;X43;K"ShadowGuardTower"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -28953,7 +28953,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29002,7 +29002,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29051,7 +29051,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29100,7 +29100,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29149,7 +29149,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29198,7 +29198,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29247,7 +29247,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29296,7 +29296,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29345,7 +29345,7 @@ C;X39;K0
 C;X40;K100
 C;X41;K"HSMA"
 C;X42;K"_"
-C;X43;K"ShadowTrollBurrow"
+C;X43;K"_"
 C;X44;K
 C;X45;K
 C;X46;K
@@ -29353,7 +29353,56 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y600;K"uC13"
+C;X1;Y600;K"u04D"
+C;X3;K"buildings\human\HumanTower\HumanTower.mdl"
+C;X4;K0
+C;X5;K
+C;X6;K0
+C;X7;K
+C;X8;K
+C;X9;K0
+C;X10;K1
+C;X11;K1
+C;X12;K0
+C;X13;K0
+C;X14;K1
+C;X15;K1
+C;X16;K0
+C;X17;K0
+C;X18;K0
+C;X19;K0
+C;X20;K0
+C;X21;K0.5
+C;X22;K1
+C;X23;K1
+C;X24;K0
+C;X25;K0
+C;X26;K4
+C;X27;K50
+C;X28;K0
+C;X29;K200
+C;X30;K200
+C;X31;K0
+C;X32;K"_"
+C;X33;K"_"
+C;X34;K
+C;X35;K0
+C;X36;K"Stone"
+C;X37;K0.4
+C;X38;K255
+C;X39;K255
+C;X40;K255
+C;X41;K"HSMA"
+C;X42;K"_"
+C;X43;K
+C;X44;K
+C;X45;K
+C;X46;K
+C;X47;K
+C;X48;K1
+C;X49;K0
+C;X50;K0
+C;X1;Y601;K"uC13"
 C;X3;K"units\human\Militia\Militia.mdl"
 C;X4;K0
 C;X5;K"OgreOneHead"
@@ -29402,7 +29451,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y601;K"uC43"
+C;X1;Y602;K"uC43"
 C;X3;K"units\creeps\BansheeGhost\BansheeGhost"
 C;X4;K0
 C;X5;K"Banshee"
@@ -29451,7 +29500,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y602;K"uC45"
+C;X1;Y603;K"uC45"
 C;X3;K"units\creeps\Zombie\Zombie.mdl"
 C;X4;K0
 C;X5;K"Abomination"
@@ -29500,7 +29549,7 @@ C;X47;K95
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y603;K"uC71"
+C;X1;Y604;K"uC71"
 C;X3;K"units\creeps\NetherDragon\NetherDragon.mdl"
 C;X4;K0
 C;X5;K"FrostWyrm"
@@ -29549,7 +29598,7 @@ C;X47;K140
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y604;K"uC72"
+C;X1;Y605;K"uC72"
 C;X3;K"units\demon\Warlock\Warlock.mdl"
 C;X4;K0
 C;X5;K"HeroDreadLord"
@@ -29598,7 +29647,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y605;K"uC84"
+C;X1;Y606;K"uC84"
 C;X3;K"Units\Creeps\DragonSpawnPurple\DragonSpawnPurple.mdl"
 C;X4;K0
 C;X5;K"DragonSpawn"
@@ -29647,7 +29696,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y606;K"uC98"
+C;X1;Y607;K"uC98"
 C;X3;K"units\demon\DemonessBlue\DemonessBlue.mdl"
 C;X4;K0
 C;X5;K"Demoness"
