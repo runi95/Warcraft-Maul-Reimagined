@@ -780,11 +780,11 @@ Tip=Build Death Tower [|cffffcc00S|r]
 Ubertip="A tower of pure death that is capable of taking down large groups of enemies in no time
 
 |cffffcc00Attack:|r Chaos
-|cffffcc00Cooldown:|r 0.50
+|cffffcc00Cooldown:|r 0.5
 |cffffcc00Damage:|r 200 - 200
 |cffffcc00Range:|r 650
-|cffffcc00Ability:|r Splash; the area of effect is 140
-|cffffcc00Ability (2):|r Death Strike; 20% chance to deal 5 times damage"
+|cffffcc00Ability(1):|r Splash; the area of effect is 140
+|cffffcc00Ability(2):|r Critical Strike: Gives a 20% chance of hitting 5x damage."
 Buttonpos=1,1
 Missileart=Abilities\Spells\Undead\DeathCoil\DeathCoilMissile.mdl,Abilities\Spells\Undead\DeathCoil\DeathCoilMissile.mdl
 Missilearc=0,0
@@ -800,13 +800,7 @@ Art=ReplaceableTextures\CommandButtons\BTNDalaranGuardTower.blp
 Name=[Humans] - Dalaran Guard Tower
 Hotkey=Z
 Tip=Build Dalaran Guard Tower [|cffffcc00Z|r]
-Ubertip="The city of Dalaran had a huge problem with incoming air raids so they invented this amazing AA tower
-
-|cffffcc00Attack:|r Magic
-|cffffcc00Cooldown:|r 0.10
-|cffffcc00Damage:|r 1000 - 1050
-|cffffcc00Range:|r 1000 (air only)
-|cffffcc00Ability:|r Splash; the area of effect is 300"
+Ubertip="The city of Dalaran had a huge problem with incoming air raids so they invented this amazing AA tower|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 0.01|n|cffffcc00Damage:|r 2002 - 2102|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 900"
 Buttonpos=0,2
 Missileart=Abilities\Weapons\FarseerMissile\FarseerMissile.mdl
 Missilearc=0.15
