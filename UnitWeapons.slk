@@ -4450,8 +4450,8 @@ C;X66;K0.1
 C;X67;K200
 C;X68;K400
 C;X69;K600
-C;X70;K-
-C;X71;K-
+C;X70;K
+C;X71;K
 C;X72;K"air,enemies"
 C;X73;K1
 C;X74;K0
@@ -32575,7 +32575,7 @@ C;X13;K0
 C;X14;K120
 C;X15;K0
 C;X16;K"_"
-C;X17;K"air,enemies,ground"
+C;X17;K_
 C;X18;K1
 C;X19;K1000
 C;X20;K"-"
@@ -32598,7 +32598,7 @@ C;X36;K100
 C;X37;K125
 C;X38;K"-"
 C;X39;K"-"
-C;X40;K"air,enemies"
+C;X40;K_
 C;X41;K1
 C;X42;K0
 C;X43;K0
