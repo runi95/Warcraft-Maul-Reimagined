@@ -1433,7 +1433,7 @@ Animprops=upgrade,second
 
 [h01X]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
-Name=Goblin Tesla Coil
+Name=G Goblin Tesla Coil
 Hotkey=
 Tip=Build Goblin |cffffcc00T|resla Coil
 Ubertip="|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 400 - 600|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Multishot; can attack up to 10 enemy units at once"
@@ -2460,7 +2460,7 @@ Art=ReplaceableTextures\CommandButtons\BTNBarrel.blp
 Name=[Arachnid] - Cracked Barrel
 Hotkey=A
 Tip=Well, now you have a Cracked Barrel [|cffffcc00A|r]
-Ubertip="You broke the barrel, that was a bad thing to do...|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Creepy Crawlies; the barrel seems to have many tiny spiders crawling around it"
+Ubertip="You broke the barrel, that was a bad thing to do...|n|n|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Creepy Crawlies; the barrel seems to have many tiny spiders crawling around it."
 EditorSuffix=[T1]
 Buttonpos=0,1
 BuildingSoundLabel=BuildingConstructionLoop
@@ -3264,7 +3264,7 @@ LoopingSoundFadeOut=512
 
 [hC85]
 Art=ReplaceableTextures\CommandButtons\BTNBlackDragon.tga
-Name=Black Dragon Whelp
+Name=G Black Dragon Whelp
 Hotkey=Q
 Tip=Build Black Dragon Whelp [|cffffcc00Q|r]
 Ubertip="Basic Dragon Tower. The Black Whelp has decent damage, and will do well in the early stages of the game. |CFF00FF00 (Very Fast(0.80)/8-13 Normal Damage/700 Range)"
@@ -4586,7 +4586,7 @@ LoopingSoundFadeOut=512
 
 [n02I]
 Art=ReplaceableTextures\CommandButtons\BTNGreenHydra.blp
-Name=Young Hydra (M)
+Name=G Young Hydra (M)
 Hotkey=D
 Tip=Upgrade to Young Hydra (M)
 Ubertip="The male version of young hydra isn't as fast as fast as the female version, but with WAY MORE ATTACK and splash range along with a better poison the male one is just as great."
@@ -6674,7 +6674,7 @@ Art=ReplaceableTextures\CommandButtons\BTNSpiderBlack.blp
 Name=[Arachnid] - Acid Spitting Spider
 Hotkey=S
 Tip=This barrel seems to be melting....? [|cffffcc00S|r]
-Ubertip="...because inside this barrel, there's an Acid Spitting Spider!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.15|n|cffffcc00Damage:|r 75|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Ability:|r Acid Globule; has a 25% chance to spit a globule of acid onto the target decreasing armour by 5 and dealing damage over time|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 0.75|n|cffffcc00Damage (2):|r 75|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 150 (air only)"
+Ubertip="...because inside this barrel, there's an Acid Spitting Spider!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.15|n|cffffcc00Damage:|r 75|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Ability:|r Acid Globule; has a 25% chance to spit a globule of acid onto the target decreasing armour by 5 and dealing damage over time|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 0.75|n|cffffcc00Damage (2):|r 75|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 200 (air only)"
 EditorSuffix=[T2]
 Buttonpos=1,1
 Missileart=-,Abilities\Weapons\ChimaeraAcidMissile\ChimaeraAcidMissile.mdl
@@ -6707,7 +6707,7 @@ Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
 Name=[Outland] - Rend Blackhand
 Hotkey=D
 Tip=Build Rend Blackhand [|cffffcc00D|r]
-Ubertip="Formerly one of the two chieftans of the Blacktooth Grin Clan, Rend now serves Megtheridon as a Chaos Orc.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.75|n|cffffcc00Damage:|r 100 - 10000|n|cffffcc00Range:|r 1000"
+Ubertip="Formerly one of the two chieftains of the Blacktooth Grin Clan, Rend now serves Magtheridon as a Chaos Orc.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.75|n|cffffcc00Damage:|r 100 - 10000|n|cffffcc00Range:|r 1000"
 Buttonpos=1,2
 Missileart=-
 Missilearc=0.15
