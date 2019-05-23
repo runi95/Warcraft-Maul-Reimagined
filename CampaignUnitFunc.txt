@@ -8086,7 +8086,7 @@ Hotkey=A
 EditorSuffix=Loot Boxers
 Buttonpos=0,0
 MissileHoming=0,0
-Builds=
+Builds=u044
 
 [u044]
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
@@ -8095,7 +8095,7 @@ Hotkey=Q
 Tip=Open Parent-Unfriendly Lootbox |cffffcc00[Q]|r
 Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 1 Tower, along with a random assortment of "Loot""
 EditorSuffix=[T1]
-Buttonpos=1,1
+Buttonpos=0,0
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
