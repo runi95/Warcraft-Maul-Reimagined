@@ -1559,7 +1559,7 @@ Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
 Name=[Summons] - Serpent Ward
 Hotkey=R
 Tip=Summon Serpent Ward [|cffffcc00R|r]
-Ubertip="|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.40|n|cffffcc00Damage:|r 100|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 0.40|n|cffffcc00Damage (2):|r 150|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 250"
+Ubertip="|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.40|n|cffffcc00Damage:|r 100|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 0.30|n|cffffcc00Damage (2):|r 250|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 250"
 Buttonpos=3,0
 Missileart=-,Abilities\Weapons\SerpentWardMissile\SerpentWardMissile.mdl
 Missilearc=0.15
@@ -2472,7 +2472,7 @@ Art=ReplaceableTextures\CommandButtons\BTNFelHound.tga
 Name=[Demon] - Felhound
 Hotkey=W
 Tip=Build Felhound [|cffffcc00W|r]
-Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.10|n|cffffcc00Damage:|r 50 - 70|n|cffffcc00Range:|r 800 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 120 (ground only)|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 1.00|n|cffffcc00Damage (2):|r 80 - 110|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 150 (air only)"
+Ubertip="|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 1.10|n|cffffcc00Damage:|r 50 - 70|n|cffffcc00Range:|r 800 (ground only)|n|cffffcc00Ability:|r Splash; the area of effect is 120 (ground only)|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 1.00|n|cffffcc00Damage (2):|r 200|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 150 (air only)"
 EditorSuffix=[T2]
 Buttonpos=0,0
 Missileart=Abilities\Weapons\LordofFlameMissile\LordofFlameMissile.mdl,Abilities\Weapons\LordofFlameMissile\LordofFlameMissile.mdl
@@ -3069,7 +3069,7 @@ Art=ReplaceableTextures\CommandButtons\BTNCryptFiend.tga
 Name=[Undead] - Crypt Fiend
 Hotkey=W
 Tip=Build Crypt Fiend [|cffffcc00W|r]
-Ubertip="Crypt Fiends are great pets, they can get rid of anoying flying creatures like a small fly or a bird and sometimes they even manage to take down dragons|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 30 - 30|n|cffffcc00Range:|r 128 (ground only)|n|cffffcc00Attack(2):|r Chaos|n|cffffcc00Cooldown(2):|r 0.80|n|cffffcc00Damage(2):|r 70 - 70|n|cffffcc00Range(2):|r 1000 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 60 (air only)"
+Ubertip="Crypt Fiends are great pets, they can get rid of anoying flying creatures like a small fly or a bird and sometimes they even manage to take down dragons|n|n|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 30 - 30|n|cffffcc00Range:|r 128 (ground only)|n|cffffcc00Attack(2):|r Chaos|n|cffffcc00Cooldown(2):|r 0.20|n|cffffcc00Damage(2):|r 100|n|cffffcc00Range(2):|r 1000 (air only)|n|cffffcc00Ability:|r Splash; the area of effect is 100 (air only)"
 Buttonpos=1,0
 Missileart=-,Abilities\Spells\Undead\Web\Webmissile.mdl
 Missilearc=0
@@ -6053,7 +6053,7 @@ Attachmentanimprops=Alternate
 
 [o005]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
-Name=[Outlanders] - Chaos Warlock
+Name=[Outland] - Chaos Warlock
 Hotkey=E
 Tip=Build Chaos Warlock [|cffffcc00E|r]
 Ubertip="The Chaos Warlock has the ability to augment friendly towers speed by 40%.  It has higher damage/speed/range as well!|n|n|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 100 - 120|n|cffffcc00Range:|r 800|n|cffffcc00Ability:|r Bloodlust; increases a friendly towers attack speed by 40%"
@@ -6132,7 +6132,7 @@ Art=ReplaceableTextures\CommandButtons\BTNHighElvenArcher.blp
 Name=[High Elven] - High Elf Archer
 Hotkey=W
 Tip=Build High Elf Archer [|cffffcc00W|r]
-Ubertip="|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 80 - 100|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 150 (air only)"
+Ubertip="|cffffcc00Attack:|r Magic|n|cffffcc00Cooldown:|r 1.00|n|cffffcc00Damage:|r 150 - 200|n|cffffcc00Range:|r 1000|n|cffffcc00Ability:|r Splash; the area of effect is 150 (air only)"
 EditorSuffix=[T2]
 Buttonpos=1,0
 Missileart=Abilities\Weapons\Arrow\ArrowMissile.mdl
@@ -6674,7 +6674,7 @@ Art=ReplaceableTextures\CommandButtons\BTNSpiderBlack.blp
 Name=[Arachnid] - Acid Spitting Spider
 Hotkey=S
 Tip=This barrel seems to be melting....? [|cffffcc00S|r]
-Ubertip="...because inside this barrel, there's an Acid Spitting Spider!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.15|n|cffffcc00Damage:|r 75|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Ability:|r Acid Globule; has a 25% chance to spit a globule of acid onto the target decreasing armour by 5 and dealing damage over time|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 0.75|n|cffffcc00Damage (2):|r 75|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 200 (air only)"
+Ubertip="...because inside this barrel, there's an Acid Spitting Spider!|n|n|cffffcc00Attack:|r Piercing|n|cffffcc00Cooldown:|r 0.15|n|cffffcc00Damage:|r 75|n|cffffcc00Range:|r Melee (ground only)|n|cffffcc00Ability:|r Acid Globule; has a 25% chance to spit a globule of acid onto the target decreasing armour by 5 and dealing damage over time|n|cffffcc00Attack (2):|r Chaos|n|cffffcc00Cooldown (2):|r 0.50|n|cffffcc00Damage (2):|r 75|n|cffffcc00Range (2):|r 800 (air only)|n|cffffcc00Ability (2):|r Splash; the area of effect is 200 (air only)"
 EditorSuffix=[T2]
 Buttonpos=1,1
 Missileart=-,Abilities\Weapons\ChimaeraAcidMissile\ChimaeraAcidMissile.mdl
@@ -8086,14 +8086,14 @@ Hotkey=A
 EditorSuffix=Loot Boxers
 Buttonpos=0,0
 MissileHoming=0,0
-Builds=u044
+Builds=u044,u045,u047,u046,u048,u049,u04A,u04B,u04C
 
 [u044]
-Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - Parent-Unfriendly Lootbox
 Hotkey=Q
 Tip=Open Parent-Unfriendly Lootbox |cffffcc00[Q]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 1 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Instantly generates a random Tier 1 Tower, along with a random assortment of Loot."
 EditorSuffix=[T1]
 Buttonpos=0,0
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
@@ -8105,13 +8105,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u045]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - Big Boy Box
 Hotkey=W
 Tip=Open Big Boy Box |cffffcc00[W]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 2 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Instantly generates a random Tier 2 Tower, along with a random assortment of Loot."
 EditorSuffix=[T2]
-Buttonpos=1,1
+Buttonpos=1,0
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
@@ -8121,13 +8121,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u046]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - "Canvas" Loot Bag
 Hotkey=R
 Tip=Pre-Order "Canvas" Loot Bag |cffffcc00[R]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 4 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Mana:|r 1|n|cffffcc00Mana Regen:|r 0.01/s|n|cffffcc00Ability:|r Open Lootbox; Generates a random Tier 4 Tower, along with a random assortment of Loot, this ability requires full mana."
 EditorSuffix=[T4]
-Buttonpos=1,1
+Buttonpos=3,0
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
@@ -8137,13 +8137,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u047]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - Enigma Chest
 Hotkey=E
 Tip=Open Enigma Chest |cffffcc00[E]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 3 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Instantly generates a random Tier 3 Tower, along with a random assortment of Loot."
 EditorSuffix=[T3]
-Buttonpos=1,1
+Buttonpos=2,0
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
@@ -8153,13 +8153,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u048]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - Skinner Box
 Hotkey=A
 Tip=Pre-Order Skinner Box |cffffcc00[A]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 5 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Mana:|r 2|n|cffffcc00Mana Regen:|r 0.01/s|n|cffffcc00Ability:|r Open Lootbox; Generates a random Tier 5 Tower, along with a random assortment of Loot, this ability requires full mana."
 EditorSuffix=[T5]
-Buttonpos=1,1
+Buttonpos=0,1
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
@@ -8169,11 +8169,11 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u049]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - Augmented Box
 Hotkey=S
 Tip=Pre-Order Augmented Box |cffffcc00[S]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 6 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Mana:|r 3|n|cffffcc00Mana Regen:|r 0.01/s|n|cffffcc00Ability:|r Open Lootbox; Generates a random Tier 6 Tower, along with a random assortment of Loot, this ability requires full mana."
 EditorSuffix=[T6]
 Buttonpos=1,1
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
@@ -8185,13 +8185,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u04A]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - Prime Loot Bundle
 Hotkey=D
 Tip=Pre-Order Prime Loot Bundle |cffffcc00[D]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 7 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Mana:|r 4|n|cffffcc00Mana Regen:|r 0.01/s|n|cffffcc00Ability:|r Open Lootbox; Generates a random Tier 7 Tower, along with a random assortment of Loot, this ability requires full mana."
 EditorSuffix=[T7]
-Buttonpos=1,1
+Buttonpos=2,1
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
@@ -8201,13 +8201,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u04B]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Name=[Loot Boxers] - Gold Elite Lootbox
 Hotkey=F
 Tip=Pre-Order Elite Lootbox |cffffcc00[F]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 8 Tower, along with a random assortment of "Loot""
+Ubertip="|cffffcc00Mana:|r 5|n|cffffcc00Mana Regen:|r 0.01/s|n|cffffcc00Ability:|r Open Lootbox; Generates a random Tier 8 Tower, along with a random assortment of Loot, this ability requires full mana."
 EditorSuffix=[T8]
-Buttonpos=1,1
+Buttonpos=3,1
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
@@ -8217,13 +8217,13 @@ LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
 [u04C]
-Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
-Name=[Loot Boxers] - Premium Deluxe Diamond Pre-Order Extravaganza Box
+Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
+Name=[Loot Boxers] - Premium Deluxe Extravaganza Box
 Hotkey=Z
-Tip=Pre-Order Premium Deluxe Diamond Pre-Order Extravaganza Box |cffffcc00[Z]|r
-Ubertip="|cffffcc00Attack:|r None|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 9 Tower, along with a random assortment of "Loot""
+Tip=Pre-Order Premium Deluxe Extravaganza Box |cffffcc00[Z]|r
+Ubertip="|cffffcc00Mana:|r 6|n|cffffcc00Mana Regen:|r 0.01/s|n|cffffcc00Ability:|r Lootbox; Generates a random Tier 9 Tower, along with a random assortment of Loot."
 EditorSuffix=[T9]
-Buttonpos=1,1
+Buttonpos=0,2
 Missileart=Abilities\Weapons\LichMissile\LichMissile.mdl
 Missilearc=0.15
 Missilespeed=1200
