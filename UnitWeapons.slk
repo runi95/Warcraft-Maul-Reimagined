@@ -9457,7 +9457,7 @@ C;X36;K300
 C;X37;K400
 C;X38;K0.75
 C;X39;K0.25
-C;X40;K"enemies"
+C;X40;K"air,enemies"
 C;X41;K"-"
 C;X42;K0
 C;X43;K0
@@ -24112,7 +24112,7 @@ C;X18;K1
 C;X19;K128
 C;X20;K"-"
 C;X21;K250
-C;X22;K"normal"
+C;X22;K"chaos"
 C;X23;K"msplash"
 C;X24;K0.3
 C;X25;K"-"
