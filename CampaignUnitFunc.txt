@@ -66,16 +66,6 @@ Buttonpos=0,0
 Builds=o01S,o01R,o01P,o01O,o01N,o01M,h011
 Attachmentanimprops=medium
 
-[e006]
-Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-Name=G Shrunken Enslaved Beast
-Hotkey=
-Tip=Train |cffffcc00S|rhrunken Enslaved Beast
-Ubertip="The crafty Goblins enslave those weaker then them, or just dumber. Making these beasts into the ever useful workhorse."
-Buttonpos=0,0
-Builds=h01P,h01Q,h01R,h01S,h03O,h01W,h01X,h01Y,h01K,h01T
-Attachmentanimprops=medium
-
 [e007]
 Art=ReplaceableTextures\CommandButtons\BTNGuldan.blp
 Name=[Builder] - Summoner
@@ -1236,21 +1226,6 @@ BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
-[h01K]
-Art=ReplaceableTextures\CommandButtons\BTNHeroTinker.blp
-Name=G Goblin Tinker
-Hotkey=
-Tip=Hire G|cffffcc00o|rblin Tinker
-Ubertip="Goblin Tinker, Left the Tavern when word got round of the Goblins organising into a full fledged race. Retaining the same skills from his Tavern days this makes him the slowest attacking Goblin but also the longest ranged, with his Cluster Rocket spell. |CFF00FF00( 500dmg / 900 range / 1.25sec stun / 3.50 Cooldown) |CFFED1C24NOTE: can NOT attack air"
-Buttonpos=1,0
-Missileart=Abilities\Weapons\Arrow\ArrowMissile.mdl
-Missilearc=0.15
-Missilespeed=1800
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
 [h01L]
 Art=ReplaceableTextures\CommandButtons\BTNPandarenBrewmaster.blp
 Name=[Tavern] - Pandaren Brewmaster
@@ -1312,81 +1287,6 @@ BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
-[h01P]
-Art=ReplaceableTextures\CommandButtons\BTNClockWerkGoblin.blp
-Name=G Minature Mecha Goblin
-Hotkey=Q
-Tip=Build The Minature Mecha Goblin [|cffffcc00Q|r]
-Ubertip="The Minature Mecha Goblin has a very fast attack and good dmg |CFF00FF00( Normal type dmg, 7-14 / 700 Range / .35 Cooldown )|"
-Buttonpos=0,2
-Missileart=Abilities\Weapons\GyroCopter\GyroCopterImpact.mdl
-Missilearc=0.15
-Missilespeed=10000
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
-[h01Q]
-Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
-Name=G Goblin Sapper
-Hotkey=
-Tip=Build |cffffcc00G|roblin Sapper
-Ubertip="Goblin Sapper, a very effective 2nd tower with is Spread Fire ability allowing it to attack 3 targets at a time, slightly slower and with less range however... slower... for a goblin... |CFF00FF00 ( Magic type dmg, 23-23 / 600 Range / .45 Cooldown )|"
-Buttonpos=1,2
-Missileart=Abilities\Weapons\LordofFlameMissile\LordofFlameMissile.mdl
-Missilearc=0.15
-Missilespeed=1200
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
-[h01R]
-Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
-Name=G Goblin Bomber
-Hotkey=B
-Tip=Build Goblin |cffffcc00B|romber
-Ubertip="Goblin Bomber, a breakthrough in goblin technology with its range and splash however, being artillery it loses accuracy on moving targets |CFF00FF00 ( Siege type dmg, 86-104/ 750Range / .45 Cooldown )| |CFFED1C24Note: This tower CAN'T attack air"
-Buttonpos=2,2
-Missileart=Abilities\Weapons\DemonHunterMissile\DemonHunterMissile.mdl
-Missilearc=0.5
-Missilespeed=1000
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
-[h01S]
-Art=ReplaceableTextures\CommandButtons\BTNJunkGolem.blp
-Name=G Superior Mecha Goblin
-Hotkey=B
-Tip=Build |cffffcc00S|ruperior Mecha Goblin
-Ubertip="The Superior Mecha Goblin has shorter range, less dmg and costs more, BUT! it has a larger splash greater attack speed and accuracy. |CFF00FF00 ( Normal type dmg, 55-55 / 700 Range / .20 Cooldown )|"
-Buttonpos=0,1
-Missileart=Abilities\Weapons\DruidoftheTalonMissile\DruidoftheTalonMissile.mdl
-Missilearc=0
-Missilespeed=1800
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
-[h01T]
-Art=ReplaceableTextures\CommandButtons\BTNHeroAlchemist.blp
-Name=G Goblin Alchemist
-Hotkey=A
-Tip=Build Goblin |cffffcc00A|rlchemist
-Ubertip="Goblin Alchemist. The final tower in the way of Goblin defense. The Alchemist does excellent dmg with great speed and decent range, its TRUE strength however, lies with its Transmutation ability. Allowing the Alchemist to turn its enemies into gold.|n|n|cFFFF0000DISABLED|r"
-Buttonpos=0,0
-Missileart=Abilities\Weapons\BansheeMissile\BansheeMissile.mdl
-Missilearc=0.15
-Missilespeed=1800
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
 [h01U]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
 Name=[Tavern] - Fire Lord
@@ -1411,51 +1311,6 @@ Buttonpos=1,1
 Missileart=.mdl
 Missilearc=0.15
 Missilespeed=1800
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
-[h01W]
-Art=ReplaceableTextures\CommandButtons\BTNROBOGOBLIN.blp
-Name=G Decepticon Goblin Autobot
-Hotkey=D
-Tip=Build |cffffcc00D|recepticon Goblin Autobot
-Ubertip="The Decepticon Goblin Autobot... Definitly More Then Meets The Eye??? Goblins In Disguise??? "You'll pay for this Optimus Prime!" No? well puns aside although weak it has range and unique splash dmg that allows it to cut through multiple targets. |CFF00FF00 ( Magic type dmg, 397-419 / 700 Range / 0.70 Cooldown Goblin Pulse Beam Ability) "
-Buttonpos=2,1
-Missileart=Abilities\Weapons\SpiritOfVengeanceMissile\SpiritOfVengeanceMissile.mdl
-Missilearc=0.05
-Missilespeed=1400
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
-[h01X]
-Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
-Name=G Goblin Tesla Coil
-Hotkey=
-Tip=Build Goblin |cffffcc00T|resla Coil
-Ubertip="|cffffcc00Attack:|r Normal|n|cffffcc00Cooldown:|r 0.50|n|cffffcc00Damage:|r 400 - 600|n|cffffcc00Range:|r 500|n|cffffcc00Ability:|r Multishot; can attack up to 10 enemy units at once"
-Buttonpos=3,1
-Missileart=Abilities\Weapons\FarseerMissile\FarseerMissile.mdl
-Missilearc=0.05
-Missilespeed=1500
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
-[h01Y]
-Art=ReplaceableTextures\CommandButtons\BTNAmmoDump.blp
-Name=G Goblin Inferno Silo
-Hotkey=T
-Tip=Build Goblin |cffffcc00I|rnferno Silo
-Ubertip="Goblin Inferno Silo, yes, even the Goblins have Weapons of Mass Destruction. The Goblin Silo has the 2nd largest range deals HUGE splash dmg however it has a very long cooldown |CFF00FF00 ( 793-856 Siege dmg / 895 Range / 3.50 Cooldown ) "
-Buttonpos=3,0
-Missileart=Objects\Spawnmodels\Demon\InfernalMeteor\InfernalMeteor.mdl
-Missilearc=0.05
-Missilespeed=1400
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
@@ -2395,21 +2250,6 @@ BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
-[h03O]
-Art=ReplaceableTextures\CommandButtons\BTNChemicalRage.blp
-Name=G Goblin's Ogre
-Hotkey=E
-Tip=Build Goblin's Ogre |cffffcc00[E]|r
-Ubertip="Enraged Goblin's Ogre is a dangerous melee tower with incredible speed and damage.|n|n|cffffcc00Attack:|r Chaos|n|cffffcc00Cooldown:|r 0.20|n|cffffcc00Damage:|r 380 - 440|n|cffffcc00Range:|r Melee|n|cffffcc00Ability:|r Alchemic Enduced Rage; permanently increases attackspeed by 25%"
-Buttonpos=1,1
-Missileart=-
-Missilearc=0.15
-Missilespeed=1800
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,second
-
 [h03P]
 Art=ReplaceableTextures\CommandButtons\BTNArcaneVault.blp
 Name=Random!
@@ -2756,23 +2596,6 @@ BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 Animprops=third
-
-[h04E]
-Art=ReplaceableTextures\CommandButtons\BTNHeroArchMage.blp
-Name=G Archmage
-Hotkey=N
-Tip=Build Archmage
-Ubertip="Archmage, once again, shit damage, but has COLD FURY?? does 35 dmg a wave with 5 waves with a 3 cooldown 700 range"
-Buttonpos=2,2
-Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
-Missilearc=0.15
-Missilespeed=1500
-MissileHoming=1
-Requires=
-BuildingSoundLabel=BuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Animprops=upgrade,third
 
 [h04F]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiMage.blp
@@ -7285,21 +7108,6 @@ Buttonpos=3,1
 Missileart=-
 Missilearc=0.15
 Missilespeed=0
-BuildingSoundLabel=OrcBuildingConstructionLoop
-LoopingSoundFadeIn=512
-LoopingSoundFadeOut=512
-Attachmentanimprops=Alternate
-
-[oC91]
-Art=ReplaceableTextures\CommandButtons\BTNPitLord.tga
-Name=G Pit Lord
-Hotkey=P
-Tip=Build |cffffcc00P|rit Lord
-Ubertip="The Pit Lord is like the Felhound. The Pit Lord, however, has a larger range, higher damage, and a greater splash. It's quite expensive, though.  |CFF00FF00(Fast(1.20)/700-800 Chaos Damage/900 Range)"
-Buttonpos=0,0
-Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
-Missilearc=0.15
-Missilespeed=1800
 BuildingSoundLabel=OrcBuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
