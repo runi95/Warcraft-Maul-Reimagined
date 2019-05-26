@@ -919,6 +919,16 @@ BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512
 LoopingSoundFadeOut=512
 
+[h012]
+Art=ReplaceableTextures\CommandButtons\BTNClockWerkGoblin.blp
+Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
+Name=[Goblin] Mecha-Goblin
+Tip=Summon Spiderling
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix=[Goblin]
+Missilearc=0.15
+Attachmentanimprops=medium
+
 [h013]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinLandMine.blp
 Name=Goblin Mine

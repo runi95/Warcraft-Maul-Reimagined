@@ -1,5 +1,5 @@
 ID;PWXL;N;E
-B;X51;Y491;D0
+B;X51;Y492;D0
 C;X1;Y1;K"unitUIID"
 C;X2;K"sortUI"
 C;X3;K"file"
@@ -3383,7 +3383,56 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y70;K"h013"
+C;X1;Y70;K"h012"
+C;X3;K"Units\Creeps\HeroTinkerRobot\HeroTinkerRobot.mdl"
+C;X4;K0
+C;X5;K"ClockwerkGoblin"
+C;X6;K0
+C;X7;K"TRIGSTR_9823"
+C;X8;K"nerubian"
+C;X9;K1
+C;X10;K1
+C;X11;K1
+C;X12;K0
+C;X13;K1
+C;X14;K1
+C;X15;K"-"
+C;X16;K0
+C;X17;K0
+C;X18;K0
+C;X19;K0
+C;X20;K0
+C;X21;K0.15
+C;X22;K1
+C;X23;K1
+C;X24;K60
+C;X25;K60
+C;X26;K"-"
+C;X27;K50
+C;X28;K0
+C;X29;K200
+C;X30;K200
+C;X31;K0
+C;X32;K"_"
+C;X33;K"_"
+C;X34;K
+C;X35;K0
+C;X36;K"Flesh"
+C;X37;K0.65
+C;X38;K150
+C;X39;K100
+C;X40;K255
+C;X41;K"_"
+C;X42;K
+C;X43;K"_"
+C;X44;K120
+C;X45;K120
+C;X46;K45
+C;X47;K45
+C;X48;K1
+C;X49;K0
+C;X50;K0
+C;X1;Y71;K"h013"
 C;X3;K"units\creeps\GoblinLandMine\GoblinLandMine"
 C;X4;K0
 C;X5;K"GoblinLandMine"
@@ -3432,7 +3481,7 @@ C;X47;K25
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y71;K"h01A"
+C;X1;Y72;K"h01A"
 C;X3;K"units\undead\ObsidianStatue\ObsidianStatue.mdl"
 C;X4;K0
 C;X5;K"ObsidianStatue"
@@ -3481,7 +3530,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y72;K"h01C"
+C;X1;Y73;K"h01C"
 C;X3;K"units\creeps\CentaurArcher\CentaurArcher.mdl"
 C;X4;K0
 C;X5;K"CentaurArcher"
@@ -3530,7 +3579,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y73;K"h01D"
+C;X1;Y74;K"h01D"
 C;X3;K"units\creeps\ForestTrollShadowPriest\ForestTrollShadowPriest.mdl"
 C;X4;K0
 C;X5;K"ForestTrollShadowPriest"
@@ -3579,7 +3628,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y74;K"h01E"
+C;X1;Y75;K"h01E"
 C;X3;K"units\creeps\GnollWarden\GnollWarden.mdl"
 C;X4;K0
 C;X5;K"GnollKing"
@@ -3628,7 +3677,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y75;K"h01F"
+C;X1;Y76;K"h01F"
 C;X3;K"Units\Creeps\EarthPandarenBrewmaster\EarthPandarenBrewmaster.mdl"
 C;X4;K0
 C;X5;K"EarthPandarenBrewmaster"
@@ -3677,7 +3726,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y76;K"h01G"
+C;X1;Y77;K"h01G"
 C;X3;K"units\creeps\RazorMane\RazorMane.mdl"
 C;X4;K0
 C;X5;K"RazorMane"
@@ -3726,7 +3775,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y77;K"h01I"
+C;X1;Y78;K"h01I"
 C;X3;K"Units\Creeps\FirePandarenBrewmaster\FirePandarenBrewmaster.mdl"
 C;X4;K0
 C;X5;K"FirePandarenBrewmaster"
@@ -3775,7 +3824,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y78;K"h01J"
+C;X1;Y79;K"h01J"
 C;X3;K"Units\Creeps\StormPandarenBrewmaster\StormPandarenBrewmaster.mdl"
 C;X4;K0
 C;X5;K"StormPandarenBrewmaster"
@@ -3824,7 +3873,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y79;K"h01L"
+C;X1;Y80;K"h01L"
 C;X3;K"Units\Creeps\PandarenBrewmaster\PandarenBrewmaster.mdl"
 C;X4;K0
 C;X5;K"PandarenBrewmaster"
@@ -3873,7 +3922,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y80;K"h01M"
+C;X1;Y81;K"h01M"
 C;X3;K"buildings\other\FountainOfLifeDefiled\FountainOfLifeDefiled.mdl"
 C;X4;K0
 C;X5;K"FountainOfLife"
@@ -3922,7 +3971,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y81;K"h01O"
+C;X1;Y82;K"h01O"
 C;X3;K"units\creeps\VoidWalker\VoidWalker.mdl"
 C;X4;K0
 C;X5;K"ObsidianDestroyer"
@@ -3971,7 +4020,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y82;K"h01U"
+C;X1;Y83;K"h01U"
 C;X3;K"Units\Creeps\HeroFlameLord\HeroFlameLord.mdl"
 C;X4;K0
 C;X5;K"HeroFireLord"
@@ -4020,7 +4069,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y83;K"h01Z"
+C;X1;Y84;K"h01Z"
 C;X3;K"units\orc\Spiritwolf\Spiritwolf.mdl"
 C;X4;K0
 C;X5;K"Wolf"
@@ -4069,7 +4118,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y84;K"h020"
+C;X1;Y85;K"h020"
 C;X3;K"units\human\WaterElemental\WaterElemental.mdl"
 C;X4;K0
 C;X5;K"WaterElemental"
@@ -4118,7 +4167,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y85;K"h021"
+C;X1;Y86;K"h021"
 C;X3;K"Units\Creeps\ForgottenOne\ForgottenOne.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -4167,7 +4216,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y86;K"h022"
+C;X1;Y87;K"h022"
 C;X3;K"units\creeps\GrizzlyBear\GrizzlyBear.mdl"
 C;X4;K0
 C;X5;K"GrizzlyBear"
@@ -4216,7 +4265,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y87;K"h023"
+C;X1;Y88;K"h023"
 C;X3;K"units\orc\Spiritwolf\Spiritwolf.mdl"
 C;X4;K0
 C;X5;K"Wolf"
@@ -4265,7 +4314,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y88;K"h024"
+C;X1;Y89;K"h024"
 C;X3;K"units\orc\Spiritwolf\Spiritwolf.mdl"
 C;X4;K0
 C;X5;K"Wolf"
@@ -4314,7 +4363,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y89;K"h025"
+C;X1;Y90;K"h025"
 C;X3;K"units\orc\SerpentWard\SerpentWard.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -4363,7 +4412,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y90;K"h026"
+C;X1;Y91;K"h026"
 C;X3;K"Units\Creeps\LavaSpawn\LavaSpawn.mdl"
 C;X4;K0
 C;X5;K"LavaSpawn"
@@ -4412,7 +4461,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y91;K"h027"
+C;X1;Y92;K"h027"
 C;X3;K"Units\Creeps\Lobstrokkred\Lobstrokkred.mdl"
 C;X4;K0
 C;X5;K"Lobstrokk"
@@ -4461,7 +4510,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y92;K"h028"
+C;X1;Y93;K"h028"
 C;X3;K"units\undead\SkeletonMage\SkeletonMage.mdl"
 C;X4;K0
 C;X5;K"Skeleton"
@@ -4510,7 +4559,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y93;K"h029"
+C;X1;Y94;K"h029"
 C;X3;K"units\creeps\WarEagle\WarEagle.mdl"
 C;X4;K0
 C;X5;K"WarEagle"
@@ -4559,7 +4608,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y94;K"h02A"
+C;X1;Y95;K"h02A"
 C;X3;K"Units\Critters\ChaosSpaceOrc\ChaosSpaceOrc.mdl"
 C;X4;K0
 C;X5;K"ChaosSpaceOrc"
@@ -4608,7 +4657,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y95;K"h02B"
+C;X1;Y96;K"h02B"
 C;X3;K"units\nightelf\Ent\Ent.mdl"
 C;X4;K0
 C;X5;K"Ent"
@@ -4657,7 +4706,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y96;K"h02C"
+C;X1;Y97;K"h02C"
 C;X3;K"Units\Creeps\QuillBeast\QuillBeast.mdl"
 C;X4;K0
 C;X5;K"QuillBeast"
@@ -4706,7 +4755,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y97;K"h02D"
+C;X1;Y98;K"h02D"
 C;X3;K"units\nightelf\SpiritOfVengeance\SpiritOfVengeance.mdl"
 C;X4;K0
 C;X5;K"Vengeance"
@@ -4755,7 +4804,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y98;K"h02F"
+C;X1;Y99;K"h02F"
 C;X3;K"units\undead\Necromancer\Necromancer.mdl"
 C;X4;K0
 C;X5;K"Necromancer"
@@ -4804,7 +4853,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y99;K"h02G"
+C;X1;Y100;K"h02G"
 C;X3;K"units\undead\Acolyte\Acolyte.mdl"
 C;X4;K0
 C;X5;K"Acolyte"
@@ -4853,7 +4902,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y100;K"h02H"
+C;X1;Y101;K"h02H"
 C;X3;K"Units\Critters\Marine\Marine.mdl"
 C;X4;K0
 C;X5;K"Rifleman"
@@ -4902,7 +4951,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y101;K"h02J"
+C;X1;Y102;K"h02J"
 C;X3;K"units\other\Proudmoore\Proudmoore.mdl"
 C;X4;K0
 C;X5;K"Proudmoore"
@@ -4951,7 +5000,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y102;K"h02K"
+C;X1;Y103;K"h02K"
 C;X3;K"Units\Creeps\ForgottenOne\ForgottenOne.mdl"
 C;X4;K0
 C;X5;K"FacelessOne"
@@ -5000,7 +5049,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y103;K"h02L"
+C;X1;Y104;K"h02L"
 C;X3;K"Units\Critters\Hydralisk\Hydralisk.mdl"
 C;X4;K0
 C;X5;K"Hydralisk"
@@ -5049,7 +5098,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y104;K"h02Q"
+C;X1;Y105;K"h02Q"
 C;X3;K"Doodads\Cinematic\RockinArthas\RockinArthas.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -5098,7 +5147,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y105;K"h02R"
+C;X1;Y106;K"h02R"
 C;X3;K"units\orc\catapult\catapult.mdl"
 C;X4;K0
 C;X5;K"Draenei"
@@ -5147,7 +5196,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y106;K"h02S"
+C;X1;Y107;K"h02S"
 C;X3;K"units\creeps\Zombie\Zombie.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -5196,7 +5245,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y107;K"h02T"
+C;X1;Y108;K"h02T"
 C;X3;K"units\creeps\VoidWalker\VoidWalker.mdl"
 C;X4;K0
 C;X5;K"ObsidianDestroyer"
@@ -5245,7 +5294,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y108;K"h02V"
+C;X1;Y109;K"h02V"
 C;X3;K"buildings\other\ElvenGuardMagicTower\ElvenGuardMagicTower.mdl"
 C;X4;K0
 C;X5;K"ElvenGuardTower"
@@ -5294,7 +5343,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y109;K"h03C"
+C;X1;Y110;K"h03C"
 C;X3;K"Objects\StartLocation\StartLocation.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -5343,7 +5392,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y110;K"h03D"
+C;X1;Y111;K"h03D"
 C;X3;K"buildings\other\DraneiHut0\DraneiHut0.mdl"
 C;X4;K0
 C;X5;K"DraeneiChieftainHut"
@@ -5392,7 +5441,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y111;K"h03E"
+C;X1;Y112;K"h03E"
 C;X3;K"units\orc\Peon\Peon.mdl"
 C;X4;K0
 C;X5;K"Peon"
@@ -5441,7 +5490,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y112;K"h03F"
+C;X1;Y113;K"h03F"
 C;X3;K"units\human\Peasant\Peasant.mdl"
 C;X4;K0
 C;X5;K"Peasant"
@@ -5490,7 +5539,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y113;K"h03G"
+C;X1;Y114;K"h03G"
 C;X3;K"units\creeps\MurgulSlave\MurgulSlave.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -5539,7 +5588,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y114;K"h03H"
+C;X1;Y115;K"h03H"
 C;X3;K"units\nightelf\Wisp\Wisp.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -5588,7 +5637,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y115;K"h03I"
+C;X1;Y116;K"h03I"
 C;X3;K"units\undead\Acolyte\Acolyte.mdl"
 C;X4;K0
 C;X5;K"Acolyte"
@@ -5637,7 +5686,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y116;K"h03J"
+C;X1;Y117;K"h03J"
 C;X3;K"Doodads\LordaeronSummer\Terrain\Crates\Crates1.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -5686,7 +5735,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y117;K"h03K"
+C;X1;Y118;K"h03K"
 C;X3;K"Objects\StartLocation\StartLocation.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -5735,7 +5784,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y118;K"h03L"
+C;X1;Y119;K"h03L"
 C;X3;K"units\human\Jaina\Jaina.mdl"
 C;X4;K0
 C;X5;K"Jaina"
@@ -5784,7 +5833,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y119;K"h03M"
+C;X1;Y120;K"h03M"
 C;X3;K"Doodads\Terrain\LOSBlocker\IntentionallyLeftBlank.mdl"
 C;X4;K0
 C;X5;K"GuardTower"
@@ -5833,7 +5882,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y120;K"h03N"
+C;X1;Y121;K"h03N"
 C;X3;K"units\creeps\GrizzlyBear\GrizzlyBear.mdl"
 C;X4;K0
 C;X5;K"GrizzlyBear"
@@ -5882,7 +5931,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y121;K"h03P"
+C;X1;Y122;K"h03P"
 C;X3;K"buildings\human\ArcaneVault\ArcaneVault"
 C;X4;K0
 C;X5;K"ArcaneVault"
@@ -5931,7 +5980,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y122;K"h03Q"
+C;X1;Y123;K"h03Q"
 C;X3;K"Objects\StartLocation\StartLocation.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -5980,7 +6029,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y123;K"h03R"
+C;X1;Y124;K"h03R"
 C;X3;K"buildings\other\BookOfSummoning\BookOfSummoning.mdl"
 C;X4;K0
 C;X5;K"Farm"
@@ -6029,7 +6078,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y124;K"h03S"
+C;X1;Y125;K"h03S"
 C;X3;K"buildings\human\HumanTower\HumanTower.mdl"
 C;X4;K0
 C;X5;K"Farm"
@@ -6078,7 +6127,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y125;K"h03T"
+C;X1;Y126;K"h03T"
 C;X3;K"Buildings\Other\BarrelsUnit0\BarrelsUnit0.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -6127,7 +6176,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y126;K"h03U"
+C;X1;Y127;K"h03U"
 C;X3;K"units\demon\felhound\felhound_V1.mdl"
 C;X4;K0
 C;X5;K"Felhound"
@@ -6176,7 +6225,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y127;K"h03V"
+C;X1;Y128;K"h03V"
 C;X3;K"units\demon\DoomGuard\DoomGuard.mdl"
 C;X4;K0
 C;X5;K"DoomGuard"
@@ -6225,7 +6274,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y128;K"h03W"
+C;X1;Y129;K"h03W"
 C;X3;K"units\demon\Felgaurd\Felgaurd.mdl"
 C;X4;K0
 C;X5;K"OgreOneHead"
@@ -6274,7 +6323,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y129;K"h03X"
+C;X1;Y130;K"h03X"
 C;X3;K"units\demon\Demoness\Demoness.mdl"
 C;X4;K0
 C;X5;K"Demoness"
@@ -6323,7 +6372,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y130;K"h03Y"
+C;X1;Y131;K"h03Y"
 C;X3;K"units\creeps\Ogre\Ogre.mdl"
 C;X4;K0
 C;X5;K"Ogre"
@@ -6372,7 +6421,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y131;K"h03Z"
+C;X1;Y132;K"h03Z"
 C;X3;K"units\naga\SnapDragon\SnapDragon.mdl"
 C;X4;K0
 C;X5;K"SnapDragon"
@@ -6421,7 +6470,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y132;K"h040"
+C;X1;Y133;K"h040"
 C;X3;K"Units\Critters\zergling\zergling.mdl"
 C;X4;K0
 C;X5;K"SnapDragon"
@@ -6470,7 +6519,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y133;K"h041"
+C;X1;Y134;K"h041"
 C;X3;K"units\critters\Frog\Frog.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -6519,7 +6568,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y134;K"h042"
+C;X1;Y135;K"h042"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"GuardTower"
@@ -6568,7 +6617,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y135;K"h043"
+C;X1;Y136;K"h043"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"CannonTower"
@@ -6617,7 +6666,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y136;K"h044"
+C;X1;Y137;K"h044"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"ArcaneTower"
@@ -6666,7 +6715,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y137;K"h045"
+C;X1;Y138;K"h045"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"GuardTower"
@@ -6715,7 +6764,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y138;K"h046"
+C;X1;Y139;K"h046"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"GuardTower"
@@ -6764,7 +6813,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y139;K"h047"
+C;X1;Y140;K"h047"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"CannonTower"
@@ -6813,7 +6862,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y140;K"h048"
+C;X1;Y141;K"h048"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"CannonTower"
@@ -6862,7 +6911,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y141;K"h049"
+C;X1;Y142;K"h049"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"ArcaneTower"
@@ -6911,7 +6960,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y142;K"h04A"
+C;X1;Y143;K"h04A"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"ArcaneTower"
@@ -6960,7 +7009,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y143;K"h04B"
+C;X1;Y144;K"h04B"
 C;X3;K"buildings\other\TowerDefenseTower\TowerDefenseTower.mdl"
 C;X4;K0
 C;X5;K"ElvenGuardTower"
@@ -7009,7 +7058,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y144;K"h04C"
+C;X1;Y145;K"h04C"
 C;X3;K"buildings\other\TowerDefenseTower\TowerDefenseTower.mdl"
 C;X4;K0
 C;X5;K"ElvenGuardTower"
@@ -7058,7 +7107,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y145;K"h04D"
+C;X1;Y146;K"h04D"
 C;X3;K"buildings\other\TowerDefenseTower\TowerDefenseTower.mdl"
 C;X4;K0
 C;X5;K"ElvenGuardTower"
@@ -7107,7 +7156,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y146;K"h04F"
+C;X1;Y147;K"h04F"
 C;X3;K"units\other\DranaiMage\DranaiMage.mdl"
 C;X4;K0
 C;X5;K"Draenei"
@@ -7156,7 +7205,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y147;K"h04G"
+C;X1;Y148;K"h04G"
 C;X3;K"units\other\Dranai\Dranai.mdl"
 C;X4;K0
 C;X5;K"Draenei"
@@ -7205,7 +7254,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y148;K"h04H"
+C;X1;Y149;K"h04H"
 C;X3;K"units\creeps\ThunderLizardSalamander\ThunderLizardSalamander.mdl"
 C;X4;K0
 C;X5;K"KotoBeastNoRider"
@@ -7254,7 +7303,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y149;K"h04I"
+C;X1;Y150;K"h04I"
 C;X3;K"units\creeps\ThunderLizardSalamander\ThunderLizardSalamander.mdl"
 C;X4;K0
 C;X5;K"KotoBeastNoRider"
@@ -7303,7 +7352,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y150;K"h04J"
+C;X1;Y151;K"h04J"
 C;X3;K"units\human\phoenix\phoenix"
 C;X4;K0
 C;X5;K"Phoenix"
@@ -7352,7 +7401,7 @@ C;X47;K100
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y151;K"h04K"
+C;X1;Y152;K"h04K"
 C;X3;K"Buildings\Other\BarrelsUnit0\BarrelsUnit0.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7401,7 +7450,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y152;K"h04L"
+C;X1;Y153;K"h04L"
 C;X3;K"Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7450,7 +7499,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y153;K"h04M"
+C;X1;Y154;K"h04M"
 C;X3;K"units\creeps\OrcWarlockRed\OrcWarlockRed.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7499,7 +7548,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y154;K"h04N"
+C;X1;Y155;K"h04N"
 C;X3;K"Units\Creeps\GiantSeaTurtleRange\GiantSeaTurtleRange.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7548,7 +7597,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y155;K"h04O"
+C;X1;Y156;K"h04O"
 C;X3;K"units\creeps\RevenantOfTheWaves\RevenantOfTheWaves.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7597,7 +7646,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y156;K"h04P"
+C;X1;Y157;K"h04P"
 C;X3;K"Units\Creeps\Hydra\Hydra.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7646,7 +7695,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y157;K"h04Q"
+C;X1;Y158;K"h04Q"
 C;X3;K"units\nightelf\DruidoftheTalon\DruidoftheTalon.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7695,7 +7744,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y158;K"h04R"
+C;X1;Y159;K"h04R"
 C;X3;K"Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7744,7 +7793,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y159;K"h04S"
+C;X1;Y160;K"h04S"
 C;X3;K"Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7793,7 +7842,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y160;K"h04T"
+C;X1;Y161;K"h04T"
 C;X3;K"Doodads\Underground\Plants\ShroomsBlue\ShroomsBlue.mdl"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -7842,7 +7891,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y161;K"hC02"
+C;X1;Y162;K"hC02"
 C;X3;K"units\orc\Grunt\Grunt.mdl"
 C;X4;K0
 C;X5;K"Grunt"
@@ -7891,7 +7940,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y162;K"hC04"
+C;X1;Y163;K"hC04"
 C;X3;K"Units\Creeps\HeroTinkerRobot\HeroTinkerRobot.mdl"
 C;X4;K0
 C;X5;K"Peasant"
@@ -7940,7 +7989,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y163;K"hC07"
+C;X1;Y164;K"hC07"
 C;X3;K"units\human\Peasant\Peasant"
 C;X4;K0
 C;X5;K"Peasant"
@@ -7989,7 +8038,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y164;K"hC08"
+C;X1;Y165;K"hC08"
 C;X3;K"units\human\Knight\Knight.mdl"
 C;X4;K0
 C;X5;K"Knight"
@@ -8038,7 +8087,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y165;K"hC11"
+C;X1;Y166;K"hC11"
 C;X3;K"units\nightelf\Hippogryph\Hippogryph.mdl"
 C;X4;K0
 C;X5;K"HippoGryph"
@@ -8087,7 +8136,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y166;K"hC16"
+C;X1;Y167;K"hC16"
 C;X3;K"units\human\Militia\Militia.mdl"
 C;X4;K0
 C;X5;K"Grunt"
@@ -8136,7 +8185,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y167;K"hC21"
+C;X1;Y168;K"hC21"
 C;X3;K"units\creeps\BansheeGhost\BansheeGhost.mdl"
 C;X4;K0
 C;X5;K"Ghost"
@@ -8185,7 +8234,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y168;K"hC27"
+C;X1;Y169;K"hC27"
 C;X3;K"units\undead\CryptFiend\CryptFiend.mdl"
 C;X4;K0
 C;X5;K"CryptFiend"
@@ -8234,7 +8283,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y169;K"hC34"
+C;X1;Y170;K"hC34"
 C;X3;K"units\creeps\Harpy\Harpy.mdl"
 C;X4;K0
 C;X5;K"Harpy"
@@ -8283,7 +8332,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y170;K"hC36"
+C;X1;Y171;K"hC36"
 C;X3;K"units\human\Gyrocopter\Gyrocopter_V1.mdl"
 C;X4;K0
 C;X5;K"Gyrocopter"
@@ -8332,7 +8381,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y171;K"hC44"
+C;X1;Y172;K"hC44"
 C;X3;K"units\creeps\RockGolem\RockGolem.mdl"
 C;X4;K2
 C;X5;K"SteamTank"
@@ -8381,7 +8430,7 @@ C;X47;K120
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y172;K"hC48"
+C;X1;Y173;K"hC48"
 C;X3;K"units\creeps\GrizzlyBear\GrizzlyBear.mdl"
 C;X4;K0
 C;X5;K"Knight"
@@ -8430,7 +8479,7 @@ C;X47;K75
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y173;K"hC53"
+C;X1;Y174;K"hC53"
 C;X3;K"units\creeps\RockGolem\RockGolem.mdl"
 C;X4;K0
 C;X5;K"RockGolem"
@@ -8479,7 +8528,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y174;K"hC54"
+C;X1;Y175;K"hC54"
 C;X3;K"units\human\WarWagon\WarWagon_V1.mdl"
 C;X4;K0
 C;X5;K"SteamTank"
@@ -8528,7 +8577,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y175;K"hC66"
+C;X1;Y176;K"hC66"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K"ScoutTower"
@@ -8577,7 +8626,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y176;K"hC76"
+C;X1;Y177;K"hC76"
 C;X3;K"units\other\FleshGolem\FleshGolem.mdl"
 C;X4;K0
 C;X5;K"Wisp"
@@ -8626,7 +8675,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y177;K"hC79"
+C;X1;Y178;K"hC79"
 C;X3;K"units\critters\SpiderCrab\SpiderCrab.mdl"
 C;X4;K0
 C;X5;K"Sheep"
@@ -8675,7 +8724,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y178;K"hC80"
+C;X1;Y179;K"hC80"
 C;X3;K"units\nightelf\Huntress\Huntress.mdl"
 C;X4;K0
 C;X5;K"Huntress"
@@ -8724,7 +8773,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y179;K"hC82"
+C;X1;Y180;K"hC82"
 C;X3;K"buildings\nightelf\AncientProtector\AncientProtector.mdl"
 C;X4;K0
 C;X5;K"DruidOfTheTalon"
@@ -8773,7 +8822,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y180;K"hC86"
+C;X1;Y181;K"hC86"
 C;X3;K"buildings\nightelf\ChimaeraRoost\ChimaeraRoost.mdl"
 C;X4;K0
 C;X5;K"DruidOfTheClaw"
@@ -8822,7 +8871,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y181;K"hC94"
+C;X1;Y182;K"hC94"
 C;X3;K"units\undead\HeroLich\HeroLich_V1.mdl"
 C;X4;K0
 C;X5;K"HeroLich"
@@ -8871,7 +8920,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y182;K"hC95"
+C;X1;Y183;K"hC95"
 C;X3;K"units\demon\DemonessBlue\DemonessBlue.mdl"
 C;X4;K0
 C;X5;K"Spider"
@@ -8920,7 +8969,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y183;K"hC97"
+C;X1;Y184;K"hC97"
 C;X3;K"units\creeps\OgreMagi\OgreMagi.mdl"
 C;X4;K0
 C;X5;K"Ogre"
@@ -8969,7 +9018,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y184;K"n000"
+C;X1;Y185;K"n000"
 C;X3;K"units\critters\FlyingSheep\FlyingSheep.mdl"
 C;X4;K0
 C;X5;K"Sheep"
@@ -9018,7 +9067,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y185;K"n001"
+C;X1;Y186;K"n001"
 C;X3;K"units\creeps\VoidWalker\VoidWalker.mdl"
 C;X4;K0
 C;X5;K"Peasant"
@@ -9067,7 +9116,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y186;K"n002"
+C;X1;Y187;K"n002"
 C;X3;K"units\nightelf\Wisp\Wisp.mdl"
 C;X4;K0
 C;X5;K"Wisp"
@@ -9116,7 +9165,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y187;K"n003"
+C;X1;Y188;K"n003"
 C;X3;K"Units\Critters\zergling\zergling.mdl"
 C;X4;K0
 C;X5;K"Zombie"
@@ -9165,7 +9214,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y188;K"n004"
+C;X1;Y189;K"n004"
 C;X3;K"units\creeps\AzureDragon\AzureDragon"
 C;X4;K0
 C;X5;K"AzureDragon"
@@ -9214,7 +9263,7 @@ C;X47;K100
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y189;K"n005"
+C;X1;Y190;K"n005"
 C;X3;K"units\orc\Tauren\Tauren.mdl"
 C;X4;K0
 C;X5;K"Tauren"
@@ -9263,7 +9312,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y190;K"n006"
+C;X1;Y191;K"n006"
 C;X3;K"units\undead\EvilArthas\UndeadArthas.mdl"
 C;X4;K0
 C;X5;K"Zombie"
@@ -9312,7 +9361,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y191;K"n007"
+C;X1;Y192;K"n007"
 C;X3;K"units\human\WaterElemental\WaterElemental.mdl"
 C;X4;K0
 C;X5;K"Sorceress"
@@ -9361,7 +9410,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y192;K"n008"
+C;X1;Y193;K"n008"
 C;X3;K"units\creeps\Wendigo\Wendigo.mdl"
 C;X4;K2
 C;X5;K"Felhound"
@@ -9410,7 +9459,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y193;K"n009"
+C;X1;Y194;K"n009"
 C;X3;K"buildings\demon\CorruptedMoonWell\CorruptedMoonWell.mdl"
 C;X4;K0
 C;X5;K"MoonWell"
@@ -9459,7 +9508,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y194;K"n00A"
+C;X1;Y195;K"n00A"
 C;X3;K"Objects\InventoryItems\CrystalShard\CrystalShard.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -9508,7 +9557,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y195;K"n00D"
+C;X1;Y196;K"n00D"
 C;X3;K"Units\Creeps\ForgottenOne\ForgottenOneTent"
 C;X4;K0
 C;X5;K
@@ -9557,7 +9606,7 @@ C;X47;K35
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y196;K"n00F"
+C;X1;Y197;K"n00F"
 C;X3;K"units\creeps\IceTroll\IceTroll.mdl"
 C;X4;K0
 C;X5;K"IceTroll"
@@ -9606,7 +9655,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y197;K"n00G"
+C;X1;Y198;K"n00G"
 C;X3;K"units\creeps\IceTroll\IceTroll.mdl"
 C;X4;K0
 C;X5;K"IceTroll"
@@ -9655,7 +9704,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y198;K"n00H"
+C;X1;Y199;K"n00H"
 C;X3;K"units\creeps\IceTroll\IceTroll.mdl"
 C;X4;K0
 C;X5;K"IceTroll"
@@ -9704,7 +9753,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y199;K"n00I"
+C;X1;Y200;K"n00I"
 C;X3;K"units\creeps\Spider\Spider"
 C;X4;K0
 C;X5;K"Spider"
@@ -9753,7 +9802,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y200;K"n00J"
+C;X1;Y201;K"n00J"
 C;X3;K"units\critters\VillagerMan\VillagerMan.mdl"
 C;X4;K0
 C;X5;K"Peasant"
@@ -9802,7 +9851,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y201;K"n00K"
+C;X1;Y202;K"n00K"
 C;X3;K"units\creeps\NerubianSpiderLord\NerubianSpiderLord.mdl"
 C;X4;K0
 C;X5;K"Nerubian"
@@ -9851,7 +9900,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y202;K"n00L"
+C;X1;Y203;K"n00L"
 C;X3;K"buildings\demon\CorruptedAncientProtector\CorruptedAncientProtector.mdl"
 C;X4;K0
 C;X5;K"AncientProtector"
@@ -9900,7 +9949,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y203;K"n00M"
+C;X1;Y204;K"n00M"
 C;X3;K"buildings\other\BarrowDens\BarrowDens.mdl"
 C;X4;K0
 C;X5;K"BarrowDen"
@@ -9949,7 +9998,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y204;K"n00N"
+C;X1;Y205;K"n00N"
 C;X3;K"buildings\demon\CorruptedAncientofWar\CorruptedAncientofWar.mdl"
 C;X4;K0
 C;X5;K"AncientOfWar"
@@ -9998,7 +10047,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y205;K"n00O"
+C;X1;Y206;K"n00O"
 C;X3;K"units\creeps\CorruptedEnt\CorruptedEnt.mdl"
 C;X4;K0
 C;X5;K"CorruptedEnt"
@@ -10047,7 +10096,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y206;K"n00P"
+C;X1;Y207;K"n00P"
 C;X3;K"buildings\demon\CorruptedTreeofLife\CorruptedTreeofLife.mdl"
 C;X4;K0
 C;X5;K"TreeOfLife"
@@ -10096,7 +10145,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y207;K"n00Q"
+C;X1;Y208;K"n00Q"
 C;X3;K"buildings\other\FountainOfLifeDefiled\FountainOfLifeDefiled.mdl"
 C;X4;K0
 C;X5;K"FountainOfLife"
@@ -10145,7 +10194,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y208;K"n00R"
+C;X1;Y209;K"n00R"
 C;X3;K"units\NightElf\Shandris\Shandris.mdl"
 C;X4;K0
 C;X5;K"Shandris"
@@ -10194,7 +10243,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y209;K"n00S"
+C;X1;Y210;K"n00S"
 C;X3;K"units\nightelf\herowarden\herowarden.mdl"
 C;X4;K0
 C;X5;K"Maiev"
@@ -10243,7 +10292,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y210;K"n00T"
+C;X1;Y211;K"n00T"
 C;X3;K"Units\Creeps\ArchnathidGreen\ArchnathidGreen"
 C;X4;K0
 C;X5;K"Arachnathid"
@@ -10292,7 +10341,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y211;K"n00U"
+C;X1;Y212;K"n00U"
 C;X3;K"buildings\other\SacrificialAltar\SacrificialAltar"
 C;X4;K0
 C;X5;K"SacrificialAltar"
@@ -10341,7 +10390,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K200
-C;X1;Y212;K"n00V"
+C;X1;Y213;K"n00V"
 C;X3;K"units\demon\Infernal\Infernal"
 C;X4;K0
 C;X5;K"Infernal"
@@ -10390,7 +10439,7 @@ C;X47;K100
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y213;K"n00W"
+C;X1;Y214;K"n00W"
 C;X3;K"units\demon\Infernal\Infernal"
 C;X4;K0
 C;X5;K"Infernal"
@@ -10439,7 +10488,7 @@ C;X47;K100
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y214;K"n00X"
+C;X1;Y215;K"n00X"
 C;X3;K"units\creeps\Spider\Spider.mdl"
 C;X4;K0
 C;X5;K"Spider"
@@ -10488,7 +10537,7 @@ C;X47;K45
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y215;K"n00Y"
+C;X1;Y216;K"n00Y"
 C;X3;K"units\creeps\Spider\Spider.mdl"
 C;X4;K0
 C;X5;K"Spider"
@@ -10537,7 +10586,7 @@ C;X47;K45
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y216;K"n00Z"
+C;X1;Y217;K"n00Z"
 C;X3;K"units\creeps\Spider\Spider.mdl"
 C;X4;K0
 C;X5;K"Spider"
@@ -10586,7 +10635,7 @@ C;X47;K45
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y217;K"n010"
+C;X1;Y218;K"n010"
 C;X3;K"buildings\nightelf\AncientOfLore\AncientOfLore.mdl"
 C;X4;K0
 C;X5;K"AncientOfLore"
@@ -10635,7 +10684,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y218;K"n011"
+C;X1;Y219;K"n011"
 C;X3;K"buildings\other\FountainOfMana\FountainOfMana.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -10684,7 +10733,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y219;K"n012"
+C;X1;Y220;K"n012"
 C;X3;K"buildings\naga\AltarOfDepths\AltarOfDepths.mdl"
 C;X4;K0
 C;X5;K"ArcaneVault"
@@ -10733,7 +10782,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y220;K"n013"
+C;X1;Y221;K"n013"
 C;X3;K"units\creeps\GrizzlyBear\GrizzlyBear"
 C;X4;K0
 C;X5;K"GrizzlyBear"
@@ -10782,7 +10831,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y221;K"n014"
+C;X1;Y222;K"n014"
 C;X3;K"units\creeps\IceTroll\IceTroll.mdl"
 C;X4;K0
 C;X5;K"ForestTroll"
@@ -10831,7 +10880,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y222;K"n015"
+C;X1;Y223;K"n015"
 C;X3;K"units\creeps\WarEagle\WarEagle"
 C;X4;K0
 C;X5;K"WarEagle"
@@ -10880,7 +10929,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y223;K"n016"
+C;X1;Y224;K"n016"
 C;X3;K"Units\Creeps\QuillBeast\QuillBeast"
 C;X4;K0
 C;X5;K"QuillBeast"
@@ -10929,7 +10978,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y224;K"n017"
+C;X1;Y225;K"n017"
 C;X3;K"Abilities\Spells\Human\MassTeleport\MassTeleportTo.mdl"
 C;X4;K0
 C;X5;K"CircleOfPower"
@@ -10978,7 +11027,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y225;K"n018"
+C;X1;Y226;K"n018"
 C;X3;K"units\creeps\IceTrollShadowPriest\IceTrollShadowPriest.mdl"
 C;X4;K0
 C;X5;K"IceTrollShadowPriest"
@@ -11027,7 +11076,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y226;K"n019"
+C;X1;Y227;K"n019"
 C;X3;K"units\creeps\IceTrollShadowPriest\IceTrollShadowPriest.mdl"
 C;X4;K0
 C;X5;K"IceTrollShadowPriest"
@@ -11076,7 +11125,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y227;K"n01A"
+C;X1;Y228;K"n01A"
 C;X3;K"units\creeps\IceTrollShadowPriest\IceTrollShadowPriest.mdl"
 C;X4;K0
 C;X5;K"IceTrollShadowPriest"
@@ -11125,7 +11174,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y228;K"n01B"
+C;X1;Y229;K"n01B"
 C;X3;K"units\creeps\IceTroll\IceTroll.mdl"
 C;X4;K0
 C;X5;K"IceTroll"
@@ -11174,7 +11223,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y229;K"n01C"
+C;X1;Y230;K"n01C"
 C;X3;K"units\creeps\IceTroll\IceTroll.mdl"
 C;X4;K0
 C;X5;K"IceTroll"
@@ -11223,7 +11272,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y230;K"n01D"
+C;X1;Y231;K"n01D"
 C;X3;K"buildings\other\ElvenFarm\ElvenFarm.mdl"
 C;X4;K0
 C;X5;K"ElvenFarm"
@@ -11272,7 +11321,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y231;K"n01E"
+C;X1;Y232;K"n01E"
 C;X3;K"units\critters\Sheep\Sheep.mdl"
 C;X4;K0
 C;X5;K"Sheep"
@@ -11321,7 +11370,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y232;K"n01F"
+C;X1;Y233;K"n01F"
 C;X3;K"units\critters\Albatross\Albatross.mdl"
 C;X4;K0
 C;X5;K"Albatross"
@@ -11370,7 +11419,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y233;K"n01G"
+C;X1;Y234;K"n01G"
 C;X3;K"units\critters\Seal\Seal.mdl"
 C;X4;K0
 C;X5;K"Seal"
@@ -11419,7 +11468,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y234;K"n01H"
+C;X1;Y235;K"n01H"
 C;X3;K"buildings\other\ElvenVillageBuilding0\ElvenVillageBuilding0.mdl"
 C;X4;K0
 C;X5;K"ElvenFarm"
@@ -11468,7 +11517,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y235;K"n01I"
+C;X1;Y236;K"n01I"
 C;X3;K"units\creeps\SpiderCrabCreep\SpiderCrabCreep.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -11517,7 +11566,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y236;K"n01J"
+C;X1;Y237;K"n01J"
 C;X3;K"units\critters\Seal\Seal.mdl"
 C;X4;K0
 C;X5;K"Seal"
@@ -11566,7 +11615,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y237;K"n01K"
+C;X1;Y238;K"n01K"
 C;X3;K"units\critters\Seal\Seal.mdl"
 C;X4;K0
 C;X5;K"Seal"
@@ -11615,7 +11664,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y238;K"n01L"
+C;X1;Y239;K"n01L"
 C;X3;K"units\critters\Albatross\Albatross.mdl"
 C;X4;K0
 C;X5;K"Albatross"
@@ -11664,7 +11713,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y239;K"n01M"
+C;X1;Y240;K"n01M"
 C;X3;K"units\critters\Albatross\Albatross.mdl"
 C;X4;K0
 C;X5;K"Albatross"
@@ -11713,7 +11762,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y240;K"n01N"
+C;X1;Y241;K"n01N"
 C;X3;K"units\critters\Sheep\Sheep.mdl"
 C;X4;K0
 C;X5;K"Sheep"
@@ -11762,7 +11811,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y241;K"n01O"
+C;X1;Y242;K"n01O"
 C;X3;K"units\critters\Sheep\Sheep.mdl"
 C;X4;K0
 C;X5;K"Sheep"
@@ -11811,7 +11860,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y242;K"n01P"
+C;X1;Y243;K"n01P"
 C;X3;K"units\creeps\SpiderCrabCreep\SpiderCrabCreep.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -11860,7 +11909,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y243;K"n01Q"
+C;X1;Y244;K"n01Q"
 C;X3;K"units\creeps\SpiderCrabCreep\SpiderCrabCreep.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -11909,7 +11958,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y244;K"n01R"
+C;X1;Y245;K"n01R"
 C;X3;K"Objects\InventoryItems\Rune\Rune.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -11958,7 +12007,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y245;K"n01S"
+C;X1;Y246;K"n01S"
 C;X3;K"Objects\InventoryItems\Glyph\Glyph.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12007,7 +12056,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y246;K"n01T"
+C;X1;Y247;K"n01T"
 C;X3;K"units\critters\BlackStagMale\BlackStagMale.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12056,7 +12105,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y247;K"n01U"
+C;X1;Y248;K"n01U"
 C;X3;K"units\critters\Frog\Frog.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12105,7 +12154,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y248;K"n01V"
+C;X1;Y249;K"n01V"
 C;X3;K"units\critters\Sheep\Sheep.mdl"
 C;X4;K0
 C;X5;K"Sheep"
@@ -12154,7 +12203,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y249;K"n01W"
+C;X1;Y250;K"n01W"
 C;X3;K"units\critters\Penguin\Penguin.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12203,7 +12252,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y250;K"n01X"
+C;X1;Y251;K"n01X"
 C;X3;K"units\critters\Skink\Skink.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12252,7 +12301,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y251;K"n01Y"
+C;X1;Y252;K"n01Y"
 C;X3;K"buildings\other\ElvenGuardTower\ElvenGuardTower.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12301,7 +12350,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y252;K"n01Z"
+C;X1;Y253;K"n01Z"
 C;X3;K"units\critters\Pig\Pig.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12350,7 +12399,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y253;K"n020"
+C;X1;Y254;K"n020"
 C;X3;K"units\critters\SnowOwl\SnowOwl.mdl"
 C;X4;K0
 C;X5;K"SnowOwl"
@@ -12399,7 +12448,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y254;K"n021"
+C;X1;Y255;K"n021"
 C;X3;K"units\critters\Sheep\Sheep.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12448,7 +12497,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y255;K"n022"
+C;X1;Y256;K"n022"
 C;X3;K"Objects\InventoryItems\Shimmerweed\Shimmerweed.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12497,7 +12546,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y256;K"n023"
+C;X1;Y257;K"n023"
 C;X3;K"Objects\InventoryItems\ThunderLizardEgg\ThunderLizardEgg.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12546,7 +12595,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y257;K"n024"
+C;X1;Y258;K"n024"
 C;X3;K"Objects\InventoryItems\UndeadCaptureFlag\UndeadCaptureFlag.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12595,7 +12644,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y258;K"n025"
+C;X1;Y259;K"n025"
 C;X3;K"buildings\other\FountainOfLife\FountainOfHealth.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12644,7 +12693,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y259;K"n026"
+C;X1;Y260;K"n026"
 C;X3;K"units\undead\Ghoul\Ghoul.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12693,7 +12742,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y260;K"n027"
+C;X1;Y261;K"n027"
 C;X3;K"Doodads\LordaeronSummer\Rocks\Lords_Rock\Lords_Rock0.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12742,7 +12791,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y261;K"n028"
+C;X1;Y262;K"n028"
 C;X3;K"buildings\demon\DemonGate\DemonGate.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -12791,7 +12840,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y262;K"n029"
+C;X1;Y263;K"n029"
 C;X3;K"units\creeps\Gnoll\Gnoll.mdl"
 C;X4;K0
 C;X5;K"Gnoll"
@@ -12840,7 +12889,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y263;K"n02A"
+C;X1;Y264;K"n02A"
 C;X3;K"units\creeps\Gnoll\Gnoll.mdl"
 C;X4;K0
 C;X5;K"Gnoll"
@@ -12889,7 +12938,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y264;K"n02B"
+C;X1;Y265;K"n02B"
 C;X3;K"units\creeps\Gnoll\Gnoll.mdl"
 C;X4;K0
 C;X5;K"Gnoll"
@@ -12938,7 +12987,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y265;K"n02C"
+C;X1;Y266;K"n02C"
 C;X3;K"units\creeps\GnollOverseer\GnollOverseer.mdl"
 C;X4;K0
 C;X5;K"Gnoll"
@@ -12987,7 +13036,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y266;K"n02D"
+C;X1;Y267;K"n02D"
 C;X3;K"units\creeps\GnollArcher\GnollArcher.mdl"
 C;X4;K0
 C;X5;K"GnollArcher"
@@ -13036,7 +13085,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y267;K"n02E"
+C;X1;Y268;K"n02E"
 C;X3;K"units\creeps\GnollArcher\GnollArcher.mdl"
 C;X4;K0
 C;X5;K"GnollArcher"
@@ -13085,7 +13134,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y268;K"n02F"
+C;X1;Y269;K"n02F"
 C;X3;K"units\creeps\GnollWarden\GnollWarden.mdl"
 C;X4;K0
 C;X5;K"GnollKing"
@@ -13134,7 +13183,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y269;K"n02G"
+C;X1;Y270;K"n02G"
 C;X3;K"units\creeps\GnollWarden\GnollWarden.mdl"
 C;X4;K0
 C;X5;K"GnollKing"
@@ -13183,7 +13232,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y270;K"n02H"
+C;X1;Y271;K"n02H"
 C;X3;K"Abilities\Spells\NightElf\EntangleMine\Roots.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -13232,7 +13281,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y271;K"n02R"
+C;X1;Y272;K"n02R"
 C;X3;K"Units\Creeps\DragonSeaTurtleRange\DragonSeaTurtleRange.mdl"
 C;X4;K0
 C;X5;K"BloodElfWorker"
@@ -13281,7 +13330,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y272;K"n02S"
+C;X1;Y273;K"n02S"
 C;X3;K"units\human\HeroMountainKing\HeroMountainKing.mdl"
 C;X4;K0
 C;X5;K"HeroMountainKing"
@@ -13330,7 +13379,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y273;K"n02T"
+C;X1;Y274;K"n02T"
 C;X3;K"units\critters\VillagerMan1\VillagerMan1.mdl"
 C;X4;K0
 C;X5;K"VillagerMan2"
@@ -13379,7 +13428,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y274;K"n02U"
+C;X1;Y275;K"n02U"
 C;X3;K"units\human\Sorceress\Sorceress_V1.mdl"
 C;X4;K0
 C;X5;K"Sorceress"
@@ -13428,7 +13477,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y275;K"n02V"
+C;X1;Y276;K"n02V"
 C;X3;K"buildings\other\Merchant\Merchant.mdl"
 C;X4;K0
 C;X5;K"Nazgrel"
@@ -13477,7 +13526,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y276;K"n02W"
+C;X1;Y277;K"n02W"
 C;X3;K"buildings\human\ArcaneVault\ArcaneVault.mdl"
 C;X4;K0
 C;X5;K"ArcaneVault"
@@ -13526,7 +13575,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y277;K"n02X"
+C;X1;Y278;K"n02X"
 C;X3;K"units\other\DalaranMutant\DalaranMutant.mdl"
 C;X4;K0
 C;X5;K"HeroDemonHunter"
@@ -13575,7 +13624,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y278;K"n030"
+C;X1;Y279;K"n030"
 C;X3;K"units\creeps\CorruptedEnt\CorruptedEnt.mdl"
 C;X4;K0
 C;X5;K"Gnoll"
@@ -13624,7 +13673,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y279;K"n03B"
+C;X1;Y280;K"n03B"
 C;X3;K"Units\Creeps\Hydra\Hydra.mdl"
 C;X4;K0
 C;X5;K"AzureDragon"
@@ -13673,7 +13722,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y280;K"n03C"
+C;X1;Y281;K"n03C"
 C;X3;K"Units\Creeps\Hydra\Hydra.mdl"
 C;X4;K0
 C;X5;K"AzureDragon"
@@ -13722,7 +13771,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y281;K"n03D"
+C;X1;Y282;K"n03D"
 C;X3;K"units\creeps\ForestTroll\ForestTroll.mdl"
 C;X4;K0
 C;X5;K"ForestTroll"
@@ -13771,7 +13820,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y282;K"n03E"
+C;X1;Y283;K"n03E"
 C;X3;K"units\creeps\ForestTroll\ForestTroll.mdl"
 C;X4;K0
 C;X5;K"ForestTroll"
@@ -13820,7 +13869,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y283;K"n03F"
+C;X1;Y284;K"n03F"
 C;X3;K"units\creeps\ForestTrollTrapper\ForestTrollTrapper.mdl"
 C;X4;K0
 C;X5;K"ForestTroll"
@@ -13869,7 +13918,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y284;K"n03G"
+C;X1;Y285;K"n03G"
 C;X3;K"units\creeps\ForestTrollTrapper\ForestTrollTrapper.mdl"
 C;X4;K0
 C;X5;K"ForestTroll"
@@ -13918,7 +13967,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y285;K"n03H"
+C;X1;Y286;K"n03H"
 C;X3;K"units\creeps\ForestTrollShadowPriest\ForestTrollShadowPriest.mdl"
 C;X4;K0
 C;X5;K"ForestTrollShadowPriest"
@@ -13967,7 +14016,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y286;K"n03I"
+C;X1;Y287;K"n03I"
 C;X3;K"units\creeps\ForestTrollShadowPriest\ForestTrollShadowPriest.mdl"
 C;X4;K0
 C;X5;K"ForestTrollShadowPriest"
@@ -14016,7 +14065,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y287;K"n03J"
+C;X1;Y288;K"n03J"
 C;X3;K"units\creeps\ForestTrollShadowPriest\ForestTrollShadowPriest.mdl"
 C;X4;K0
 C;X5;K"ForestTrollShadowPriest"
@@ -14065,7 +14114,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y288;K"n03K"
+C;X1;Y289;K"n03K"
 C;X3;K"units\creeps\ForestTroll\ForestTroll.mdl"
 C;X4;K0
 C;X5;K"ForestTroll"
@@ -14114,7 +14163,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y289;K"n03L"
+C;X1;Y290;K"n03L"
 C;X3;K"units\creeps\ForestTrollTrapper\ForestTrollTrapper.mdl"
 C;X4;K0
 C;X5;K"ForestTroll"
@@ -14163,7 +14212,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y290;K"n03M"
+C;X1;Y291;K"n03M"
 C;X3;K"units\critters\HighElfPeasant\HighElfPeasant"
 C;X4;K0
 C;X5;K"BloodElfEngineer"
@@ -14212,7 +14261,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y291;K"n03W"
+C;X1;Y292;K"n03W"
 C;X3;K"units\critters\ElfVillagerWoman\ElfVillagerWoman.mdl"
 C;X4;K0
 C;X5;K"VillagerWoman"
@@ -14261,7 +14310,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y292;K"n046"
+C;X1;Y293;K"n046"
 C;X3;K"units\creeps\ForestTroll\ForestTroll.mdl"
 C;X4;K0
 C;X5;K"IceTroll"
@@ -14310,7 +14359,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y293;K"n04I"
+C;X1;Y294;K"n04I"
 C;X3;K"units\undead\Acolyte\Acolyte.mdl"
 C;X4;K0
 C;X5;K"Acolyte"
@@ -14359,7 +14408,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y294;K"n055"
+C;X1;Y295;K"n055"
 C;X3;K"units\human\Militia\Militia.mdl"
 C;X4;K0
 C;X5;K"Peasant"
@@ -14408,7 +14457,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y295;K"n056"
+C;X1;Y296;K"n056"
 C;X3;K"units\orc\catapult\catapult.mdl"
 C;X4;K0
 C;X5;K"Catapult"
@@ -14457,7 +14506,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y296;K"n057"
+C;X1;Y297;K"n057"
 C;X3;K"units\critters\VillagerMan\VillagerMan.mdl"
 C;X4;K0
 C;X5;K"Peasant"
@@ -14506,7 +14555,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y297;K"n058"
+C;X1;Y298;K"n058"
 C;X3;K"units\nightelf\DruidoftheTalon\DruidoftheTalon.mdl"
 C;X4;K0
 C;X5;K"DruidOfTheTalon"
@@ -14555,7 +14604,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y298;K"n059"
+C;X1;Y299;K"n059"
 C;X3;K"units\nightelf\MalFurion\MalFurionNoStag.mdl"
 C;X4;K0
 C;X5;K"MalFurion"
@@ -14604,7 +14653,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y299;K"n05A"
+C;X1;Y300;K"n05A"
 C;X3;K"units\critters\EasterRabbit\EasterRabbit.mdl"
 C;X4;K0
 C;X5;K"Rabbit"
@@ -14653,7 +14702,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y300;K"n05B"
+C;X1;Y301;K"n05B"
 C;X3;K"units\human\Priest\Priest_V1.mdl"
 C;X4;K0
 C;X5;K"Priest"
@@ -14702,7 +14751,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y301;K"n05C"
+C;X1;Y302;K"n05C"
 C;X3;K"units\critters\BrownWolf\BrownWolf.mdl"
 C;X4;K0
 C;X5;K"MalFurion"
@@ -14751,7 +14800,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y302;K"n05D"
+C;X1;Y303;K"n05D"
 C;X3;K"buildings\nightelf\AncientOfWind\AncientOfWind.mdl"
 C;X4;K0
 C;X5;K"MalFurion"
@@ -14800,7 +14849,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y303;K"n05E"
+C;X1;Y304;K"n05E"
 C;X3;K"units\nightelf\SpiritOfVengeance\SpiritOfVengeance.mdl"
 C;X4;K0
 C;X5;K"Vengeance"
@@ -14849,7 +14898,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y304;K"n05F"
+C;X1;Y305;K"n05F"
 C;X3;K"units\human\TheCaptain\TheCaptain.mdl"
 C;X4;K0
 C;X5;K"Captain"
@@ -14898,7 +14947,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y305;K"n05G"
+C;X1;Y306;K"n05G"
 C;X3;K"doodads\northrend\water\Battleship\Battleship"
 C;X4;K0
 C;X5;K
@@ -14947,7 +14996,7 @@ C;X47;K200
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y306;K"n05H"
+C;X1;Y307;K"n05H"
 C;X3;K"units\undead\Skeleton\Skeleton.mdl"
 C;X4;K0
 C;X5;K"Ghoul"
@@ -14996,7 +15045,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y307;K"n05I"
+C;X1;Y308;K"n05I"
 C;X3;K"units\human\MortarTeam\MortarTeam.mdl"
 C;X4;K0
 C;X5;K"MortarTeam"
@@ -15045,7 +15094,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y308;K"n05J"
+C;X1;Y309;K"n05J"
 C;X3;K"units\human\Rifleman\Rifleman.mdl"
 C;X4;K0
 C;X5;K"Rifleman"
@@ -15094,7 +15143,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y309;K"n05K"
+C;X1;Y310;K"n05K"
 C;X3;K"units\nightelf\MountainGiant\MountainGiant.mdl"
 C;X4;K0
 C;X5;K"MountainGiant"
@@ -15143,7 +15192,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y310;K"n05L"
+C;X1;Y311;K"n05L"
 C;X3;K"buildings\human\Blacksmith\Blacksmith.mdl"
 C;X4;K0
 C;X5;K"Blacksmith"
@@ -15192,7 +15241,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y311;K"n05M"
+C;X1;Y312;K"n05M"
 C;X3;K"units\human\HeroMountainKing\HeroMountainKing.mdl"
 C;X4;K0
 C;X5;K"HeroMountainKing"
@@ -15241,7 +15290,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y312;K"n05N"
+C;X1;Y313;K"n05N"
 C;X3;K"units\human\Gyrocopter\Gyrocopter_V1.mdl"
 C;X4;K0
 C;X5;K"Gyrocopter"
@@ -15290,7 +15339,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y313;K"n05O"
+C;X1;Y314;K"n05O"
 C;X3;K"units\creeps\GolemStatue\GolemStatue.mdl"
 C;X4;K0
 C;X5;K"RockGolem"
@@ -15339,7 +15388,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y314;K"n05P"
+C;X1;Y315;K"n05P"
 C;X3;K"units\human\Rifleman\Rifleman.mdl"
 C;X4;K0
 C;X5;K"Rifleman"
@@ -15388,7 +15437,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y315;K"n05Q"
+C;X1;Y316;K"n05Q"
 C;X3;K"Doodads\Dungeon\Props\AzsharaStatue\AzsharaStatue.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -15437,7 +15486,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y316;K"nC03"
+C;X1;Y317;K"nC03"
 C;X3;K"units\orc\Peon\Peon.mdl"
 C;X4;K0
 C;X5;K"Peon"
@@ -15486,7 +15535,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y317;K"nC17"
+C;X1;Y318;K"nC17"
 C;X3;K"units\orc\WyvernRider\WyvernRider.mdl"
 C;X4;K0
 C;X5;K"AzureDragon"
@@ -15535,7 +15584,7 @@ C;X47;K70
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y318;K"nC29"
+C;X1;Y319;K"nC29"
 C;X3;K"units\orc\spiritwalker\spiritwalker.mdl"
 C;X4;K2
 C;X5;K"Murloc"
@@ -15584,7 +15633,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y319;K"nC30"
+C;X1;Y320;K"nC30"
 C;X3;K"Units\Creeps\Lobstrokkred\Lobstrokkred.mdl"
 C;X4;K0
 C;X5;K"IceTrollShadowPriest"
@@ -15633,7 +15682,7 @@ C;X47;K45
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y320;K"nC33"
+C;X1;Y321;K"nC33"
 C;X3;K"units\creeps\InfernalCannonFlame\InfernalCannonFlame.mdl"
 C;X4;K0
 C;X5;K"Gyrocopter"
@@ -15682,7 +15731,7 @@ C;X47;K40
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y321;K"nC39"
+C;X1;Y322;K"nC39"
 C;X3;K"units\creeps\ThunderLizardSalamander\ThunderLizardSalamander.mdl"
 C;X4;K0
 C;X5;K"KotoBeastNoRider"
@@ -15731,7 +15780,7 @@ C;X47;K120
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y322;K"nC40"
+C;X1;Y323;K"nC40"
 C;X3;K"units\nightelf\Dryad\Dryad.mdl"
 C;X4;K2
 C;X5;K"Felhound"
@@ -15780,7 +15829,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y323;K"nC41"
+C;X1;Y324;K"nC41"
 C;X3;K"units\creeps\AzureDragon\AzureDragon"
 C;X4;K0
 C;X5;K"AzureDragon"
@@ -15829,7 +15878,7 @@ C;X47;K100
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y324;K"nC42"
+C;X1;Y325;K"nC42"
 C;X3;K"units\naga\NagaMyrmidon\NagaMyrmidon.mdl"
 C;X4;K0
 C;X5;K"RockGolem"
@@ -15878,7 +15927,7 @@ C;X47;K95
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y325;K"nC49"
+C;X1;Y326;K"nC49"
 C;X3;K"units\orc\HeroShadowHunter\HeroShadowHunter.mdl"
 C;X4;K0
 C;X5;K"HeroArchMage"
@@ -15927,7 +15976,7 @@ C;X47;K75
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y326;K"nC50"
+C;X1;Y327;K"nC50"
 C;X3;K"units\creeps\satyrhellcaller\satyrhellcaller.mdl"
 C;X4;K0
 C;X5;K"Infernal"
@@ -15976,7 +16025,7 @@ C;X47;K100
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y327;K"nC51"
+C;X1;Y328;K"nC51"
 C;X3;K"units\undead\FrostWyrm\FrostWyrm.mdl"
 C;X4;K0
 C;X5;K"AzureDragon"
@@ -16025,7 +16074,7 @@ C;X47;K100
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y328;K"nC69"
+C;X1;Y329;K"nC69"
 C;X3;K"units\creeps\GolemStatue\GolemStatue.mdl"
 C;X4;K0
 C;X5;K"Furbolg"
@@ -16074,7 +16123,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y329;K"o000"
+C;X1;Y330;K"o000"
 C;X3;K"units\human\phoenix\phoenix.mdl"
 C;X4;K0
 C;X5;K"Phoenix"
@@ -16123,7 +16172,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y330;K"o001"
+C;X1;Y331;K"o001"
 C;X3;K"units\creeps\OgreOneHeadedArmored\OgreOneHeadedArmored.mdl"
 C;X4;K0
 C;X5;K"OgreOneHead"
@@ -16172,7 +16221,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y331;K"o002"
+C;X1;Y332;K"o002"
 C;X3;K"units\orc\Spiritwolf\Spiritwolf"
 C;X4;K0
 C;X5;K"SpiritWolf"
@@ -16221,7 +16270,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y332;K"o003"
+C;X1;Y333;K"o003"
 C;X3;K"units\demon\ChaosGrunt\ChaosGrunt.mdl"
 C;X4;K0
 C;X5;K"ChaosGrunt"
@@ -16270,7 +16319,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y333;K"o004"
+C;X1;Y334;K"o004"
 C;X3;K"units\demon\ChaosWolfRider\ChaosWolfRider.mdl"
 C;X4;K0
 C;X5;K"Wolfrider"
@@ -16319,7 +16368,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y334;K"o005"
+C;X1;Y335;K"o005"
 C;X3;K"units\demon\ChaosWarlock\ChaosWarlock.mdl"
 C;X4;K0
 C;X5;K"ShamanX"
@@ -16368,7 +16417,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y335;K"o006"
+C;X1;Y336;K"o006"
 C;X3;K"units\demon\ChaosKotoBeast\ChaosKotoBeast.mdl"
 C;X4;K0
 C;X5;K"KotoBeast"
@@ -16417,7 +16466,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y336;K"o007"
+C;X1;Y337;K"o007"
 C;X3;K"units\demon\FelgaurdBlue\FelgaurdBlue.mdl"
 C;X4;K0
 C;X5;K"ChaosWarlord"
@@ -16466,7 +16515,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y337;K"o008"
+C;X1;Y338;K"o008"
 C;X3;K"units\demon\ChaosHellscream\ChaosHellscream.mdl"
 C;X4;K0
 C;X5;K"Grom"
@@ -16515,7 +16564,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y338;K"o009"
+C;X1;Y339;K"o009"
 C;X3;K"units\other\BloodElfLieutenant\BloodElfLieutenant.mdl"
 C;X4;K0
 C;X5;K"HighElfSwordsman"
@@ -16564,7 +16613,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y339;K"o00A"
+C;X1;Y340;K"o00A"
 C;X3;K"units\creeps\HighElfArcher\HighElfArcher.mdl"
 C;X4;K0
 C;X5;K"Archer"
@@ -16613,7 +16662,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y340;K"o00B"
+C;X1;Y341;K"o00B"
 C;X3;K"units\human\Sorceress\Sorceress_V1.mdl"
 C;X4;K0
 C;X5;K"Sorceress"
@@ -16662,7 +16711,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y341;K"o00C"
+C;X1;Y342;K"o00C"
 C;X3;K"units\human\TheCaptain\TheCaptain.mdl"
 C;X4;K0
 C;X5;K"Captain"
@@ -16711,7 +16760,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y342;K"o00D"
+C;X1;Y343;K"o00D"
 C;X3;K"units\creeps\SylvanusWindrunner\SylvanusWindrunner.mdl"
 C;X4;K0
 C;X5;K"Sylvanus"
@@ -16760,7 +16809,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y343;K"o00E"
+C;X1;Y344;K"o00E"
 C;X3;K"units\orc\HeadHunter\HeadHunter_V1.mdl"
 C;X4;K0
 C;X5;K"HeadHunter"
@@ -16809,7 +16858,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y344;K"o00F"
+C;X1;Y345;K"o00F"
 C;X3;K"units\creeps\RedDragonWelp\RedDragonWelp.mdl"
 C;X4;K0
 C;X5;K"FaerieDragon"
@@ -16858,7 +16907,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y345;K"o00G"
+C;X1;Y346;K"o00G"
 C;X3;K"units\other\FleshGolem\FleshGolem.mdl"
 C;X4;K0
 C;X5;K"abomination"
@@ -16907,7 +16956,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y346;K"o00H"
+C;X1;Y347;K"o00H"
 C;X3;K"units\orc\SerpentWard\SerpentWard"
 C;X4;K0
 C;X5;K
@@ -16956,7 +17005,7 @@ C;X47;K25
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y347;K"o00I"
+C;X1;Y348;K"o00I"
 C;X3;K"units\creeps\BlackDragonWelp\BlackDragonWelp.mdl"
 C;X4;K0
 C;X5;K"FaerieDragon"
@@ -17005,7 +17054,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y348;K"o00J"
+C;X1;Y349;K"o00J"
 C;X3;K"units\creeps\AzureDragonWelp\AzureDragonWelp.mdl"
 C;X4;K0
 C;X5;K"FaerieDragon"
@@ -17054,7 +17103,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y349;K"o00L"
+C;X1;Y350;K"o00L"
 C;X3;K"units\demon\Mannoroth\Mannoroth.mdl"
 C;X4;K0
 C;X5;K"PitLord"
@@ -17103,7 +17152,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y350;K"o00M"
+C;X1;Y351;K"o00M"
 C;X3;K"units\creeps\BronzeDragonWelp\BronzeDragonWelp.mdl"
 C;X4;K0
 C;X5;K"FaerieDragon"
@@ -17152,7 +17201,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y351;K"o00N"
+C;X1;Y352;K"o00N"
 C;X3;K"units\human\Kael\Kael.mdl"
 C;X4;K0
 C;X5;K"Kael"
@@ -17201,7 +17250,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y352;K"o00O"
+C;X1;Y353;K"o00O"
 C;X3;K"units\creeps\GreenDragonWelp\GreenDragonWelp.mdl"
 C;X4;K0
 C;X5;K"FaerieDragon"
@@ -17250,7 +17299,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y353;K"o00P"
+C;X1;Y354;K"o00P"
 C;X3;K"Units\Other\Rexxar\Rexxar.mdl"
 C;X4;K0
 C;X5;K"Beastmaster"
@@ -17299,7 +17348,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y354;K"o00Q"
+C;X1;Y355;K"o00Q"
 C;X3;K"units\human\BloodElfSpellThief\BloodElfSpellThief.mdl"
 C;X4;K0
 C;X5;K"SpellBreaker"
@@ -17348,7 +17397,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y355;K"o00R"
+C;X1;Y356;K"o00R"
 C;X3;K"buildings\undead\BoneYard\BoneYard.mdl"
 C;X4;K0
 C;X5;K"Boneyard"
@@ -17397,7 +17446,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y356;K"o00S"
+C;X1;Y357;K"o00S"
 C;X3;K"units\orc\HeroTaurenChieftain\HeroTaurenChieftain.mdl"
 C;X4;K0
 C;X5;K"HeroTaurenChieftain"
@@ -17446,7 +17495,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y357;K"o00U"
+C;X1;Y358;K"o00U"
 C;X3;K"units\human\phoenix\phoenix.mdl"
 C;X4;K0
 C;X5;K"Phoenix"
@@ -17495,7 +17544,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y358;K"o00X"
+C;X1;Y359;K"o00X"
 C;X3;K"buildings\nightelf\AncientProtector\AncientProtector.mdl"
 C;X4;K0
 C;X5;K"AncientProtector"
@@ -17544,7 +17593,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y359;K"o00Y"
+C;X1;Y360;K"o00Y"
 C;X3;K"Units\Creeps\SeaGiant\SeaGiant.mdl"
 C;X4;K0
 C;X5;K"SeaGiant"
@@ -17593,7 +17642,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y360;K"o00Z"
+C;X1;Y361;K"o00Z"
 C;X3;K"units\nightelf\Ballista\Ballista_V1.mdl"
 C;X4;K0
 C;X5;K"Ballista"
@@ -17642,7 +17691,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y361;K"o010"
+C;X1;Y362;K"o010"
 C;X3;K"units\creeps\RedDragon\RedDragon.mdl"
 C;X4;K0
 C;X5;K"FrostWyrm"
@@ -17691,7 +17740,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y362;K"o011"
+C;X1;Y363;K"o011"
 C;X3;K"units\creeps\NetherDragon\NetherDragon.mdl"
 C;X4;K0
 C;X5;K"NetherDragon"
@@ -17740,7 +17789,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y363;K"o012"
+C;X1;Y364;K"o012"
 C;X3;K"buildings\other\SacrificialAltar\SacrificialAltar.mdl"
 C;X4;K0
 C;X5;K"SacrificialAltar"
@@ -17789,7 +17838,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y364;K"o013"
+C;X1;Y365;K"o013"
 C;X3;K"buildings\other\FountainOfLifeBlood\FountainOfLifeBlood.mdl"
 C;X4;K0
 C;X5;K"SpawningGrounds"
@@ -17838,7 +17887,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y365;K"o015"
+C;X1;Y366;K"o015"
 C;X3;K"units\creeps\Revenant\Revenant.mdl"
 C;X4;K0
 C;X5;K"Revenant"
@@ -17887,7 +17936,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y366;K"o016"
+C;X1;Y367;K"o016"
 C;X3;K"units\creeps\InfernalCannonCannon\InfernalCannonCannon.mdl"
 C;X4;K0
 C;X5;K"InfernalMachine"
@@ -17936,7 +17985,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y367;K"o017"
+C;X1;Y368;K"o017"
 C;X3;K"units\other\Dranai\Dranai.mdl"
 C;X4;K0
 C;X5;K"Priest"
@@ -17985,7 +18034,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y368;K"o018"
+C;X1;Y369;K"o018"
 C;X3;K"units\creeps\BlackDragon\BlackDragon.mdl"
 C;X4;K0
 C;X5;K"FrostWyrm"
@@ -18034,7 +18083,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y369;K"o019"
+C;X1;Y370;K"o019"
 C;X3;K"units\creeps\SpiderBlack\SpiderBlack.mdl"
 C;X4;K0
 C;X5;K"SnapDragon"
@@ -18083,7 +18132,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y370;K"o01A"
+C;X1;Y371;K"o01A"
 C;X3;K"units\creeps\SpiderBlue\SpiderBlue.mdl"
 C;X4;K0
 C;X5;K"Arachnathid"
@@ -18132,7 +18181,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y371;K"o01B"
+C;X1;Y372;K"o01B"
 C;X3;K"units\demon\HeroChaosBladeMaster\HeroChaosBladeMaster.mdl"
 C;X4;K0
 C;X5;K"HeroBladeMaster"
@@ -18181,7 +18230,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y372;K"o01C"
+C;X1;Y373;K"o01C"
 C;X3;K"units\orc\Grunt\Grunt"
 C;X4;K0
 C;X5;K"Grunt"
@@ -18230,7 +18279,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y373;K"o01D"
+C;X1;Y374;K"o01D"
 C;X3;K"units\creeps\AzureDragon\AzureDragon.mdl"
 C;X4;K0
 C;X5;K"FrostWyrm"
@@ -18279,7 +18328,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y374;K"o01E"
+C;X1;Y375;K"o01E"
 C;X3;K"units\orc\Spiritwolf\Spiritwolf"
 C;X4;K0
 C;X5;K"SpiritWolf"
@@ -18328,7 +18377,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y375;K"o01F"
+C;X1;Y376;K"o01F"
 C;X3;K"units\creeps\BronzeDragon\BronzeDragon.mdl"
 C;X4;K0
 C;X5;K"FrostWyrm"
@@ -18377,7 +18426,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y376;K"o01G"
+C;X1;Y377;K"o01G"
 C;X3;K"units\creeps\GreenDragon\GreenDragon.mdl"
 C;X4;K0
 C;X5;K"FrostWyrm"
@@ -18426,7 +18475,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y377;K"o01H"
+C;X1;Y378;K"o01H"
 C;X3;K"units\creeps\RedDragon\RedDragon.mdl"
 C;X4;K0
 C;X5;K"Furion"
@@ -18475,7 +18524,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y378;K"o01I"
+C;X1;Y379;K"o01I"
 C;X3;K"units\creeps\BlackDragon\BlackDragon.mdl"
 C;X4;K0
 C;X5;K"HeroDemonHunter"
@@ -18524,7 +18573,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y379;K"o01J"
+C;X1;Y380;K"o01J"
 C;X3;K"units\creeps\AzureDragon\AzureDragon.mdl"
 C;X4;K0
 C;X5;K"HeroTaurenChieftain"
@@ -18573,7 +18622,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y380;K"o01K"
+C;X1;Y381;K"o01K"
 C;X3;K"units\creeps\BronzeDragon\BronzeDragon.mdl"
 C;X4;K0
 C;X5;K"Jaina"
@@ -18622,7 +18671,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y381;K"o01L"
+C;X1;Y382;K"o01L"
 C;X3;K"units\creeps\GreenDragon\GreenDragon.mdl"
 C;X4;K0
 C;X5;K"Maiev"
@@ -18671,7 +18720,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y382;K"o01M"
+C;X1;Y383;K"o01M"
 C;X3;K"units\creeps\GoblinSapper\GoblinSapper.mdl"
 C;X4;K0
 C;X5;K"GoblinSapper"
@@ -18720,7 +18769,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y383;K"o01N"
+C;X1;Y384;K"o01N"
 C;X3;K"units\creeps\IronGolem\IronGolem.mdl"
 C;X4;K0
 C;X5;K"BloodElfWorker"
@@ -18769,7 +18818,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y384;K"o01O"
+C;X1;Y385;K"o01O"
 C;X3;K"Units\Creeps\HeroGoblinAlchemist\HeroGoblinAlchemist.mdl"
 C;X4;K0
 C;X5;K"HEROGoblinALCHEMIST"
@@ -18818,7 +18867,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y385;K"o01P"
+C;X1;Y386;K"o01P"
 C;X3;K"units\orc\Hellscream\Hellscream.mdl"
 C;X4;K0
 C;X5;K"Grom"
@@ -18867,7 +18916,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y386;K"o01Q"
+C;X1;Y387;K"o01Q"
 C;X3;K"units\orc\Hellscream\Hellscream.mdl"
 C;X4;K0
 C;X5;K"Grom"
@@ -18916,7 +18965,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y387;K"o01R"
+C;X1;Y388;K"o01R"
 C;X3;K"Units\Critters\OrcJuggernaught\OrcJuggernaught.mdl"
 C;X4;K0
 C;X5;K"GoblinZeppelin"
@@ -18965,7 +19014,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y388;K"o01S"
+C;X1;Y389;K"o01S"
 C;X3;K"Units\Creeps\HeroTinker\HeroTinker.mdl"
 C;X4;K0
 C;X5;K"HeroTinker"
@@ -19014,7 +19063,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y389;K"oC14"
+C;X1;Y390;K"oC14"
 C;X3;K"units\creeps\Sasquatch\Sasquatch.mdl"
 C;X4;K0
 C;X5;K"Wendigo"
@@ -19063,7 +19112,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y390;K"oC18"
+C;X1;Y391;K"oC18"
 C;X3;K"units\undead\Gargoyle\Gargoyle.mdl"
 C;X4;K0
 C;X5;K"Gargoyle"
@@ -19112,7 +19161,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y391;K"oC19"
+C;X1;Y392;K"oC19"
 C;X3;K"units\orc\HeadHunter\HeadHunter_V1.mdl"
 C;X4;K0
 C;X5;K"HeadHunter"
@@ -19161,7 +19210,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y392;K"oC22"
+C;X1;Y393;K"oC22"
 C;X3;K"units\undead\Acolyte\Acolyte.mdl"
 C;X4;K0
 C;X5;K"Acolyte"
@@ -19210,7 +19259,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y393;K"oC26"
+C;X1;Y394;K"oC26"
 C;X3;K"units\creeps\GolemStatue\GolemStatue.mdl"
 C;X4;K0
 C;X5;K"IronGolem"
@@ -19259,7 +19308,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y394;K"oC31"
+C;X1;Y395;K"oC31"
 C;X3;K"units\other\DalaranMutant\DalaranMutant.mdl"
 C;X4;K0
 C;X5;K"WolfRider"
@@ -19308,7 +19357,7 @@ C;X47;K75
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y395;K"oC35"
+C;X1;Y396;K"oC35"
 C;X3;K"units\creeps\Ogre\Ogre.mdl"
 C;X4;K0
 C;X5;K"Ogre"
@@ -19357,7 +19406,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y396;K"oC47"
+C;X1;Y397;K"oC47"
 C;X3;K"units\human\WarWagon\WarWagon_V1.mdl"
 C;X4;K0
 C;X5;K"Tauren"
@@ -19406,7 +19455,7 @@ C;X47;K80
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y397;K"oC56"
+C;X1;Y398;K"oC56"
 C;X3;K"units\undead\MeatWagon\MeatWagon.mdl"
 C;X4;K0
 C;X5;K"Meatwagon"
@@ -19455,7 +19504,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y398;K"oC58"
+C;X1;Y399;K"oC58"
 C;X3;K"units\orc\HeroBladeMaster\HeroBladeMaster.mdl"
 C;X4;K0
 C;X5;K"HeroBladeMaster"
@@ -19504,7 +19553,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y399;K"oC60"
+C;X1;Y400;K"oC60"
 C;X3;K"units\orc\RiderlessWyvern\RiderlessWyvern.mdl"
 C;X4;K0
 C;X5;K"WingedSerpent"
@@ -19553,7 +19602,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y400;K"oC61"
+C;X1;Y401;K"oC61"
 C;X3;K"units\naga\NagaMyrmidon\NagaMyrmidon.mdl"
 C;X4;K0
 C;X5;K"NagaMyrmidon"
@@ -19602,7 +19651,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y401;K"oC64"
+C;X1;Y402;K"oC64"
 C;X3;K"units\orc\Tauren\Tauren.mdl"
 C;X4;K0
 C;X5;K"Tauren"
@@ -19651,7 +19700,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y402;K"oC65"
+C;X1;Y403;K"oC65"
 C;X3;K"units\orc\Thrall\Thrall.mdl"
 C;X4;K0
 C;X5;K"Thrall"
@@ -19700,7 +19749,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y403;K"oC67"
+C;X1;Y404;K"oC67"
 C;X3;K"units\creeps\OgreLord\OgreLord.mdl"
 C;X4;K0
 C;X5;K"Ogre"
@@ -19749,7 +19798,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y404;K"oC68"
+C;X1;Y405;K"oC68"
 C;X3;K"units\nightelf\Chimaera\Chimaera.mdl"
 C;X4;K0
 C;X5;K"Chimaera"
@@ -19798,7 +19847,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y405;K"oC70"
+C;X1;Y406;K"oC70"
 C;X3;K"Units\Creeps\HeroFlameLord\HeroFlameLord.mdl"
 C;X4;K0
 C;X5;K"HeroTaurenChieftain"
@@ -19847,7 +19896,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y406;K"oC73"
+C;X1;Y407;K"oC73"
 C;X3;K"units\undead\ObsidianStatue\ObsidianStatue.mdl"
 C;X4;K0
 C;X5;K"ObsidianStatue"
@@ -19896,7 +19945,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y407;K"oC74"
+C;X1;Y408;K"oC74"
 C;X3;K"units\critters\DuneWorm\DuneWorm.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -19945,7 +19994,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y408;K"u000"
+C;X1;Y409;K"u000"
 C;X3;K"units\demon\Warlock\Warlock.mdl"
 C;X4;K0
 C;X5;K"HeroDreadLord"
@@ -19994,7 +20043,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y409;K"u001"
+C;X1;Y410;K"u001"
 C;X3;K"units\demon\ChaosPeon\ChaosPeon.mdl"
 C;X4;K0
 C;X5;K"Peon"
@@ -20043,7 +20092,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y410;K"u002"
+C;X1;Y411;K"u002"
 C;X3;K"Units\critters\Bloodelfpeasant\BloodElfpeasant.mdl"
 C;X4;K0
 C;X5;K"BloodElfEngineer"
@@ -20092,7 +20141,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y411;K"u003"
+C;X1;Y412;K"u003"
 C;X3;K"Abilities\Spells\Undead\Curse\CurseTarget.mdl"
 C;X4;K0
 C;X5;K"Shade"
@@ -20141,7 +20190,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y412;K"u004"
+C;X1;Y413;K"u004"
 C;X3;K"Abilities\Spells\Undead\Web\WebTarget.mdl"
 C;X4;K0
 C;X5;K
@@ -20190,7 +20239,7 @@ C;X47;K17
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y413;K"u005"
+C;X1;Y414;K"u005"
 C;X3;K"units\nightelf\Ent\Ent.mdl"
 C;X4;K0
 C;X5;K"Ent"
@@ -20239,7 +20288,7 @@ C;X47;K17
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y414;K"u006"
+C;X1;Y415;K"u006"
 C;X3;K"units\nightelf\Wisp\Wisp.mdl"
 C;X4;K0
 C;X5;K"Shade"
@@ -20288,7 +20337,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y415;K"u007"
+C;X1;Y416;K"u007"
 C;X3;K"units\undead\PlagueCloud\PlagueCloud"
 C;X4;K0
 C;X5;K"PlagueCloud"
@@ -20337,7 +20386,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y416;K"u008"
+C;X1;Y417;K"u008"
 C;X3;K"Doodads\Terrain\LOSBlocker\IntentionallyLeftBlank.mdl"
 C;X4;K0
 C;X5;K"Shade"
@@ -20386,7 +20435,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y417;K"u009"
+C;X1;Y418;K"u009"
 C;X3;K"Objects\InventoryItems\Shimmerweed\Shimmerweed.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -20435,7 +20484,7 @@ C;X47;K0
 C;X48;K0
 C;X49;K0
 C;X50;K0
-C;X1;Y418;K"u00A"
+C;X1;Y419;K"u00A"
 C;X3;K"units\nightelf\Wisp\Wisp.mdl"
 C;X4;K0
 C;X5;K
@@ -20484,7 +20533,7 @@ C;X47;K17
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y419;K"u00B"
+C;X1;Y420;K"u00B"
 C;X3;K"Units\Creeps\DragonSpawnBlue\DragonSpawnBlue.mdl"
 C;X4;K0
 C;X5;K"HeroMoonPriestess"
@@ -20533,7 +20582,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y420;K"u00C"
+C;X1;Y421;K"u00C"
 C;X3;K"Units\Undead\Skeleton\Skeleton.mdl"
 C;X4;K0
 C;X5;K"Ziggurat"
@@ -20582,7 +20631,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y421;K"u00D"
+C;X1;Y422;K"u00D"
 C;X3;K"Units\Undead\Necromancer\Necromancer.mdl"
 C;X4;K0
 C;X5;K"Necromancer"
@@ -20631,7 +20680,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y422;K"u00E"
+C;X1;Y423;K"u00E"
 C;X3;K"units\undead\Abomination\Abomination.mdl"
 C;X4;K0
 C;X5;K"Abomination"
@@ -20680,7 +20729,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y423;K"u00F"
+C;X1;Y424;K"u00F"
 C;X3;K"Buildings\Undead\GargoyleSpire\GargoyleSpire.mdl"
 C;X4;K0
 C;X5;K"Gargoyle"
@@ -20729,7 +20778,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y424;K"u010"
+C;X1;Y425;K"u010"
 C;X3;K"Units\Undead\Banshee\Banshee.mdl"
 C;X4;K0
 C;X5;K"Banshee"
@@ -20778,7 +20827,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y425;K"u011"
+C;X1;Y426;K"u011"
 C;X3;K"Units\Undead\ObsidianStatue\ObsidianStatue.mdl"
 C;X4;K0
 C;X5;K"ObsidianDestroyer"
@@ -20827,7 +20876,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y426;K"u012"
+C;X1;Y427;K"u012"
 C;X3;K"Units\Undead\Tichondrius\Tichondrius.mdl"
 C;X4;K0
 C;X5;K"Varimathras"
@@ -20876,7 +20925,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y427;K"u013"
+C;X1;Y428;K"u013"
 C;X3;K"Units\Undead\EvilSylvanas\EvilSylvanas.mdl"
 C;X4;K0
 C;X5;K"EvilSylvanas"
@@ -20925,7 +20974,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y428;K"u014"
+C;X1;Y429;K"u014"
 C;X3;K"units\undead\Skeleton\Skeleton.mdl"
 C;X4;K0
 C;X5;K"Skeleton"
@@ -20974,7 +21023,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y429;K"u015"
+C;X1;Y430;K"u015"
 C;X3;K"units\creeps\SkeletonArcher\SkeletonArcher.mdl"
 C;X4;K0
 C;X5;K"Skeleton"
@@ -21023,7 +21072,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y430;K"u016"
+C;X1;Y431;K"u016"
 C;X3;K"units\undead\Ghoul\Ghoul.mdl"
 C;X4;K0
 C;X5;K"Skeleton"
@@ -21072,7 +21121,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y431;K"u017"
+C;X1;Y432;K"u017"
 C;X3;K"units\demon\DoomGuard\DoomGuard.mdl"
 C;X4;K0
 C;X5;K"DoomGuard"
@@ -21121,7 +21170,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y432;K"u018"
+C;X1;Y433;K"u018"
 C;X3;K"units\undead\SkeletonMage\SkeletonMage.mdl"
 C;X4;K0
 C;X5;K"Skeleton"
@@ -21170,7 +21219,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y433;K"u019"
+C;X1;Y434;K"u019"
 C;X3;K"units\undead\HeroDeathKnight\HeroDeathKnight.mdl"
 C;X4;K0
 C;X5;K"HeroDeathKnight"
@@ -21219,7 +21268,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y434;K"u01A"
+C;X1;Y435;K"u01A"
 C;X3;K"units\undead\Gargoyle\Gargoyle.mdl"
 C;X4;K0
 C;X5;K"Gargoyle"
@@ -21268,7 +21317,7 @@ C;X47;K17
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y435;K"u01B"
+C;X1;Y436;K"u01B"
 C;X3;K"units\demon\ChaosPeon\ChaosPeon.mdl"
 C;X4;K0
 C;X5;K"Shaman"
@@ -21317,7 +21366,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y436;K"u01C"
+C;X1;Y437;K"u01C"
 C;X3;K"units\demon\HeroPitLord\HeroPitLord.mdl"
 C;X4;K0
 C;X5;K"HeroPitLord"
@@ -21366,7 +21415,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y437;K"u01D"
+C;X1;Y438;K"u01D"
 C;X3;K"Units\Human\Phoenix\PhoenixEgg.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21415,7 +21464,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y438;K"u01E"
+C;X1;Y439;K"u01E"
 C;X3;K"buildings\other\GranaryInfected\GranaryInfected.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21464,7 +21513,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y439;K"u01F"
+C;X1;Y440;K"u01F"
 C;X3;K"buildings\naga\CoralBed\CoralBed.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21513,7 +21562,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y440;K"u020"
+C;X1;Y441;K"u020"
 C;X3;K"units\critters\Rat\Rat.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21562,7 +21611,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y441;K"u021"
+C;X1;Y442;K"u021"
 C;X3;K"Doodads\Felwood\Plants\FelwoodBush\FelwoodBush0.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21611,7 +21660,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y442;K"u022"
+C;X1;Y443;K"u022"
 C;X3;K"Abilities\Spells\Other\Tornado\TornadoElementalSmall.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21660,7 +21709,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y443;K"u023"
+C;X1;Y444;K"u023"
 C;X3;K"Doodads\Ruins\Rocks\Ruins_Rock\Ruins_Rock9.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21709,7 +21758,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y444;K"u024"
+C;X1;Y445;K"u024"
 C;X3;K"buildings\orc\AltarofStorms\AltarofStorms.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21758,7 +21807,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y445;K"u025"
+C;X1;Y446;K"u025"
 C;X3;K"buildings\other\DragonBuilding\DragonBuilding.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21807,7 +21856,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y446;K"u026"
+C;X1;Y447;K"u026"
 C;X3;K"buildings\naga\TidalGuardian\TidalGuardian.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21856,7 +21905,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y447;K"u027"
+C;X1;Y448;K"u027"
 C;X3;K"Units\Creeps\LavaSpawn\LavaSpawn.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21905,7 +21954,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y448;K"u028"
+C;X1;Y449;K"u028"
 C;X3;K"units\creeps\HumanTransportShip\HumanTransportShip.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -21954,7 +22003,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y449;K"u029"
+C;X1;Y450;K"u029"
 C;X3;K"buildings\naga\CoralBed\CoralBed.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22003,7 +22052,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y450;K"u02A"
+C;X1;Y451;K"u02A"
 C;X3;K"Objects\InventoryItems\UndeadCaptureFlag\UndeadCaptureFlag.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22052,7 +22101,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y451;K"u02B"
+C;X1;Y452;K"u02B"
 C;X3;K"Objects\InventoryItems\UndeadCaptureFlag\UndeadCaptureFlag.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22101,7 +22150,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y452;K"u02C"
+C;X1;Y453;K"u02C"
 C;X3;K"buildings\other\FountainOfLife\FountainOfHealth.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22150,7 +22199,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y453;K"u02D"
+C;X1;Y454;K"u02D"
 C;X3;K"buildings\other\FountainOfLife\FountainOfHealth.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22199,7 +22248,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y454;K"u02E"
+C;X1;Y455;K"u02E"
 C;X3;K"Objects\InventoryItems\Shimmerweed\Shimmerweed.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22248,7 +22297,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y455;K"u02F"
+C;X1;Y456;K"u02F"
 C;X3;K"Objects\InventoryItems\Shimmerweed\Shimmerweed.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22297,7 +22346,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y456;K"u030"
+C;X1;Y457;K"u030"
 C;X3;K"Objects\InventoryItems\Glyph\Glyph.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22346,7 +22395,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y457;K"u031"
+C;X1;Y458;K"u031"
 C;X3;K"Objects\InventoryItems\Glyph\Glyph.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22395,7 +22444,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y458;K"u032"
+C;X1;Y459;K"u032"
 C;X3;K"Objects\InventoryItems\ThunderLizardEgg\ThunderLizardEgg.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22444,7 +22493,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y459;K"u033"
+C;X1;Y460;K"u033"
 C;X3;K"Objects\InventoryItems\ThunderLizardEgg\ThunderLizardEgg.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22493,7 +22542,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y460;K"u034"
+C;X1;Y461;K"u034"
 C;X3;K"Objects\InventoryItems\Rune\Rune.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22542,7 +22591,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y461;K"u035"
+C;X1;Y462;K"u035"
 C;X3;K"Objects\InventoryItems\Rune\Rune.mdl"
 C;X4;K0
 C;X5;K"-"
@@ -22591,7 +22640,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y462;K"u036"
+C;X1;Y463;K"u036"
 C;X3;K"units\nightelf\Ent\Ent.mdl"
 C;X4;K0
 C;X5;K"Peasant"
@@ -22640,7 +22689,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y463;K"u037"
+C;X1;Y464;K"u037"
 C;X3;K"Doodads\Ruins\Rocks\Ruins_Rock\Ruins_Rock9.mdl"
 C;X4;K0
 C;X5;K
@@ -22689,7 +22738,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y464;K"u038"
+C;X1;Y465;K"u038"
 C;X3;K"units\undead\Ghoul\Ghoul.mdl"
 C;X4;K0
 C;X5;K
@@ -22738,7 +22787,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y465;K"u039"
+C;X1;Y466;K"u039"
 C;X3;K"buildings\demon\DemonGate\DemonGate.mdl"
 C;X4;K0
 C;X5;K
@@ -22787,7 +22836,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y466;K"u03A"
+C;X1;Y467;K"u03A"
 C;X3;K"buildings\other\GranaryInfected\GranaryInfected.mdl"
 C;X4;K0
 C;X5;K
@@ -22836,7 +22885,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y467;K"u03B"
+C;X1;Y468;K"u03B"
 C;X3;K"buildings\other\DragonBuilding\DragonBuilding.mdl"
 C;X4;K0
 C;X5;K
@@ -22885,7 +22934,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y468;K"u03C"
+C;X1;Y469;K"u03C"
 C;X3;K"buildings\other\DragonBuilding\DragonBuilding.mdl"
 C;X4;K0
 C;X5;K
@@ -22934,7 +22983,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y469;K"u03D"
+C;X1;Y470;K"u03D"
 C;X3;K"buildings\orc\AltarofStorms\AltarofStorms.mdl"
 C;X4;K0
 C;X5;K
@@ -22983,7 +23032,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y470;K"u03E"
+C;X1;Y471;K"u03E"
 C;X3;K"Doodads\Dungeon\Terrain\EggSack\EggSack0.mdl"
 C;X4;K0
 C;X5;K"Ziggurat"
@@ -23032,7 +23081,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y471;K"u03F"
+C;X1;Y472;K"u03F"
 C;X3;K"Units\Critters\Shoveler\Shoveler.mdl"
 C;X4;K0
 C;X5;K
@@ -23081,7 +23130,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y472;K"u040"
+C;X1;Y473;K"u040"
 C;X3;K"Units\Critters\SammyCube\SammyCube.mdl"
 C;X4;K0
 C;X5;K
@@ -23130,7 +23179,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y473;K"u041"
+C;X1;Y474;K"u041"
 C;X3;K"Units\Creeps\SeaElemental\SeaElemental"
 C;X4;K0
 C;X5;K"WaterElemental"
@@ -23179,7 +23228,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y474;K"u042"
+C;X1;Y475;K"u042"
 C;X3;K"Units\Critters\zergling\zergling"
 C;X4;K0
 C;X5;K"Zergling"
@@ -23228,7 +23277,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y475;K"u043"
+C;X1;Y476;K"u043"
 C;X3;K"units\critters\villagerkid\villagerkid.mdx"
 C;X4;K0
 C;X5;K"Acolyte"
@@ -23277,7 +23326,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y476;K"u044"
+C;X1;Y477;K"u044"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23326,7 +23375,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y477;K"u045"
+C;X1;Y478;K"u045"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23375,7 +23424,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y478;K"u046"
+C;X1;Y479;K"u046"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23424,7 +23473,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y479;K"u047"
+C;X1;Y480;K"u047"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23473,7 +23522,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y480;K"u048"
+C;X1;Y481;K"u048"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23522,7 +23571,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y481;K"u049"
+C;X1;Y482;K"u049"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23571,7 +23620,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y482;K"u04A"
+C;X1;Y483;K"u04A"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23620,7 +23669,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y483;K"u04B"
+C;X1;Y484;K"u04B"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23669,7 +23718,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y484;K"u04C"
+C;X1;Y485;K"u04C"
 C;X3;K"Objects\InventoryItems\QuestionMark\QuestionMark.mdl"
 C;X4;K0
 C;X5;K
@@ -23718,7 +23767,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y485;K"u04D"
+C;X1;Y486;K"u04D"
 C;X3;K"buildings\human\HumanTower\HumanTower"
 C;X4;K0
 C;X5;K
@@ -23767,7 +23816,7 @@ C;X47;K
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y486;K"uC13"
+C;X1;Y487;K"uC13"
 C;X3;K"units\human\Militia\Militia.mdl"
 C;X4;K0
 C;X5;K"OgreOneHead"
@@ -23816,7 +23865,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y487;K"uC43"
+C;X1;Y488;K"uC43"
 C;X3;K"units\creeps\BansheeGhost\BansheeGhost"
 C;X4;K0
 C;X5;K"Banshee"
@@ -23865,7 +23914,7 @@ C;X47;K50
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y488;K"uC45"
+C;X1;Y489;K"uC45"
 C;X3;K"units\creeps\Zombie\Zombie.mdl"
 C;X4;K0
 C;X5;K"Abomination"
@@ -23914,7 +23963,7 @@ C;X47;K95
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y489;K"uC71"
+C;X1;Y490;K"uC71"
 C;X3;K"units\creeps\NetherDragon\NetherDragon.mdl"
 C;X4;K0
 C;X5;K"FrostWyrm"
@@ -23963,7 +24012,7 @@ C;X47;K140
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y490;K"uC72"
+C;X1;Y491;K"uC72"
 C;X3;K"units\demon\Warlock\Warlock.mdl"
 C;X4;K0
 C;X5;K"HeroDreadLord"
@@ -24012,7 +24061,7 @@ C;X47;K60
 C;X48;K1
 C;X49;K0
 C;X50;K0
-C;X1;Y491;K"uC98"
+C;X1;Y492;K"uC98"
 C;X3;K"units\demon\DemonessBlue\DemonessBlue.mdl"
 C;X4;K0
 C;X5;K"Demoness"
