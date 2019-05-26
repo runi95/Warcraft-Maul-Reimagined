@@ -407,7 +407,7 @@ Tip=Train Aerial |cffffcc00W|rorker
 Ubertip="Aerial builder, can buld Air based buildings"
 EditorSuffix=Aviaries
 Buttonpos=0,0
-Builds=hC11,oC18,hC36,h005,h00Q,h00M,oC60,hC32,oC68,o00U
+Builds=hC11,oC18,hC36,h005,h00Q,h00M,oC60,oC68,o00U
 
 [eC38]
 Art=ReplaceableTextures\CommandButtons\BTNFacelessOne.blp
@@ -3924,7 +3924,7 @@ Hotkey=E
 Tip=Train Monk
 Ubertip="Summons Heros"
 Buttonpos=0,0
-Builds=h02X,h033,h032,h031,h034,h02Z,h02Y,h02W,h02U
+Builds=
 
 [n03W]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
